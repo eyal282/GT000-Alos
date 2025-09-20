@@ -1,0 +1,1041 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"#comment": "GT LevelScoringRules",
+	"version": 1,
+	"objects": [
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "Classic",
+				"MultiplierBaseDelayToDecay": 6,
+				"MultiplierBaseReductionByMultiple": 0.100000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.100000,
+				"MultiplierVisibleDecayPeriod": 1.500000,
+				"MultiplierDelayToDecayMinimum": 2,
+				"MultiplierAddWeightZombieLostHelm": 0,
+				"ScoreValueZombieLostHelmBase": 50,
+				"MultiplierAddWeightGravestoneDestroyed": 1,
+				"GravestoneDestroyed": 200,
+				"MultiplierAddWeightZombieKill": 1,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"ScorePctZombieLawnmower": 1,
+				"MultiplierPlantDiedPenaltyFraction": 0.340000,
+				"MultiplierPlantDiedPenaltyMinimum": 1,
+				"MultiplierMaximum": 200,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.200000,
+				"ScoreValueZombieKillPctPerLevel": 0.200000,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 250,
+							"mGreen": 200,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 255,
+							"mRed": 0
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 0,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 0,
+							"mRed": 0
+						}
+					}
+				]
+			}
+		},
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "ClassicFrenzy",
+				"MultiplierBaseDelayToDecay": 6,
+				"MultiplierBaseReductionByMultiple": 0.100000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.100000,
+				"MultiplierVisibleDecayPeriod": 1.500000,
+				"MultiplierDelayToDecayMinimum": 2,
+				"MultiplierAddWeightZombieLostHelm": 0.100000,
+				"ScoreValueZombieLostHelmBase": 50,
+				"MultiplierAddWeightGravestoneDestroyed": 0.200000,
+				"GravestoneDestroyed": 200,
+				"MultiplierAddWeightZombieKill": 0.300000,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"ScorePctZombieLawnmower": 0.000000,
+				"MultiplierPlantDiedPenaltyFraction": 0.340000,
+				"MultiplierPlantDiedPenaltyMinimum": 1,
+				"MultiplierMaximum": 200,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.200000,
+				"ScoreValueZombieKillPctPerLevel": 0.200000,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 1,
+						"ScoreEndScale": 1.200000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 250,
+							"mGreen": 200,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 255,
+							"mRed": 0
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 0,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 0,
+							"mRed": 0
+						}
+					}
+				],
+				"FrenzyMultiplierToActivate": 5,
+				"FrenzyMultiplier": 10,
+				"FrenzyDuration": 10,
+				"FrenzyCooldownDuration": 5
+			}
+		},
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "NoMultiplier",
+				"MultiplierBaseDelayToDecay": 0,
+				"MultiplierBaseReductionByMultiple": 0,
+				"MultiplierNextDelayToDecay": 0,
+				"MultiplierNextReductionByMultiple": 0,
+				"MultiplierVisibleDecayPeriod": 0,
+				"MultiplierDelayToDecayMinimum": 0,
+				"MultiplierAddWeightZombieLostHelm": 0,
+				"ScoreValueZombieLostHelmBase": 0,
+				"MultiplierAddWeightGravestoneDestroyed": 0,
+				"GravestoneDestroyed": 20,
+				"MultiplierAddWeightZombieKill": 0,
+				"ScoreValueZombieKillBase": 0,
+				"ScoreValueZombieKillPer300Health": 0,
+				"MultiplierPlantDiedPenaltyFraction": 0,
+				"MultiplierPlantDiedPenaltyMinimum": 0,
+				"MultiplierMaximum": 0,
+				"ScoreValueZombieLostHelmPctPerLevel": 0,
+				"ScoreValueZombieKillPctPerLevel": 0.200000,
+				"ScorePctZombieLawnmower": 0.000000,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreZOffset": 95,
+						"ScoreYVelocity": -10,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 255,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.700000,
+						"ScoreEndScale": 1.200000,
+						"ScoreZOffset": 105,
+						"ScoreYVelocity": -12,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 239,
+							"mGreen": 169,
+							"mRed": 109
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.900000,
+						"ScoreEndScale": 1.500000,
+						"ScoreZOffset": 115,
+						"ScoreYVelocity": -15,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 76,
+							"mGreen": 94,
+							"mRed": 188
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 1.200000,
+						"ScoreEndScale": 1.700000,
+						"ScoreZOffset": 125,
+						"ScoreYVelocity": -20,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 17,
+							"mGreen": 224,
+							"mRed": 254
+						}
+					}
+				],
+				"FrenzyMultiplierToActivate": 0,
+				"FrenzyMultiplier": 0,
+				"FrenzyDuration": 0,
+				"FrenzyCooldownDuration": 0
+			}
+		},
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "ZombossBattlez",
+				"MultiplierBaseDelayToDecay": 1,
+				"MultiplierBaseReductionByMultiple": 0.100000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.100000,
+				"MultiplierVisibleDecayPeriod": 1.500000,
+				"MultiplierDelayToDecayMinimum": 2,
+				"MultiplierAddWeightZombieLostHelm": 0.100000,
+				"MultiplierAddWeightZombossStageEnd": 100,
+				"ScoreValueZombieLostHelmBase": 50,
+				"ScoreValueZombieHelmPer300Health": 100,
+				"MultiplierAddWeightGravestoneDestroyed": 0.200000,
+				"GravestoneDestroyed": 200,
+				"MultiplierAddWeightZombieKill": 0.300000,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"MultiplierPlantDiedPenaltyFraction": 0.340000,
+				"MultiplierPlantDiedPenaltyMinimum": 1,
+				"MultiplierMaximum": 1,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.000000,
+				"ScoreValueZombieKillPctPerLevel": 0.000000,
+				"ScorePctZombieLawnmower": 0.000000,
+				"ScoreValueZombieBlownOffBoardKillBase": 100,
+				"ScoreValueZombieBlownOffBoardKillPer300Health": 100,
+				"ScoreValueZombieShrunkKillBase": 100,
+				"ScoreValueZombieShrunkKillPer300Health": 100,
+				"ScoreValueZombieHypnotizedKillBase": 100,
+				"ScoreValueZombieHypnotizedKillPer300Health": 100,
+				"DisplayScore": false,
+				"OverrideWidgetName": "UIZombossScoringSubsystem",
+				"UseMultiplierMeter": false,
+				"ScoreMultiplierZombossOnly": false,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreZOffset": 95,
+						"ScoreYVelocity": -10,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 255,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.700000,
+						"ScoreEndScale": 1.200000,
+						"ScoreZOffset": 105,
+						"ScoreYVelocity": -12,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 239,
+							"mGreen": 169,
+							"mRed": 109
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.900000,
+						"ScoreEndScale": 1.500000,
+						"ScoreZOffset": 115,
+						"ScoreYVelocity": -15,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 76,
+							"mGreen": 94,
+							"mRed": 188
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 1.200000,
+						"ScoreEndScale": 1.700000,
+						"ScoreZOffset": 125,
+						"ScoreYVelocity": -20,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 17,
+							"mGreen": 224,
+							"mRed": 254
+						}
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"LevelScoringRules"
+			],
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "Amac",
+				"MultiplierBaseDelayToDecay": 5,
+				"MultiplierBaseReductionByMultiple": 0.150000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.150000,
+				"MultiplierVisibleDecayPeriod": 1.500000,
+				"MultiplierDelayToDecayMinimum": 1.550000,
+				"MultiplierAddWeightZombieLostHelm": 1,
+				"MultiplierAddWeightGravestoneDestroyed": 0.250000,
+				"MultiplierAddWeightZombieKill": 1,
+				"MultiplierPlantDiedPenaltyFraction": 0.500000,
+				"MultiplierPlantDiedPenaltyMinimum": 1,
+				"MultiplierMaximum": 100,
+				"GravestoneDestroyed": 25,
+				"ScoreValueZombieLostHelmBase": 50,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"ScorePctZombieLawnmower": 1,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.200000,
+				"ScoreValueZombieKillPctPerLevel": 0.200000,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 250,
+							"mGreen": 200,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 255,
+							"mRed": 0
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 0,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 0,
+							"mRed": 0
+						}
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"LevelScoringRules"
+			],
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "Amac2",
+				"MultiplierBaseDelayToDecay": 5,
+				"MultiplierBaseReductionByMultiple": 0.250000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.250000,
+				"MultiplierVisibleDecayPeriod": 1,
+				"MultiplierDelayToDecayMinimum": 1.050000,
+				"MultiplierAddWeightZombieLostHelm": 0.500000,
+				"MultiplierAddWeightGravestoneDestroyed": 0.250000,
+				"MultiplierAddWeightZombieKill": 0.500000,
+				"MultiplierPlantDiedPenaltyFraction": 1,
+				"MultiplierPlantDiedPenaltyMinimum": 1,
+				"MultiplierMaximum": 10,
+				"GravestoneDestroyed": 100,
+				"ScoreValueZombieLostHelmBase": 250,
+				"ScoreValueZombieKillBase": 500,
+				"ScoreValueZombieKillPer300Health": 500,
+				"ScorePctZombieLawnmower": 1,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.200000,
+				"ScoreValueZombieKillPctPerLevel": 0.200000,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 250,
+							"mGreen": 200,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 255,
+							"mRed": 0
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 0,
+							"mGreen": 0,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 2,
+						"ScoreFadeOutTime": 0.500000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 0,
+							"mRed": 0
+						}
+					}
+				]
+			}
+		},
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "Battlez",
+				"DisplayScore": false,
+				"UseMultiplierMeter": false,
+				"MultiplierBaseDelayToDecay": 1,
+				"MultiplierBaseReductionByMultiple": 0.100000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.100000,
+				"MultiplierVisibleDecayPeriod": 1.500000,
+				"MultiplierDelayToDecayMinimum": 2,
+				"MultiplierAddWeightZombieLostHelm": 0.100000,
+				"ScoreValueZombieLostHelmBase": 50,
+				"ScoreValueZombieHelmPer300Health": 100,
+				"MultiplierAddWeightGravestoneDestroyed": 0.200000,
+				"GravestoneDestroyed": 200,
+				"MultiplierAddWeightZombieKill": 0.300000,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"MultiplierPlantDiedPenaltyFraction": 0.340000,
+				"MultiplierPlantDiedPenaltyMinimum": 1,
+				"MultiplierMaximum": 1,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.000000,
+				"ScoreValueZombieKillPctPerLevel": 0.000000,
+				"ScorePctZombieLawnmower": 0.000000,
+				"ScoreValueZombieBlownOffBoardKillBase": 100,
+				"ScoreValueZombieBlownOffBoardKillPer300Health": 100,
+				"ScoreValueZombieShrunkKillBase": 100,
+				"ScoreValueZombieShrunkKillPer300Health": 100,
+				"ScoreValueZombieHypnotizedKillBase": 100,
+				"ScoreValueZombieHypnotizedKillPer300Health": 100,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreZOffset": 95,
+						"ScoreYVelocity": -10,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 255,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.700000,
+						"ScoreEndScale": 1.200000,
+						"ScoreZOffset": 105,
+						"ScoreYVelocity": -12,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 239,
+							"mGreen": 169,
+							"mRed": 109
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.900000,
+						"ScoreEndScale": 1.500000,
+						"ScoreZOffset": 115,
+						"ScoreYVelocity": -15,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 76,
+							"mGreen": 94,
+							"mRed": 188
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 1.200000,
+						"ScoreEndScale": 1.700000,
+						"ScoreZOffset": 125,
+						"ScoreYVelocity": -20,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 17,
+							"mGreen": 224,
+							"mRed": 254
+						}
+					}
+				],
+				"FrenzyMultiplierToActivate": 5,
+				"FrenzyMultiplier": 10,
+				"FrenzyDuration": 10,
+				"FrenzyCooldownDuration": 5
+			}
+		},
+		{
+			"objclass": "DifficultyScalingRules",
+			"objdata": {
+				"TypeName": "DifficultyTest",
+				"LevelFactorBaseDelayToDecay": 1,
+				"LevelFactorDecayContinuesToNextFactor": true,
+				"LevelFactorDecayProgressAmount": 0.300000,
+				"LevelFactorBaseReductionByMultiple": 0.100000,
+				"LevelFactorNextDelayToDecay": 2,
+				"LevelFactorNextReductionByMultiple": 0.100000,
+				"LevelFactorVisibleDecayPeriod": 1.500000,
+				"LevelFactorDelayToDecayMinimum": 2,
+				"LevelFactorMaximum": 20,
+				"LevelFactorStart": 0,
+				"LevelFactorAddPctReductionPerLevel": 0.100000,
+				"LevelFactorAddWeightZombieLostHelm": 0,
+				"LevelFactorAddWeightGravestoneDestroyed": 0,
+				"LevelFactorAddWeightZombieKill": 0.300000,
+				"LevelFactorAddWeightZombieKillLifetimeStepDecrease": 0.010000,
+				"LevelFactorAddWeightZombieKillLifetimeStepSeconds": 5,
+				"LevelFactorAddWeightZombieKillPctIncreasePerLevel": 0.100000,
+				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0.600000,
+				"LevelFactorLawnmowerDiedPenaltyMinimum": 1,
+				"LevelFactorAddWeightZombossStageEnd": 0,
+				"LevelFactorPlantDiedPenaltyFraction": 0.300000,
+				"LevelFactorPlantDiedPenaltyMinimum": 0.100000,
+				"PlantDiedOverrides": [
+					{
+						"ScalePct": "0.5",
+						"Types": [
+							"wallnut",
+							"potatomine",
+							"spikeweed",
+							"springbean",
+							"spikerock",
+							"squash",
+							"tallnut",
+							"holonut",
+							"peanut",
+							"chardguard",
+							"endurian",
+							"celerystalker",
+							"garlic",
+							"primalwallnut",
+							"grimrose",
+							"shadowshroom",
+							"iceburg",
+							"primalpotatomine",
+							"explodeonut",
+							"hollyknight",
+							"sweetpotato",
+							"chilibean",
+							"shrinkingviolet",
+							"hypnoshroom",
+							"hotdate",
+							"sunbean",
+							"imppear",
+							"torchwood",
+							"pumpkin"
+						]
+					},
+					{
+						"ScalePct": "1",
+						"Types": [
+							"sunflower",
+							"twinsunflower",
+							"sunshroom",
+							"primalsunflower"
+						]
+					}
+				]
+			}
+		},
+		{
+			"objclass": "DifficultyScalingRules",
+			"objdata": {
+				"TypeName": "DifficultyTestHighDecay",
+				"LevelFactorBaseDelayToDecay": 1,
+				"LevelFactorDecayContinuesToNextFactor": true,
+				"LevelFactorDecayProgressAmount": 0.500000,
+				"LevelFactorBaseReductionByMultiple": 0.100000,
+				"LevelFactorNextDelayToDecay": 2,
+				"LevelFactorNextReductionByMultiple": 0.100000,
+				"LevelFactorVisibleDecayPeriod": 1.500000,
+				"LevelFactorDelayToDecayMinimum": 2,
+				"LevelFactorMaximum": 20,
+				"LevelFactorStart": 0,
+				"LevelFactorAddPctReductionPerLevel": 0.100000,
+				"LevelFactorAddWeightZombieLostHelm": 0,
+				"LevelFactorAddWeightGravestoneDestroyed": 0,
+				"LevelFactorAddWeightZombieKill": 0.400000,
+				"LevelFactorAddWeightZombieKillLifetimeStepDecrease": 0.010000,
+				"LevelFactorAddWeightZombieKillLifetimeStepSeconds": 5,
+				"LevelFactorAddWeightZombieKillPctIncreasePerLevel": 0.100000,
+				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0.200000,
+				"LevelFactorLawnmowerDiedPenaltyMinimum": 1,
+				"LevelFactorAddWeightZombossStageEnd": 0,
+				"LevelFactorPlantDiedPenaltyFraction": 0.300000,
+				"LevelFactorPlantDiedPenaltyMinimum": 1,
+				"LevelFactorFriendlyZombieDiedPenaltyFraction": 0,
+				"LevelFactorFriendlyZombieDiedPenaltyMinimum": 0,
+				"PlantDiedOverrides": [
+					{
+						"ScalePct": "0.0",
+						"Types": [
+							"wallnut",
+							"potatomine",
+							"spikeweed",
+							"springbean",
+							"spikerock",
+							"squash",
+							"tallnut",
+							"holonut",
+							"peanut",
+							"chardguard",
+							"endurian",
+							"celerystalker",
+							"garlic",
+							"primalwallnut",
+							"primalpotatomine",
+							"explodeonut",
+							"hollyknight",
+							"sweetpotato",
+							"chilibean",
+							"shrinkingviolet",
+							"hypnoshroom",
+							"hotdate",
+							"sunbean",
+							"electricitea",
+							"imppear",
+							"torchwood",
+							"pumpkin",
+							"gumnut",
+							"tumbleweed",
+							"murkadamia",
+							"explodeovine",
+							"solarsage",
+							"teleportatomine",
+							"heathseeker",
+							"noctarine",
+							"iceweed",
+							"blockoli",
+							"bramblebush"
+						]
+					},
+					{
+						"ScalePct": "1",
+						"Types": [
+							"sunflower",
+							"twinsunflower",
+							"sunshroom",
+							"primalsunflower",
+							"moonflower"
+						]
+					}
+				]
+			}
+		},
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "Rift",
+				"TextFormat": "score_only",
+				"MultiplierBaseDelayToDecay": 5,
+				"MultiplierBaseReductionByMultiple": 0.250000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.150000,
+				"MultiplierVisibleDecayPeriod": 1,
+				"MultiplierDelayToDecayMinimum": 1,
+				"MultiplierAddWeightZombieLostHelm": 0,
+				"ScoreValueZombieLostHelmBase": 100,
+				"ScoreValueZombieHelmPer300Health": 100,
+				"MultiplierAddWeightGravestoneDestroyed": 0.050000,
+				"GravestoneDestroyed": 200,
+				"MultiplierAddWeightZombieKill": 0.100000,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"MultiplierPlantDiedPenaltyFraction": 0,
+				"MultiplierPlantDiedPenaltyMinimum": 0,
+				"MultiplierMaximum": 10,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.000000,
+				"ScoreValueZombieKillPctPerLevel": 0.000000,
+				"ScorePctZombieLawnmower": 0.000000,
+				"ScoreValueZombieBlownOffBoardKillBase": 100,
+				"ScoreValueZombieBlownOffBoardKillPer300Health": 0,
+				"ScoreValueZombieShrunkKillBase": 100,
+				"ScoreValueZombieShrunkKillPer300Health": 0,
+				"ScoreValueZombieHypnotizedKillBase": 100,
+				"ScoreValueZombieHypnotizedKillPer300Health": 0,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreZOffset": 95,
+						"ScoreYVelocity": -10,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 255,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.700000,
+						"ScoreEndScale": 1.200000,
+						"ScoreZOffset": 105,
+						"ScoreYVelocity": -12,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 239,
+							"mGreen": 169,
+							"mRed": 109
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.900000,
+						"ScoreEndScale": 1.500000,
+						"ScoreZOffset": 115,
+						"ScoreYVelocity": -15,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 76,
+							"mGreen": 94,
+							"mRed": 188
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 1.200000,
+						"ScoreEndScale": 1.700000,
+						"ScoreZOffset": 125,
+						"ScoreYVelocity": -20,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 17,
+							"mGreen": 224,
+							"mRed": 254
+						}
+					}
+				],
+				"FrenzyMultiplierToActivate": 6,
+				"FrenzyMultiplier": 10,
+				"FrenzyDuration": 3,
+				"FrenzyCooldownDuration": 5
+			}
+		},
+		{
+			"objclass": "LevelScoringRules",
+			"objdata": {
+				"TypeName": "Rift_CannonMinigame",
+				"TextFormat": "score_only",
+				"MultiplierBaseDelayToDecay": 5,
+				"MultiplierBaseReductionByMultiple": 0.100000,
+				"MultiplierNextDelayToDecay": 3,
+				"MultiplierNextReductionByMultiple": 0.100000,
+				"MultiplierVisibleDecayPeriod": 1.500000,
+				"MultiplierDelayToDecayMinimum": 2,
+				"MultiplierAddWeightZombieLostHelm": 0,
+				"ScoreValueZombieLostHelmBase": 100,
+				"ScoreValueZombieHelmPer300Health": 100,
+				"MultiplierAddWeightGravestoneDestroyed": 0.050000,
+				"GravestoneDestroyed": 200,
+				"MultiplierAddWeightZombieKill": 0.100000,
+				"ScoreValueZombieKillBase": 100,
+				"ScoreValueZombieKillPer300Health": 100,
+				"MultiplierPlantDiedPenaltyFraction": 0,
+				"MultiplierPlantDiedPenaltyMinimum": 0,
+				"MultiplierMaximum": 5,
+				"ScoreValueZombieLostHelmPctPerLevel": 0.000000,
+				"ScoreValueZombieKillPctPerLevel": 0.000000,
+				"ScorePctZombieLawnmower": 0.000000,
+				"ScoreValueZombieBlownOffBoardKillBase": 100,
+				"ScoreValueZombieBlownOffBoardKillPer300Health": 0,
+				"ScoreValueZombieShrunkKillBase": 100,
+				"ScoreValueZombieShrunkKillPer300Health": 0,
+				"ScoreValueZombieHypnotizedKillBase": 100,
+				"ScoreValueZombieHypnotizedKillPer300Health": 0,
+				"ScoreDisplayModifiers": [
+					{
+						"ScoreMultiplierMinimum": 1.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.500000,
+						"ScoreEndScale": 1.000000,
+						"ScoreZOffset": 95,
+						"ScoreYVelocity": -10,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 255,
+							"mGreen": 255,
+							"mRed": 255
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 2.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.700000,
+						"ScoreEndScale": 1.200000,
+						"ScoreZOffset": 105,
+						"ScoreYVelocity": -12,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 239,
+							"mGreen": 169,
+							"mRed": 109
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 3.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 0.900000,
+						"ScoreEndScale": 1.500000,
+						"ScoreZOffset": 115,
+						"ScoreYVelocity": -15,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 76,
+							"mGreen": 94,
+							"mRed": 188
+						}
+					},
+					{
+						"ScoreMultiplierMinimum": 5.000000,
+						"ScoreAwardDisplayTime": 0.700000,
+						"ScoreFadeOutTime": 0.250000,
+						"ScoreScale": 1.200000,
+						"ScoreEndScale": 1.700000,
+						"ScoreZOffset": 125,
+						"ScoreYVelocity": -20,
+						"ScoreColor": {
+							"mAlpha": 255,
+							"mBlue": 17,
+							"mGreen": 224,
+							"mRed": 254
+						}
+					}
+				],
+				"FrenzyMultiplierToActivate": 6,
+				"FrenzyMultiplier": 10,
+				"FrenzyDuration": 3,
+				"FrenzyCooldownDuration": 5
+			}
+		},
+		{
+			"objclass": "DifficultyScalingRules",
+			"objdata": {
+				"TypeName": "RiftDifficulty",
+				"LevelFactorBaseDelayToDecay": 0,
+				"LevelFactorDecayContinuesToNextFactor": true,
+				"LevelFactorDecayProgressAmount": 0,
+				"LevelFactorBaseReductionByMultiple": 0,
+				"LevelFactorNextDelayToDecay": 0,
+				"LevelFactorNextReductionByMultiple": 0,
+				"LevelFactorVisibleDecayPeriod": 0,
+				"LevelFactorDelayToDecayMinimum": 0,
+				"LevelFactorMaximum": 0,
+				"LevelFactorStart": 0,
+				"LevelFactorAddPctReductionPerLevel": 0,
+				"LevelFactorAddWeightZombieLostHelm": 0,
+				"LevelFactorAddWeightGravestoneDestroyed": 0,
+				"LevelFactorAddWeightZombieKill": 0,
+				"LevelFactorAddWeightZombieKillLifetimeStepDecrease": 0,
+				"LevelFactorAddWeightZombieKillLifetimeStepSeconds": 0,
+				"LevelFactorAddWeightZombieKillPctIncreasePerLevel": 0,
+				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0,
+				"LevelFactorLawnmowerDiedPenaltyMinimum": 0,
+				"LevelFactorAddWeightZombossStageEnd": 0,
+				"LevelFactorPlantDiedPenaltyFraction": 0,
+				"LevelFactorPlantDiedPenaltyMinimum": 0,
+				"LevelFactorFriendlyZombieDiedPenaltyFraction": 0,
+				"LevelFactorFriendlyZombieDiedPenaltyMinimum": 0,
+				"PlantDiedOverrides": []
+			}
+		},
+		{
+			"objclass": "DifficultyScalingRules",
+			"objdata": {
+				"TypeName": "NoLevelingIncrease",
+				"LevelFactorBaseDelayToDecay": 0,
+				"LevelFactorDecayContinuesToNextFactor": true,
+				"LevelFactorDecayProgressAmount": 0,
+				"LevelFactorBaseReductionByMultiple": 0,
+				"LevelFactorNextDelayToDecay": 0,
+				"LevelFactorNextReductionByMultiple": 0,
+				"LevelFactorVisibleDecayPeriod": 0,
+				"LevelFactorDelayToDecayMinimum": 0,
+				"LevelFactorMaximum": 0,
+				"LevelFactorStart": 0,
+				"LevelFactorAddPctReductionPerLevel": 0,
+				"LevelFactorAddWeightZombieLostHelm": 0,
+				"LevelFactorAddWeightGravestoneDestroyed": 0,
+				"LevelFactorAddWeightZombieKill": 0,
+				"LevelFactorAddWeightZombieKillLifetimeStepDecrease": 0,
+				"LevelFactorAddWeightZombieKillLifetimeStepSeconds": 0,
+				"LevelFactorAddWeightZombieKillPctIncreasePerLevel": 0,
+				"LevelFactorLawnmowerTriggeredPenaltyFraction": 0,
+				"LevelFactorLawnmowerDiedPenaltyMinimum": 0,
+				"LevelFactorAddWeightZombossStageEnd": 0,
+				"LevelFactorPlantDiedPenaltyFraction": 0,
+				"LevelFactorPlantDiedPenaltyMinimum": 0,
+				"LevelFactorFriendlyZombieDiedPenaltyFraction": 0,
+				"LevelFactorFriendlyZombieDiedPenaltyMinimum": 0,
+				"PlantDiedOverrides": []
+			}
+		}
+	]
+}

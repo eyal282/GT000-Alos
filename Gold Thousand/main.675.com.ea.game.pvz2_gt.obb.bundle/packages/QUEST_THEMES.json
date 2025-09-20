@@ -1,0 +1,407 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"#comment": "GT QuestThemes",
+	"version": 1,
+	"objects": [
+		{
+			"aliases": [
+				"Default"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Default",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_MISCCHALLENGE"
+			}
+		},
+		{
+			"aliases": [
+				"Misc"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Misc",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_MISC"
+			}
+		},
+		{
+			"aliases": [
+				"Gargantuar"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Gargantuar",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_GARGANTUAR"
+			}
+		},
+		{
+			"aliases": [
+				"Eighties"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Eighties",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_80S"
+			}
+		},
+		{
+			"aliases": [
+				"Ash"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Ash",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_ASH"
+			}
+		},
+		{
+			"aliases": [
+				"Beach"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Beach",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_BIGWAVEBEACH"
+			}
+		},
+		{
+			"aliases": [
+				"Dark"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Dark",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_DARKAGES"
+			}
+		},
+		{
+			"aliases": [
+				"Egypt"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Egypt",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_EGYPT"
+			}
+		},
+		{
+			"aliases": [
+				"Electrocute"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Electrocute",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_ELECTROCUTE"
+			}
+		},
+		{
+			"aliases": [
+				"Future"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Future",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_FARFUTURE"
+			}
+		},
+		{
+			"aliases": [
+				"Iceage"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Iceage",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_FROSTBITECAVES"
+			}
+		},
+		{
+			"aliases": [
+				"Dino"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Dino",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_JURASSICMARSH"
+			}
+		},
+		{
+			"aliases": [
+				"Knockback"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Knockback",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KNOCKBACK"
+			}
+		},
+		{
+			"aliases": [
+				"LostCity"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "LostCity",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_LOSTCITY"
+			}
+		},
+		{
+			"aliases": [
+				"Modern"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Modern",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_MODERN"
+			}
+		},
+		{
+			"aliases": [
+				"Pirate"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Pirate",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_PIRATE"
+			}
+		},
+		{
+			"aliases": [
+				"Refrigerate"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Refrigerate",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_FREEZE"
+			}
+		},
+		{
+			"aliases": [
+				"Stunned"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Stunned",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_STUN"
+			}
+		},
+		{
+			"aliases": [
+				"Cowboy"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Cowboy",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_WILDWEST"
+			}
+		},
+		{
+			"aliases": [
+				"Roman"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Roman",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_ROMAN"
+			}
+		},
+		{
+			"aliases": [
+				"Yeti"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Yeti",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KYETI"
+			}
+		},
+		{
+			"aliases": [
+				"Adventure"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Adventure",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_ADVENTURE"
+			}
+		},
+		{
+			"aliases": [
+				"Chill"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Chill",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_CHILL"
+			}
+		},
+		{
+			"aliases": [
+				"Invincible"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Invincible",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_INVINCIBLE"
+			}
+		},
+		{
+			"aliases": [
+				"Butter"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Butter",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_BUTTER"
+			}
+		},
+		{
+			"aliases": [
+				"Poison"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Poison",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_POISON"
+			}
+		},
+		{
+			"aliases": [
+				"SunBeaned"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "SunBeaned",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_SUN"
+			}
+		},
+		{
+			"aliases": [
+				"Hypnotize"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Hypnotize",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_HYPNO"
+			}
+		},
+		{
+			"aliases": [
+				"Sapped"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Sapped",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_SAP"
+			}
+		},
+		{
+			"aliases": [
+				"Stalled"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Stalled",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_STALL"
+			}
+		},
+		{
+			"aliases": [
+				"Shrink"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Shrink",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_SHRINK"
+			}
+		},
+		{
+			"aliases": [
+				"Haunted"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "Haunted",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_HAUNTED"
+			}
+		},
+		{
+			"aliases": [
+				"KillImp"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillImp",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KIMP"
+			}
+		},
+		{
+			"aliases": [
+				"KillA0"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillA0",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KA0"
+			}
+		},
+		{
+			"aliases": [
+				"KillA1"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillA1",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KA1"
+			}
+		},
+		{
+			"aliases": [
+				"KillA2"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillA2",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KA2"
+			}
+		},
+		{
+			"aliases": [
+				"KillA3"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillA3",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KA3"
+			}
+		},
+		{
+			"aliases": [
+				"KillAnimal"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillAnimal",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KANIMAL"
+			}
+		},
+		{
+			"aliases": [
+				"KillSpeedy"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillSpeedy",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KFAST"
+			}
+		},
+		{
+			"aliases": [
+				"KillSlow"
+			],
+			"objclass": "QuestThemeProps",
+			"objdata": {
+				"Name": "KillSlow",
+				"PanelIcon": "IMAGE_UI_QUESTS_QUESTICONS_KSLOW"
+			}
+		}
+	]
+}

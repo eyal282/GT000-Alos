@@ -1,0 +1,22 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"#comment": "GT AllowedUniversalLinks",
+	"version": 1,
+	"objects": [
+		{
+			"objclass": "UniversalLinkTranslationPropertySheet",
+			"aliases": [
+				"AllowedUniversaLinks"
+			],
+			"objdata": {
+				"Version": 1,
+				"Entries": [
+					{
+						"UniversalLink": "adventure",
+						"AppAction": "deeplink:egypt"
+					}
+				]
+			}
+		}
+	]
+}

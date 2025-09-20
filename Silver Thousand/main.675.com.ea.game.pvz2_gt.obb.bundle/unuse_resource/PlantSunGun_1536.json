@@ -1,0 +1,387 @@
+{
+	"type": "1536",
+	"packet": {
+		"ATLASIMAGE_ATLAS_PLANTSUNGUN_1536_00": {
+			"type": "Image",
+			"path": "atlases/PlantSunGun_1536_00",
+			"dimension": {
+				"width": 1024,
+				"height": 1024
+			},
+			"data": {
+				"IMAGE_PLANT_SUNGUN_SUNGUN_101X108": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_101x108",
+					"default": {
+						"ax": 348,
+						"ay": 149,
+						"aw": 130,
+						"ah": 138,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_10X13": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_10x13",
+					"default": {
+						"ax": 496,
+						"ay": 1,
+						"aw": 13,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_114X114": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_114x114",
+					"default": {
+						"ax": 348,
+						"ay": 1,
+						"aw": 146,
+						"ah": 146,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_12X17": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_12x17",
+					"default": {
+						"ax": 480,
+						"ay": 249,
+						"aw": 16,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_130X130": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_130x130",
+					"default": {
+						"ax": 229,
+						"ay": 348,
+						"aw": 167,
+						"ah": 167,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_14X19": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_14x19",
+					"default": {
+						"ax": 480,
+						"ay": 203,
+						"aw": 18,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_16X22": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_16x22",
+					"default": {
+						"ax": 480,
+						"ay": 173,
+						"aw": 21,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_176X176": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_176x176",
+					"default": {
+						"ax": 1,
+						"ay": 348,
+						"aw": 226,
+						"ah": 226,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_19X13": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_19x13",
+					"default": {
+						"ax": 480,
+						"ay": 230,
+						"aw": 25,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_22X17": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_22x17",
+					"default": {
+						"ax": 480,
+						"ay": 149,
+						"aw": 28,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_269X269": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_269x269",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 345,
+						"ah": 345,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_28X38": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_28x38",
+					"default": {
+						"ax": 348,
+						"ay": 289,
+						"aw": 36,
+						"ah": 49,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_36X19": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_36x19",
+					"default": {
+						"ax": 335,
+						"ay": 719,
+						"aw": 46,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_40X22": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_40x22",
+					"default": {
+						"ax": 280,
+						"ay": 665,
+						"aw": 51,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_41X23": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_41x23",
+					"default": {
+						"ax": 280,
+						"ay": 633,
+						"aw": 53,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_43X43": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_43x43",
+					"default": {
+						"ax": 451,
+						"ay": 519,
+						"aw": 55,
+						"ah": 55,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_44X28": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_44x28",
+					"default": {
+						"ax": 451,
+						"ay": 576,
+						"aw": 57,
+						"ah": 36,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_53X54": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_53x54",
+					"default": {
+						"ax": 107,
+						"ay": 673,
+						"aw": 68,
+						"ah": 69,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_56X32": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_56x32",
+					"default": {
+						"ax": 261,
+						"ay": 716,
+						"aw": 72,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_61X63": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_61x63",
+					"default": {
+						"ax": 200,
+						"ay": 633,
+						"aw": 78,
+						"ah": 81,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_63X37": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_63x37",
+					"default": {
+						"ax": 427,
+						"ay": 716,
+						"aw": 81,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_64X37": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_64x37",
+					"default": {
+						"ax": 1,
+						"ay": 682,
+						"aw": 82,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_64X37_2": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_64x37_2",
+					"default": {
+						"ax": 177,
+						"ay": 716,
+						"aw": 82,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_64X65": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_64x65",
+					"default": {
+						"ax": 427,
+						"ay": 631,
+						"aw": 82,
+						"ah": 83,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_67X67": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_67x67",
+					"default": {
+						"ax": 339,
+						"ay": 631,
+						"aw": 86,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_71X74": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_71x74",
+					"default": {
+						"ax": 107,
+						"ay": 576,
+						"aw": 91,
+						"ah": 95,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_81X81": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_81x81",
+					"default": {
+						"ax": 1,
+						"ay": 576,
+						"aw": 104,
+						"ah": 104,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_84X89": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_84x89",
+					"default": {
+						"ax": 229,
+						"ay": 517,
+						"aw": 108,
+						"ah": 114,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_86X86": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_86x86",
+					"default": {
+						"ax": 339,
+						"ay": 519,
+						"aw": 110,
+						"ah": 110,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_88X88": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_88x88",
+					"default": {
+						"ax": 398,
+						"ay": 289,
+						"aw": 113,
+						"ah": 113,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_88X88_2": {
+					"type": "Image",
+					"path": "images/1536/plant1/plant/sungun/sungun_88x88_2",
+					"default": {
+						"ax": 398,
+						"ay": 404,
+						"aw": 113,
+						"ah": 113,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

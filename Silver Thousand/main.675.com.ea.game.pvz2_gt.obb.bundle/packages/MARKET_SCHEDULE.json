@@ -1,0 +1,1582 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"#comment": "GT MarketSchedule",
+	"objects": [
+		{
+			"aliases": [
+				"MainMarketSchedule"
+			],
+			"objclass": "MarketScheduleProps",
+			"objdata": {
+				"MarketScheduleEntries": [
+					{
+						"StartDateTime": 1676505601,
+						"EndDateTime": 4832179201,
+						"Name": "Event store",
+						"ScheduledProducts": [
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": 3,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_dup_nut",
+									"com.popcap.pvz2.pinata.event_dup_nut"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": 3,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_dup_icebloom",
+									"com.popcap.pvz2.pinata.event_dup_icebloom"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": 5,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_dup_gloomvine",
+									"com.popcap.pvz2.pinata.event_dup_gloomvine"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": 10,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_dup_ultomato",
+									"com.popcap.pvz2.pinata.event_dup_ultomato"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_pea_rate_up",
+									"com.popcap.pvz2.pinata.event_pea_rate_up"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_trainer_pea",
+									"com.popcap.pvz2.pinata.event_trainer_pea"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_trainer_mine",
+									"com.popcap.pvz2.pinata.event_trainer_mine"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_trainer_pult",
+									"com.popcap.pvz2.pinata.event_trainer_pult"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_trainer_all",
+									"com.popcap.pvz2.pinata.event_trainer_all"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_random_all",
+									"com.popcap.pvz2.pinata.event_random_all"
+								]
+							},
+							{
+								"Category": "Promoted Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "NewPlant",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": 1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.event_random_risky",
+									"com.popcap.pvz2.pinata.event_random_risky"
+								]
+							},
+							{
+								"Category": "New Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.event_coins",
+									"com.popcap.pvz2.event_coins"
+								]
+							},
+							{
+								"Category": "New Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.event_gems_1",
+									"com.popcap.pvz2.event_gems_1"
+								]
+							},
+							{
+								"Category": "New Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.event_gems_2",
+									"com.popcap.pvz2.event_gems_2"
+								]
+							},
+							{
+								"Category": "New Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.event_gems_3",
+									"com.popcap.pvz2.event_gems_3"
+								]
+							}
+						]
+					},
+					{
+						"EndDateTime": 0,
+						"Name": "Plants store",
+						"ScheduledProducts": [
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.lilypad",
+									"com.popcap.pvz2.plant.lilypad"
+								]
+							},
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.sunshroom",
+									"com.popcap.pvz2.plant.sunshroom"
+								]
+							},
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.imitater",
+									"com.popcap.pvz2.plant.imitater"
+								]
+							},
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.unused_43",
+									"com.popcap.pvz2.plant.unused_43"
+								]
+							},
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.unused_45",
+									"com.popcap.pvz2.plant.unused_45"
+								]
+							},
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.concealmint",
+									"com.popcap.pvz2.plant.concealmint"
+								]
+							},
+							{
+								"Category": "Plants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.plant.teleportatomine",
+									"com.popcap.pvz2.plant.teleportatomine"
+								]
+							}
+						],
+						"StartDateTime": 0
+					},
+					{
+						"EndDateTime": 0,
+						"Name": "Super Plants store",
+						"ScheduledProducts": [
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.spea_small",
+									"com.popcap.pvz2.pinata.spea_small"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.spea_big",
+									"com.popcap.pvz2.pinata.spea_big"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.scabbage_small",
+									"com.popcap.pvz2.pinata.scabbage_small"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.scabbage_big",
+									"com.popcap.pvz2.pinata.scabbage_big"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.spotato_small",
+									"com.popcap.pvz2.pinata.spotato_small"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.spotato_big",
+									"com.popcap.pvz2.pinata.spotato_big"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_super",
+									"com.popcap.pvz2.pinata.random_super"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.500",
+									"com.popcap.pvz2.costume.500"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.501",
+									"com.popcap.pvz2.costume.501"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.505",
+									"com.popcap.pvz2.costume.505"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.506",
+									"com.popcap.pvz2.costume.506"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.507",
+									"com.popcap.pvz2.costume.507"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.508",
+									"com.popcap.pvz2.costume.508"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.509",
+									"com.popcap.pvz2.costume.509"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.511",
+									"com.popcap.pvz2.costume.511"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.512",
+									"com.popcap.pvz2.costume.512"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.513",
+									"com.popcap.pvz2.costume.513"
+								]
+							},
+							{
+								"Category": "SuperPlants",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.costume.514",
+									"com.popcap.pvz2.costume.514"
+								]
+							}
+						],
+						"StartDateTime": 0
+					},
+					{
+						"EndDateTime": 0,
+						"Name": "Pinatas store",
+						"ScheduledProducts": [
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.common_10",
+									"com.popcap.pvz2.pinata.common_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier3_10",
+									"com.popcap.pvz2.pinata.tier3_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier4_10",
+									"com.popcap.pvz2.pinata.tier4_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier5_10",
+									"com.popcap.pvz2.pinata.tier5_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.common_75",
+									"com.popcap.pvz2.pinata.common_75"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier1_dup",
+									"com.popcap.pvz2.pinata.tier1_dup"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier2_dup",
+									"com.popcap.pvz2.pinata.tier2_dup"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier3_dup",
+									"com.popcap.pvz2.pinata.tier3_dup"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier4_dup",
+									"com.popcap.pvz2.pinata.tier4_dup"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier5_dup",
+									"com.popcap.pvz2.pinata.tier5_dup"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_common_30",
+									"com.popcap.pvz2.pinata.random_common_30"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_common_100",
+									"com.popcap.pvz2.pinata.random_common_100"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_rare_30",
+									"com.popcap.pvz2.pinata.random_rare_30"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_rare_100",
+									"com.popcap.pvz2.pinata.random_rare_100"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.gems_tier3_10",
+									"com.popcap.pvz2.pinata.gems_tier3_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.gems_tier4_10",
+									"com.popcap.pvz2.pinata.gems_tier4_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.gems_tier5_10",
+									"com.popcap.pvz2.pinata.gems_tier5_10"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_all_small",
+									"com.popcap.pvz2.pinata.random_all_small"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_all_big",
+									"com.popcap.pvz2.pinata.random_all_big"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_risky_small",
+									"com.popcap.pvz2.pinata.random_risky_small"
+								]
+							},
+							{
+								"Category": "Pinatas",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.random_risky_big",
+									"com.popcap.pvz2.pinata.random_risky_big"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.tier6",
+									"com.popcap.pvz2.pinata.tier6"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.enchantmint",
+									"com.popcap.pvz2.pinata.enchantmint"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.enforcemint",
+									"com.popcap.pvz2.pinata.enforcemint"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.armamint",
+									"com.popcap.pvz2.pinata.armamint"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.filamint",
+									"com.popcap.pvz2.pinata.filamint"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.appeasemint",
+									"com.popcap.pvz2.pinata.appeasemint"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.boomflower",
+									"com.popcap.pvz2.pinata.boomflower"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.mint_all",
+									"com.popcap.pvz2.pinata.mint_all"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.mint_risky",
+									"com.popcap.pvz2.pinata.mint_risky"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.mint_common_small",
+									"com.popcap.pvz2.pinata.mint_common_small"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.mint_rare_small",
+									"com.popcap.pvz2.pinata.mint_rare_small"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.mint_common_big",
+									"com.popcap.pvz2.pinata.mint_common_big"
+								]
+							},
+							{
+								"Category": "PinatasMints",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.pinata.mint_rare_big",
+									"com.popcap.pvz2.pinata.mint_rare_big"
+								]
+							}
+						],
+						"StartDateTime": 0
+					},
+					{
+						"EndDateTime": 0,
+						"Name": "Upgrades store",
+						"ScheduledProducts": [
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.valuable_mowers",
+									"com.popcap.pvz2.gameupgrade.valuable_mowers"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.7_slots",
+									"com.popcap.pvz2.gameupgrade.7_slots"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.seedslot2",
+									"com.popcap.pvz2.gameupgrade.seedslot2"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.pf_slots_lvl1",
+									"com.popcap.pvz2.gameupgrade.pf_slots_lvl1"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.pf_slots_lvl2",
+									"com.popcap.pvz2.gameupgrade.pf_slots_lvl2"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.starting_sun_lvl1",
+									"com.popcap.pvz2.gameupgrade.starting_sun_lvl1"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.startingsun2",
+									"com.popcap.pvz2.gameupgrade.startingsun2"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.manual_mowers_1",
+									"com.popcap.pvz2.gameupgrade.manual_mowers_1"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.wallnut_firstaid",
+									"com.popcap.pvz2.gameupgrade.wallnut_firstaid"
+								]
+							},
+							{
+								"Category": "Upgrades",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gameupgrade.pf_refresh",
+									"com.popcap.pvz2.gameupgrade.pf_refresh"
+								]
+							}
+						],
+						"StartDateTime": 0
+					},
+					{
+						"EndDateTime": 0,
+						"Name": "Currency store",
+						"ScheduledProducts": [
+							{
+								"Category": "Gems",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gems",
+									"com.popcap.pvz2.gems"
+								]
+							},
+							{
+								"Category": "Coins",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.coins",
+									"com.popcap.pvz2.coins"
+								]
+							},
+							{
+								"Category": "QuickGems",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.gems",
+									"com.popcap.pvz2.gems"
+								]
+							},
+							{
+								"Category": "QuickCoins",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.coins",
+									"com.popcap.pvz2.coins"
+								]
+							}
+						],
+						"StartDateTime": 0
+					},
+					{
+						"EndDateTime": 0,
+						"Name": "Tutorial",
+						"ScheduledProducts": [
+							{
+								"Category": "Tutorial",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "gems",
+								"SoftCost": 5,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": [
+									"tutorial"
+								],
+								"Sku": [
+									"com.popcap.pvz2.pinata.common_10_tutorial",
+									"com.popcap.pvz2.pinata.common_10_tutorial"
+								]
+							}
+						],
+						"StartDateTime": 0
+					}
+				],
+				"SegmentFilter": "All"
+			}
+		}
+	],
+	"version": 1
+}

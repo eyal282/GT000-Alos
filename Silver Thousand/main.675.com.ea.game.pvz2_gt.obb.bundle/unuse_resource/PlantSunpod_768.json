@@ -1,0 +1,1491 @@
+{
+	"type": "768",
+	"packet": {
+		"ATLASIMAGE_ATLAS_PLANTSUNPOD_768_00": {
+			"type": "Image",
+			"path": "atlases/PlantSunpod_768_00",
+			"dimension": {
+				"width": 512,
+				"height": 512
+			},
+			"data": {
+				"IMAGE_PLANT_SUNPOD_SUNPOD_103X87": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_103x87",
+					"default": {
+						"ax": 82,
+						"ay": 154,
+						"aw": 66,
+						"ah": 56,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_107X55": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_107x55",
+					"default": {
+						"ax": 48,
+						"ay": 212,
+						"aw": 69,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_10X10": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_10x10",
+					"default": {
+						"ax": 249,
+						"ay": 332,
+						"aw": 7,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_11X9": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_11x9",
+					"default": {
+						"ax": 157,
+						"ay": 416,
+						"aw": 7,
+						"ah": 6,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_11X10": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_11x10",
+					"default": {
+						"ax": 249,
+						"ay": 341,
+						"aw": 7,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_11X11": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_11x11",
+					"default": {
+						"ax": 249,
+						"ay": 350,
+						"aw": 7,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_11X14": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_11x14",
+					"default": {
+						"ax": 38,
+						"ay": 265,
+						"aw": 7,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_121X113": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_121x113",
+					"default": {
+						"ax": 85,
+						"ay": 79,
+						"aw": 78,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_122X113": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_122x113",
+					"default": {
+						"ax": 165,
+						"ay": 79,
+						"aw": 78,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_123X86": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_123x86",
+					"default": {
+						"ax": 1,
+						"ay": 151,
+						"aw": 79,
+						"ah": 55,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_128X120": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_128x120",
+					"default": {
+						"ax": 1,
+						"ay": 72,
+						"aw": 82,
+						"ah": 77,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_129X37": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_129x37",
+					"default": {
+						"ax": 100,
+						"ay": 292,
+						"aw": 83,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_12X10": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_12x10",
+					"default": {
+						"ax": 223,
+						"ay": 460,
+						"aw": 8,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_12X12": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_12x12",
+					"default": {
+						"ax": 203,
+						"ay": 458,
+						"aw": 8,
+						"ah": 8,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_12X12_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_12x12_2",
+					"default": {
+						"ax": 213,
+						"ay": 458,
+						"aw": 8,
+						"ah": 8,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_12X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_12x13",
+					"default": {
+						"ax": 193,
+						"ay": 457,
+						"aw": 8,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_12X14": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_12x14",
+					"default": {
+						"ax": 154,
+						"ay": 458,
+						"aw": 8,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_139X118": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_139x118",
+					"default": {
+						"ax": 105,
+						"ay": 1,
+						"aw": 89,
+						"ah": 76,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_14X11": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_14x11",
+					"default": {
+						"ax": 113,
+						"ay": 459,
+						"aw": 9,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_14X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_14x13",
+					"default": {
+						"ax": 1,
+						"ay": 457,
+						"aw": 9,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_14X14": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_14x14",
+					"default": {
+						"ax": 182,
+						"ay": 457,
+						"aw": 9,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_14X15": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_14x15",
+					"default": {
+						"ax": 53,
+						"ay": 449,
+						"aw": 9,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_14X15_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_14x15_2",
+					"default": {
+						"ax": 131,
+						"ay": 455,
+						"aw": 9,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_14X34": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_14x34",
+					"default": {
+						"ax": 245,
+						"ay": 76,
+						"aw": 9,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_159X108": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_159x108",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 102,
+						"ah": 69,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X7": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x7",
+					"default": {
+						"ax": 85,
+						"ay": 72,
+						"aw": 10,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X11": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x11",
+					"default": {
+						"ax": 245,
+						"ay": 144,
+						"aw": 10,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x13",
+					"default": {
+						"ax": 142,
+						"ay": 455,
+						"aw": 10,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X14": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x14",
+					"default": {
+						"ax": 64,
+						"ay": 456,
+						"aw": 10,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X15": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x15",
+					"default": {
+						"ax": 19,
+						"ay": 369,
+						"aw": 10,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X20": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x20",
+					"default": {
+						"ax": 245,
+						"ay": 100,
+						"aw": 10,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_15X20_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_15x20_2",
+					"default": {
+						"ax": 245,
+						"ay": 115,
+						"aw": 10,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_16X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_16x13",
+					"default": {
+						"ax": 170,
+						"ay": 456,
+						"aw": 10,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_16X15": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_16x15",
+					"default": {
+						"ax": 240,
+						"ay": 454,
+						"aw": 10,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_16X16": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_16x16",
+					"default": {
+						"ax": 80,
+						"ay": 455,
+						"aw": 10,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_16X18": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_16x18",
+					"default": {
+						"ax": 245,
+						"ay": 130,
+						"aw": 10,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_18X17": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_18x17",
+					"default": {
+						"ax": 39,
+						"ay": 449,
+						"aw": 12,
+						"ah": 11,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_18X18": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_18x18",
+					"default": {
+						"ax": 177,
+						"ay": 442,
+						"aw": 12,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_18X19": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_18x19",
+					"default": {
+						"ax": 191,
+						"ay": 443,
+						"aw": 12,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_18X19_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_18x19_2",
+					"default": {
+						"ax": 156,
+						"ay": 444,
+						"aw": 12,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_18X20": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_18x20",
+					"default": {
+						"ax": 167,
+						"ay": 318,
+						"aw": 12,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_19X14": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_19x14",
+					"default": {
+						"ax": 15,
+						"ay": 452,
+						"aw": 12,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_19X20": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_19x20",
+					"default": {
+						"ax": 1,
+						"ay": 442,
+						"aw": 12,
+						"ah": 13,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_19X26": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_19x26",
+					"default": {
+						"ax": 142,
+						"ay": 436,
+						"aw": 12,
+						"ah": 17,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_19X27": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_19x27",
+					"default": {
+						"ax": 242,
+						"ay": 56,
+						"aw": 12,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_1X1": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_1x1",
+					"default": {
+						"ax": 239,
+						"ay": 76,
+						"aw": 1,
+						"ah": 1,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_1X1_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_1x1_2",
+					"default": {
+						"ax": 253,
+						"ay": 153,
+						"aw": 1,
+						"ah": 1,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_20X14": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_20x14",
+					"default": {
+						"ax": 225,
+						"ay": 449,
+						"aw": 13,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_20X15": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_20x15",
+					"default": {
+						"ax": 98,
+						"ay": 449,
+						"aw": 13,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_20X24": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_20x24",
+					"default": {
+						"ax": 65,
+						"ay": 438,
+						"aw": 13,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_22X21": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_22x21",
+					"default": {
+						"ax": 242,
+						"ay": 438,
+						"aw": 14,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_23X23": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_23x23",
+					"default": {
+						"ax": 22,
+						"ay": 435,
+						"aw": 15,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_23X24": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_23x24",
+					"default": {
+						"ax": 177,
+						"ay": 424,
+						"aw": 15,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_24X19": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_24x19",
+					"default": {
+						"ax": 80,
+						"ay": 441,
+						"aw": 16,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_24X21": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_24x21",
+					"default": {
+						"ax": 1,
+						"ay": 369,
+						"aw": 16,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_24X25": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_24x25",
+					"default": {
+						"ax": 100,
+						"ay": 274,
+						"aw": 16,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_25X10": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_25x10",
+					"default": {
+						"ax": 113,
+						"ay": 450,
+						"aw": 16,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_25X36": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_25x36",
+					"default": {
+						"ax": 100,
+						"ay": 249,
+						"aw": 16,
+						"ah": 23,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_27X10": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_27x10",
+					"default": {
+						"ax": 205,
+						"ay": 449,
+						"aw": 18,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_27X18": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_27x18",
+					"default": {
+						"ax": 102,
+						"ay": 435,
+						"aw": 18,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_27X19": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_27x19",
+					"default": {
+						"ax": 122,
+						"ay": 436,
+						"aw": 18,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_27X28": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_27x28",
+					"default": {
+						"ax": 157,
+						"ay": 424,
+						"aw": 18,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_28X34": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_28x34",
+					"default": {
+						"ax": 82,
+						"ay": 417,
+						"aw": 18,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_29X37": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_29x37",
+					"default": {
+						"ax": 1,
+						"ay": 416,
+						"aw": 19,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_30X28": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_30x28",
+					"default": {
+						"ax": 196,
+						"ay": 423,
+						"aw": 19,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_33X34": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_33x34",
+					"default": {
+						"ax": 70,
+						"ay": 293,
+						"aw": 21,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_33X34_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_33x34_2",
+					"default": {
+						"ax": 173,
+						"ay": 400,
+						"aw": 21,
+						"ah": 22,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_34X29": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_34x29",
+					"default": {
+						"ax": 58,
+						"ay": 417,
+						"aw": 22,
+						"ah": 19,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_34X32": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_34x32",
+					"default": {
+						"ax": 196,
+						"ay": 400,
+						"aw": 22,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_34X48": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_34x48",
+					"default": {
+						"ax": 34,
+						"ay": 385,
+						"aw": 22,
+						"ah": 31,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_35X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_35x13",
+					"default": {
+						"ax": 217,
+						"ay": 438,
+						"aw": 23,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_35X25": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_35x25",
+					"default": {
+						"ax": 232,
+						"ay": 360,
+						"aw": 23,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_36X25": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_36x25",
+					"default": {
+						"ax": 102,
+						"ay": 417,
+						"aw": 23,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_37X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_37x13",
+					"default": {
+						"ax": 39,
+						"ay": 438,
+						"aw": 24,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_37X16": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_37x16",
+					"default": {
+						"ax": 229,
+						"ay": 320,
+						"aw": 24,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_37X23": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_37x23",
+					"default": {
+						"ax": 22,
+						"ay": 418,
+						"aw": 24,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_37X46": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_37x46",
+					"default": {
+						"ax": 229,
+						"ay": 288,
+						"aw": 24,
+						"ah": 30,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_39X28": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_39x28",
+					"default": {
+						"ax": 130,
+						"ay": 416,
+						"aw": 25,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_43X89": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_43x89",
+					"default": {
+						"ax": 223,
+						"ay": 229,
+						"aw": 28,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_44X36": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_44x36",
+					"default": {
+						"ax": 119,
+						"ay": 212,
+						"aw": 28,
+						"ah": 23,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_44X43": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_44x43",
+					"default": {
+						"ax": 227,
+						"ay": 380,
+						"aw": 28,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_44X62": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_44x62",
+					"default": {
+						"ax": 32,
+						"ay": 343,
+						"aw": 28,
+						"ah": 40,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_45X24": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_45x24",
+					"default": {
+						"ax": 58,
+						"ay": 399,
+						"aw": 29,
+						"ah": 16,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_45X38": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_45x38",
+					"default": {
+						"ax": 218,
+						"ay": 333,
+						"aw": 29,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_45X65": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_45x65",
+					"default": {
+						"ax": 1,
+						"ay": 325,
+						"aw": 29,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_45X73": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_45x73",
+					"default": {
+						"ax": 101,
+						"ay": 318,
+						"aw": 29,
+						"ah": 47,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_45X75": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_45x75",
+					"default": {
+						"ax": 70,
+						"ay": 318,
+						"aw": 29,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_46X17": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_46x17",
+					"default": {
+						"ax": 130,
+						"ay": 387,
+						"aw": 30,
+						"ah": 11,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_46X43": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_46x43",
+					"default": {
+						"ax": 98,
+						"ay": 387,
+						"aw": 30,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_47X75": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_47x75",
+					"default": {
+						"ax": 38,
+						"ay": 293,
+						"aw": 30,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_47X134": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_47x134",
+					"default": {
+						"ax": 185,
+						"ay": 154,
+						"aw": 30,
+						"ah": 86,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_48X45": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_48x45",
+					"default": {
+						"ax": 1,
+						"ay": 385,
+						"aw": 31,
+						"ah": 29,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_50X16": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_50x16",
+					"default": {
+						"ax": 217,
+						"ay": 426,
+						"aw": 32,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_51X21": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_51x21",
+					"default": {
+						"ax": 220,
+						"ay": 410,
+						"aw": 33,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_51X63": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_51x63",
+					"default": {
+						"ax": 132,
+						"ay": 318,
+						"aw": 33,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_51X131": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_51x131",
+					"default": {
+						"ax": 150,
+						"ay": 154,
+						"aw": 33,
+						"ah": 84,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_52X45": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_52x45",
+					"default": {
+						"ax": 62,
+						"ay": 368,
+						"aw": 34,
+						"ah": 29,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_53X113": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_53x113",
+					"default": {
+						"ax": 217,
+						"ay": 154,
+						"aw": 34,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_54X91": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_54x91",
+					"default": {
+						"ax": 1,
+						"ay": 265,
+						"aw": 35,
+						"ah": 58,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_5X7": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_5x7",
+					"default": {
+						"ax": 253,
+						"ay": 208,
+						"aw": 3,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_63X22": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_63x22",
+					"default": {
+						"ax": 130,
+						"ay": 400,
+						"aw": 41,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_65X60": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_65x60",
+					"default": {
+						"ax": 185,
+						"ay": 292,
+						"aw": 42,
+						"ah": 39,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_68X21": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_68x21",
+					"default": {
+						"ax": 196,
+						"ay": 56,
+						"aw": 44,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_6X6": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_6x6",
+					"default": {
+						"ax": 233,
+						"ay": 72,
+						"aw": 4,
+						"ah": 4,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_6X11": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_6x11",
+					"default": {
+						"ax": 93,
+						"ay": 293,
+						"aw": 4,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_70X86": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_70x86",
+					"default": {
+						"ax": 1,
+						"ay": 208,
+						"aw": 45,
+						"ah": 55,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_76X39": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_76x39",
+					"default": {
+						"ax": 167,
+						"ay": 333,
+						"aw": 49,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_76X74": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_76x74",
+					"default": {
+						"ax": 172,
+						"ay": 242,
+						"aw": 49,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_77X65": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_77x65",
+					"default": {
+						"ax": 48,
+						"ay": 249,
+						"aw": 50,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_79X73": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_79x73",
+					"default": {
+						"ax": 119,
+						"ay": 240,
+						"aw": 51,
+						"ah": 47,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_7X7": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_7x7",
+					"default": {
+						"ax": 97,
+						"ay": 72,
+						"aw": 5,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_89X83": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_89x83",
+					"default": {
+						"ax": 196,
+						"ay": 1,
+						"aw": 57,
+						"ah": 53,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_8X7": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_8x7",
+					"default": {
+						"ax": 212,
+						"ay": 72,
+						"aw": 5,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_8X7_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_8x7_2",
+					"default": {
+						"ax": 219,
+						"ay": 72,
+						"aw": 5,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_8X8": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_8x8",
+					"default": {
+						"ax": 226,
+						"ay": 72,
+						"aw": 5,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_8X10": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_8x10",
+					"default": {
+						"ax": 62,
+						"ay": 343,
+						"aw": 5,
+						"ah": 7,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_8X15": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_8x15",
+					"default": {
+						"ax": 38,
+						"ay": 276,
+						"aw": 5,
+						"ah": 10,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_93X28": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_93x28",
+					"default": {
+						"ax": 165,
+						"ay": 380,
+						"aw": 60,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_96X28": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_96x28",
+					"default": {
+						"ax": 101,
+						"ay": 367,
+						"aw": 62,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_98X27": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_98x27",
+					"default": {
+						"ax": 167,
+						"ay": 360,
+						"aw": 63,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_9X8": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_9x8",
+					"default": {
+						"ax": 196,
+						"ay": 72,
+						"aw": 6,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_9X8_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_9x8_2",
+					"default": {
+						"ax": 204,
+						"ay": 72,
+						"aw": 6,
+						"ah": 5,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNPOD_SUNPOD_9X9": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sunpod/sunpod_9x9",
+					"default": {
+						"ax": 89,
+						"ay": 399,
+						"aw": 6,
+						"ah": 6,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

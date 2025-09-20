@@ -1,0 +1,387 @@
+{
+	"type": "768",
+	"packet": {
+		"ATLASIMAGE_ATLAS_PLANTSUNGUN_768_00": {
+			"type": "Image",
+			"path": "atlases/PlantSunGun_768_00",
+			"dimension": {
+				"width": 512,
+				"height": 512
+			},
+			"data": {
+				"IMAGE_PLANT_SUNGUN_SUNGUN_101X108": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_101x108",
+					"default": {
+						"ax": 175,
+						"ay": 76,
+						"aw": 65,
+						"ah": 69,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_10X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_10x13",
+					"default": {
+						"ax": 242,
+						"ay": 130,
+						"aw": 7,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_114X114": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_114x114",
+					"default": {
+						"ax": 175,
+						"ay": 1,
+						"aw": 73,
+						"ah": 73,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_12X17": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_12x17",
+					"default": {
+						"ax": 242,
+						"ay": 117,
+						"aw": 8,
+						"ah": 11,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_130X130": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_130x130",
+					"default": {
+						"ax": 116,
+						"ay": 175,
+						"aw": 83,
+						"ah": 83,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_14X19": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_14x19",
+					"default": {
+						"ax": 242,
+						"ay": 92,
+						"aw": 9,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_16X22": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_16x22",
+					"default": {
+						"ax": 242,
+						"ay": 76,
+						"aw": 10,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_176X176": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_176x176",
+					"default": {
+						"ax": 1,
+						"ay": 175,
+						"aw": 113,
+						"ah": 113,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_19X13": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_19x13",
+					"default": {
+						"ax": 242,
+						"ay": 106,
+						"aw": 12,
+						"ah": 9,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_22X17": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_22x17",
+					"default": {
+						"ax": 234,
+						"ay": 260,
+						"aw": 14,
+						"ah": 11,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_269X269": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_269x269",
+					"default": {
+						"ax": 1,
+						"ay": 1,
+						"aw": 172,
+						"ah": 172,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_28X38": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_28x38",
+					"default": {
+						"ax": 175,
+						"ay": 147,
+						"aw": 18,
+						"ah": 25,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_36X19": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_36x19",
+					"default": {
+						"ax": 69,
+						"ay": 390,
+						"aw": 23,
+						"ah": 12,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_40X22": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_40x22",
+					"default": {
+						"ax": 209,
+						"ay": 388,
+						"aw": 26,
+						"ah": 14,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_41X23": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_41x23",
+					"default": {
+						"ax": 181,
+						"ay": 388,
+						"aw": 26,
+						"ah": 15,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_43X43": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_43x43",
+					"default": {
+						"ax": 151,
+						"ay": 363,
+						"aw": 28,
+						"ah": 28,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_44X28": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_44x28",
+					"default": {
+						"ax": 39,
+						"ay": 377,
+						"aw": 28,
+						"ah": 18,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_53X54": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_53x54",
+					"default": {
+						"ax": 58,
+						"ay": 340,
+						"aw": 34,
+						"ah": 35,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_56X32": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_56x32",
+					"default": {
+						"ax": 1,
+						"ay": 373,
+						"aw": 36,
+						"ah": 21,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_61X63": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_61x63",
+					"default": {
+						"ax": 194,
+						"ay": 319,
+						"aw": 39,
+						"ah": 41,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_63X37": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_63x37",
+					"default": {
+						"ax": 1,
+						"ay": 347,
+						"aw": 41,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_64X37": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_64x37",
+					"default": {
+						"ax": 194,
+						"ay": 362,
+						"aw": 41,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_64X37_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_64x37_2",
+					"default": {
+						"ax": 94,
+						"ay": 364,
+						"aw": 41,
+						"ah": 24,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_64X65": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_64x65",
+					"default": {
+						"ax": 151,
+						"ay": 319,
+						"aw": 41,
+						"ah": 42,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_67X67": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_67x67",
+					"default": {
+						"ax": 106,
+						"ay": 319,
+						"aw": 43,
+						"ah": 43,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_71X74": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_71x74",
+					"default": {
+						"ax": 58,
+						"ay": 290,
+						"aw": 46,
+						"ah": 48,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_81X81": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_81x81",
+					"default": {
+						"ax": 201,
+						"ay": 206,
+						"aw": 52,
+						"ah": 52,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_84X89": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_84x89",
+					"default": {
+						"ax": 201,
+						"ay": 147,
+						"aw": 54,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_86X86": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_86x86",
+					"default": {
+						"ax": 1,
+						"ay": 290,
+						"aw": 55,
+						"ah": 55,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_88X88": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_88x88",
+					"default": {
+						"ax": 116,
+						"ay": 260,
+						"aw": 57,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				},
+				"IMAGE_PLANT_SUNGUN_SUNGUN_88X88_2": {
+					"type": "Image",
+					"path": "images/768/plant1/plant/sungun/sungun_88x88_2",
+					"default": {
+						"ax": 175,
+						"ay": 260,
+						"aw": 57,
+						"ah": 57,
+						"x": 0,
+						"y": 0
+					}
+				}
+			}
+		}
+	}
+}

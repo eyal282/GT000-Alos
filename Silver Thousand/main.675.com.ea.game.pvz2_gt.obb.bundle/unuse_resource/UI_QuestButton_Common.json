@@ -1,0 +1,12 @@
+{
+	"type": null,
+	"packet": {
+		"type": "File",
+		"data": {
+			"POPANIM_UI_HUD_QUESTBUTTON_BUTTONS_HUD_QUESTS": {
+				"type": "PopAnim",
+				"path": "images/768/initial/UI/hud_questbutton/buttons_hud_quests/buttons_hud_quests.pam"
+			}
+		}
+	}
+}

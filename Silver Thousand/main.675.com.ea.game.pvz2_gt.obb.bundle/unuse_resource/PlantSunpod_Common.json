@@ -1,0 +1,12 @@
+{
+	"type": null,
+	"packet": {
+		"type": "File",
+		"data": {
+			"POPANIM_PLANT_SUNPOD": {
+				"type": "PopAnim",
+				"path": "images/768/plant1/plant/sunpod/sunpod.pam"
+			}
+		}
+	}
+}

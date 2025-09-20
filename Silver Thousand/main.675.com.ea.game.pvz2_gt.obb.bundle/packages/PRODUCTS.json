@@ -1,0 +1,1990 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"#comment": "GT Products",
+	"objects": [
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.valuable_mowers"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_VALUABLE_MOWERS",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "valuable_mowers",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 1000,
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.gameupgrade.valuable_mowers"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.7_slots"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SEEDSLOT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "7_slots",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 1000,
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.gameupgrade.7_slots"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.seedslot2"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SEEDSLOT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "seedslot2",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 7000,
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.gameupgrade.seedslot2"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.pf_slots_lvl1"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PF_SLOT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "pf_slots_lvl1",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "4",
+				"Sku": "com.popcap.pvz2.gameupgrade.pf_slots_lvl1"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.pf_slots_lvl2"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PF_SLOT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "pf_slots_lvl2",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "8",
+				"Sku": "com.popcap.pvz2.gameupgrade.pf_slots_lvl2"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.starting_sun_lvl1"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_STARTING_SUN",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "starting_sun_lvl1",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "8",
+				"Sku": "com.popcap.pvz2.gameupgrade.starting_sun_lvl1"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.startingsun2"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_STARTING_SUN",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "startingsun2",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "15",
+				"Sku": "com.popcap.pvz2.gameupgrade.startingsun2"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.manual_mowers_1"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MANUAL_MOWERS",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "manual_mowers_1",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "4",
+				"Sku": "com.popcap.pvz2.gameupgrade.manual_mowers_1"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.wallnut_firstaid"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_WALLNUT_FIRSTAID",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "wallnut_firstaid",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "6",
+				"Sku": "com.popcap.pvz2.gameupgrade.wallnut_firstaid"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gameupgrade.pf_refresh"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PF_REFRESH",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "pf_refresh",
+				"ObjectType": "gameupgrade",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "0",
+				"PriceMints": "6",
+				"Sku": "com.popcap.pvz2.gameupgrade.pf_refresh"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.common_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COMMON_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "common_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "200",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.common_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.common_75"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COMMON_75",
+				"Name": "",
+				"ObjectCount": 75,
+				"ObjectItem": "common_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "1600",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.common_75"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier3_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER3_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "tier3_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "800",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier3_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier4_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER4_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "tier4_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "2400",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier4_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier5_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER5_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "tier5_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "5000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier5_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.gems_tier3_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER3_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "tier3_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "10",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.gems_tier3_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.gems_tier4_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER4_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "tier4_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": "29",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.gems_tier4_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.gems_tier5_10"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER5_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "tier5_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "59",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.gems_tier5_10"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier1_dup"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER1_DUP",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "tier1_dup",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "250",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier1_dup"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier2_dup"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER2_DUP",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "tier2_dup",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "500",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier2_dup"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier3_dup"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER3_DUP",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "tier3_dup",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "1000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier3_dup"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier4_dup"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER4_DUP",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "tier4_dup",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "3000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier4_dup"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier5_dup"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIER5_DUP",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "tier5_dup",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "6500",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.tier5_dup"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_common_30"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_COMMON",
+				"Name": "",
+				"ObjectCount": 30,
+				"ObjectItem": "random_common_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "600",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_common_30"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_common_100"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_COMMON",
+				"Name": "",
+				"ObjectCount": 100,
+				"ObjectItem": "random_common_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "1900",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_common_100"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_rare_30"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_RARE",
+				"Name": "",
+				"ObjectCount": 30,
+				"ObjectItem": "random_rare_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "3500",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_rare_30"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_rare_100"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_RARE",
+				"Name": "",
+				"ObjectCount": 100,
+				"ObjectItem": "random_rare_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "11000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_rare_100"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_all_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_ALL_SMALL",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "random_all_small_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "1",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_all_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_all_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_ALL_BIG",
+				"Name": "",
+				"ObjectCount": 300,
+				"ObjectItem": "random_all_big_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "279",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_all_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_risky_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RISKY_SMALL",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "random_risky_small",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "5",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_risky_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_risky_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RISKY_BIG",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "random_risky_big",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "9",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.random_risky_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.tier6"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIERS",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "tier6_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "4",
+				"Sku": "com.popcap.pvz2.pinata.tier6"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.filamint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_FILAMINT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "filamint_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.filamint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.enchantmint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_ENCHANTMINT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "enchantmint_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.enchantmint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.enforcemint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_ENFORCEMINT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "enforcemint_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.enforcemint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.armamint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_ARMAMINT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "armamint_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.armamint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.appeasemint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_APPEASEMINT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "appeasemint_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.appeasemint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.boomflower"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_BOOMFLOWER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "boomflower_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.boomflower"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_bonus_mint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_TIERS",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint_bonus_mint",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.mint_bonus_mint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_all_base"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_ALL",
+				"Name": "",
+				"ObjectCount": 12,
+				"ObjectItem": "random_all_small_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.mint_all_base"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_all"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"BundleProps": [
+					"com.popcap.pvz2.pinata.mint_all_base",
+					"com.popcap.pvz2.pinata.mint_bonus_mint"
+				],
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_ALL",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint_all_bundle",
+				"ObjectType": "bundle",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "1",
+				"Sku": "com.popcap.pvz2.pinata.mint_all"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_risky_base"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_RISKY",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint_risky",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.mint_risky_base"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_risky"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"BundleProps": [
+					"com.popcap.pvz2.pinata.mint_risky_base",
+					"com.popcap.pvz2.pinata.mint_bonus_mint"
+				],
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_RISKY",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint_common_small_bundle",
+				"ObjectType": "bundle",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "1",
+				"Sku": "com.popcap.pvz2.pinata.mint_risky"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_common_small_base"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_COMMON_SMALL",
+				"Name": "",
+				"ObjectCount": 50,
+				"ObjectItem": "random_common_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.mint_common_small_base"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_common_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"BundleProps": [
+					"com.popcap.pvz2.pinata.mint_common_small_base",
+					"com.popcap.pvz2.pinata.mint_bonus_mint"
+				],
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_COMMON_SMALL",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint_common_small_bundle",
+				"ObjectType": "bundle",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "1",
+				"Sku": "com.popcap.pvz2.pinata.mint_common_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_rare_small_base"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_RARE_SMALL",
+				"Name": "",
+				"ObjectCount": 8,
+				"ObjectItem": "random_rare_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.mint_rare_small_base"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_rare_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"BundleProps": [
+					"com.popcap.pvz2.pinata.mint_rare_small_base",
+					"com.popcap.pvz2.pinata.mint_bonus_mint"
+				],
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_MINT_RARE_SMALL",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint_rare_small_bundle",
+				"ObjectType": "bundle",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "1",
+				"Sku": "com.popcap.pvz2.pinata.mint_rare_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_common_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_COMMON",
+				"Name": "",
+				"ObjectCount": 300,
+				"ObjectItem": "random_common_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.mint_common_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.mint_rare_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_RARE",
+				"Name": "",
+				"ObjectCount": 50,
+				"ObjectItem": "random_rare_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "5",
+				"Sku": "com.popcap.pvz2.pinata.mint_rare_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.spea_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SPEA",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "spea_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "30",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.spea_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.spea_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SPEA",
+				"Name": "",
+				"ObjectCount": 100,
+				"ObjectItem": "spea_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "299",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.spea_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.scabbage_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "scabbage_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "30",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.scabbage_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.scabbage_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 100,
+				"ObjectItem": "scabbage_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "299",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.scabbage_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.spotato_small"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SPOTATO",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "spotato_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "30",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.spotato_small"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.spotato_big"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_SPOTATO",
+				"Name": "",
+				"ObjectCount": 100,
+				"ObjectItem": "spotato_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "299",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.spotato_big"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.random_super"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_SUPER",
+				"Name": "",
+				"ObjectCount": 25,
+				"ObjectItem": "random_super",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "4",
+				"Sku": "com.popcap.pvz2.pinata.random_super"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.lilypad"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_LILYPAD",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "lilypad",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "200",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.lilypad"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.sunshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_SUNSHROOM",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "sunshroom",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "800",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.sunshroom"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.imitater"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_IMITATER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "imitater",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "10000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.imitater"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.unused_43"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_UNUSED_43",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "unused_43",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "300",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.unused_43"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.unused_45"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_UNUSED_45",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "unused_45",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "300",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.unused_45"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.concealmint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_CONCEALMINT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "concealmint",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "300",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.concealmint"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.plant.teleportatomine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_PLANT_TELEPORTATOMINE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "teleportatomine",
+				"ObjectType": "plant",
+				"Price": 0,
+				"PriceCoins": "300",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.plant.teleportatomine"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.500"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "500",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "1100",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.500"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.501"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "501",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "1500",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.501"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.502"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "502",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.502"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.503"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "503",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.503"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.504"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "504",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.504"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.505"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "505",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.505"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.506"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPEA",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "506",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "2000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.506"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.507"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "507",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.507"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.508"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "508",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "1400",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.508"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.509"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "509",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "1200",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.509"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.510"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "510",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.510"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.511"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SCABBAGE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "511",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "700",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.511"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.512"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": true,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPOTATO",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "512",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.512"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.513"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPOTATO",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "513",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "500",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.513"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.costume.514"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COSTUME_SPOTATO",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "514",
+				"ObjectType": "costume",
+				"Price": 0,
+				"PriceCoins": "1300",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.costume.514"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.gems"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_NO",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "gem",
+				"ObjectType": "gem",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "1",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.gems"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.coins"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_NO",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "coin",
+				"ObjectType": "coin",
+				"Price": 0,
+				"PriceCoins": "10",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.coins"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.common_10_tutorial"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_COMMON_10",
+				"Name": "",
+				"ObjectCount": 10,
+				"ObjectItem": "common_single_store",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "5",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.common_10_tutorial"
+			}
+		},
+		{
+			"#comment": "Event specific products"
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_dup_smallnut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_DUP_NUT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "event_dup_smallnut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_dup_smallnut"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_dup_wallnut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_DUP_NUT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "event_dup_wallnut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_dup_wallnut"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_dup_nut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"BundleProps": [
+					"com.popcap.pvz2.pinata.event_dup_smallnut",
+					"com.popcap.pvz2.pinata.event_dup_wallnut"
+				],
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_DUP_NUT",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "event_dup_nut",
+				"ObjectType": "bundle",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "6",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_dup_nut"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_dup_icebloom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_DUP_ICEBLOOM",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "event_dup_icebloom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "12",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_dup_icebloom"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_dup_gloomvine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_DUP_GLOOMVINE",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "event_dup_gloomvine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "18",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_dup_gloomvine"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_dup_ultomato"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_DUP_ULTOMATO",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "event_dup_ultomato",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "15",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_dup_ultomato"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_pea_rate_up"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_PEA_RATE_UP",
+				"Name": "",
+				"ObjectCount": 100,
+				"ObjectItem": "event_pea_rate_up",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "199",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_pea_rate_up"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_trainer_pea"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_TRAINER_PEA",
+				"Name": "",
+				"ObjectCount": 40,
+				"ObjectItem": "event_trainer_pea",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "2999",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_trainer_pea"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_trainer_pult"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_TRAINER_PULT",
+				"Name": "",
+				"ObjectCount": 40,
+				"ObjectItem": "event_trainer_pult",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "2999",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_trainer_pult"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_trainer_mine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_TRAINER_MINE",
+				"Name": "",
+				"ObjectCount": 25,
+				"ObjectItem": "event_trainer_mine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "2999",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_trainer_mine"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_trainer_all"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_TRAINER_ALL",
+				"Name": "",
+				"ObjectCount": 200,
+				"ObjectItem": "event_trainer_all",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "15999",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_trainer_all"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.event_coins"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_COINS",
+				"Name": "",
+				"ObjectCount": 5000,
+				"ObjectItem": "coin",
+				"ObjectType": "coin",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "0",
+				"PriceMints": "3",
+				"Sku": "com.popcap.pvz2.event_coins"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_random_all"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_RANDOM_ALL_BIG",
+				"Name": "",
+				"ObjectCount": 1000,
+				"ObjectItem": "random_all_big_single",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "799",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_random_all"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.pinata.event_random_risky"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_RISKY",
+				"Name": "",
+				"ObjectCount": 15,
+				"ObjectItem": "random_risky_big",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "69",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.pinata.event_random_risky"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.event_gems_1"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_GEMS_1",
+				"Name": "",
+				"ObjectCount": 4,
+				"ObjectItem": "gem",
+				"ObjectType": "gem",
+				"Price": 0,
+				"PriceCoins": "450",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.event_gems_1"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.event_gems_2"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_GEMS_2",
+				"Name": "",
+				"ObjectCount": 40,
+				"ObjectItem": "gem",
+				"ObjectType": "gem",
+				"Price": 0,
+				"PriceCoins": "4650",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.event_gems_2"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.event_gems_3"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_EVENT_GEMS_3",
+				"Name": "",
+				"ObjectCount": 400,
+				"ObjectItem": "gem",
+				"ObjectType": "gem",
+				"Price": 0,
+				"PriceCoins": "46750",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.event_gems_3"
+			}
+		}
+	],
+	"version": 1
+}

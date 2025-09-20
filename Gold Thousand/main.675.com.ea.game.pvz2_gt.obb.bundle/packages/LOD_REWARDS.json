@@ -1,0 +1,462 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"#comment": "GT LoDRewards",
+	"objects": [
+		{
+			"aliases": [
+				"LevelOfTheDayRewards"
+			],
+			"objclass": "LevelOfTheDayRewards",
+			"objdata": {
+				"#comment": [
+					"The pinata rewards are 2 Fallback + 1 Valuable",
+					"FallbackSenor is the big pinata opened after 5 days of playing in a row"
+				],
+				"Rewards": [
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 25,
+						"Category": "Fallback",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 50,
+						"Category": "Fallback",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 200,
+						"Category": "Fallback",
+						"Probability": 80
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1000,
+						"Category": "Fallback",
+						"Probability": 8
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1200,
+						"Category": "Fallback",
+						"Probability": 6
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1500,
+						"Category": "Fallback",
+						"Probability": 4
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 2000,
+						"Category": "Fallback",
+						"Probability": 2
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 3000,
+						"Category": "Fallback",
+						"Probability": 2
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 5000,
+						"Category": "Fallback",
+						"Probability": 2
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 200
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 2,
+						"Category": "Fallback",
+						"Probability": 160
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 5,
+						"Category": "Fallback",
+						"Probability": 50
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 7,
+						"Category": "Fallback",
+						"Probability": 24
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 10,
+						"Category": "Fallback",
+						"Probability": 12
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 15,
+						"Category": "Fallback",
+						"Probability": 6
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 20,
+						"Category": "Fallback",
+						"Probability": 4
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 30,
+						"Category": "Fallback",
+						"Probability": 2
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 50,
+						"Category": "Fallback",
+						"Probability": 2
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 100
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 2,
+						"Category": "Fallback",
+						"Probability": 60
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 3,
+						"Category": "Fallback",
+						"Probability": 24
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 4,
+						"Category": "Fallback",
+						"Probability": 12
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 5,
+						"Category": "Fallback",
+						"Probability": 4
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "common_single",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 170
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "tier3_single",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 160
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "tier4_single",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 150
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_gatling_1",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 240
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_scatter_1",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 240
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_gatling_2",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 5
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_scatter_2",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 5
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "gambling_tier6_1_1",
+						"AwardQuantity": 1,
+						"Category": "Fallback",
+						"Probability": 10
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 25,
+						"Category": "Valuable",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 50,
+						"Category": "Valuable",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 200,
+						"Category": "Valuable",
+						"Probability": 80
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1000,
+						"Category": "Valuable",
+						"Probability": 8
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1200,
+						"Category": "Valuable",
+						"Probability": 6
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1500,
+						"Category": "Valuable",
+						"Probability": 4
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 2000,
+						"Category": "Valuable",
+						"Probability": 2
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 3000,
+						"Category": "Valuable",
+						"Probability": 2
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 5000,
+						"Category": "Valuable",
+						"Probability": 2
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 200
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 2,
+						"Category": "Valuable",
+						"Probability": 160
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 5,
+						"Category": "Valuable",
+						"Probability": 50
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 7,
+						"Category": "Valuable",
+						"Probability": 24
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 10,
+						"Category": "Valuable",
+						"Probability": 12
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 15,
+						"Category": "Valuable",
+						"Probability": 6
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 20,
+						"Category": "Valuable",
+						"Probability": 4
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 30,
+						"Category": "Valuable",
+						"Probability": 2
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 50,
+						"Category": "Valuable",
+						"Probability": 2
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 100
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 2,
+						"Category": "Valuable",
+						"Probability": 60
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 3,
+						"Category": "Valuable",
+						"Probability": 24
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 4,
+						"Category": "Valuable",
+						"Probability": 12
+					},
+					{
+						"Award": "mints",
+						"AwardParam": "",
+						"AwardQuantity": 5,
+						"Category": "Valuable",
+						"Probability": 4
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "common_single",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 170
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "tier3_single",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 160
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "tier4_single",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 150
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_gatling_1",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 240
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_scatter_1",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 240
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_gatling_2",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 5
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "event_scatter_2",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 5
+					},
+					{
+						"Award": "plantXP",
+						"AwardParam": "gambling_tier6_1_1",
+						"AwardQuantity": 1,
+						"Category": "Valuable",
+						"Probability": 10
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 50,
+						"Category": "FallbackSenor",
+						"Probability": 10000
+					}
+				]
+			}
+		}
+	],
+	"version": 1
+}

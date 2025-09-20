@@ -1,0 +1,40 @@
+{
+	"#note": "Please do not publicize these code lines or distribute a modified version of the mod - keep this to yourself. Thanks! Also I am not doing this for 10k+ levels so know that this applies to all of them - DT",
+	"objects": [
+		{
+			"aliases": [
+				"Track1"
+			],
+			"objclass": "ThymedEventTrackDefinition",
+			"objdata": {
+				"Track": "track1",
+				"EnergyCostPerNode": [
+					0
+				],
+				"EnergyCap": 10,
+				"EnergyRefillPeriodSeconds": 1,
+				"DownTab": "IMAGE_UI_CALENDAR_EVENT_DOWN",
+				"ActiveTab": "IMAGE_UI_CALENDAR_EVENT_ACTIVE",
+				"HintTexts": []
+			}
+		},
+		{
+			"aliases": [
+				"Track2"
+			],
+			"objclass": "ThymedEventTrackDefinition",
+			"objdata": {
+				"Track": "track2",
+				"EnergyCostPerNode": [
+					0
+				],
+				"EnergyCap": 10,
+				"EnergyRefillPeriodSeconds": 1,
+				"DownTab": "IMAGE_UI_CALENDAR_EVENT_DOWN",
+				"ActiveTab": "IMAGE_UI_CALENDAR_EVENT_ACTIVE",
+				"HintTexts": []
+			}
+		}
+	],
+	"version": 1
+}
