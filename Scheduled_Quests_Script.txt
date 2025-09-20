@@ -1,0 +1,36 @@
+// You can run this script on Google Chrome, by going to the console of "Inspect Element" (Google how to access it or ask a clanker)
+
+function getRndInteger(min, max) {
+  return Math.floor(Math.random() * (max - min) ) + min;
+}
+
+setTimeout(function() { 
+    let obj = []
+    
+    for(let abc=0;abc < 10000;abc++)
+        {
+            let Eyal_temp = {};
+            
+            Eyal_temp.StartDateTime = 1672963199 + (abc * 86400 * 3);
+            Eyal_temp.EndDateTime = 1672963199 + (86400 * 3) + (abc * 86400 * 3);
+            let Eyal_date = new Date(Eyal_temp.StartDateTime * 1000);
+
+            Eyal_temp.Name = Eyal_date.toDateString();
+            Eyal_temp.Name = Eyal_temp.Name.replace("Sun ", "");
+            Eyal_temp.Name = Eyal_temp.Name.replace("Mon ", "");
+            Eyal_temp.Name = Eyal_temp.Name.replace("Tue ", "");
+            Eyal_temp.Name = Eyal_temp.Name.replace("Wed ", "");
+            Eyal_temp.Name = Eyal_temp.Name.replace("Thu ", "");
+            Eyal_temp.Name = Eyal_temp.Name.replace("Fri ", "");
+            Eyal_temp.Name = Eyal_temp.Name.replace("Sat ", "");
+            Eyal_temp.QuestUniqueIDs = [];
+            Eyal_temp.QuestUniqueIDs.push(`HALF_WEEKLY_QUEST_NUM_${getRndInteger(1, 64)}`)
+
+            if(Eyal_temp.EndDateTime > 2147483647)
+                break;
+            obj.push(Eyal_temp)
+            
+        }
+    
+    navigator.clipboard.writeText(JSON.stringify(obj, null, "\t"))
+}, 1000);
