@@ -1,0 +1,71 @@
+// You can run this script on Google Chrome, by going to the console of "Inspect Element" (Google how to access it or ask a clanker)
+// Unlike the last script, this waits until you copy a json script to your clipboard.
+(function waitForJsonClipboard() {
+    async function checkClipboard() {
+        try {
+            const text = await navigator.clipboard.readText();
+            if (text.trim().startsWith('{')) {
+                console.log("📋 JSON detected in clipboard. Processing...");
+                const modified = processJson(text);
+                if (modified) {
+                    await navigator.clipboard.writeText(JSON.stringify(modified, null, "\t"));
+                    console.log("✅ Modified JSON written back to clipboard.");
+                }
+            } else {
+                console.log("⏳ Clipboard doesn't start with '{'. Waiting...");
+                setTimeout(checkClipboard, 1000);
+            }
+        } catch (err) {
+            console.warn("⚠️ Clipboard access failed. Waiting for document focus...");
+            window.addEventListener('focus', () => {
+                console.log("✅ Document focused. Retrying clipboard access...");
+                setTimeout(checkClipboard, 500);
+            }, { once: true });
+        }
+    }
+
+    function processJson(text) {
+        let json;
+        try {
+            json = JSON.parse(text);
+        } catch (e) {
+            console.error("❌ Invalid JSON:", e);
+            return null;
+        }
+
+        const uniqueTypes = new Set();
+
+        function traverse(obj, callback) {
+            if (Array.isArray(obj)) {
+                obj.forEach(item => traverse(item, callback));
+            } else if (obj && typeof obj === 'object') {
+                callback(obj);
+                Object.values(obj).forEach(value => traverse(value, callback));
+            }
+        }
+
+        // First pass: collect and log unique types
+        traverse(json, (node) => {
+            if (node.Type) {
+                uniqueTypes.add(node.Type);
+            }
+        });
+
+        console.log("🔍 Unique Types Found:");
+        uniqueTypes.forEach(type => console.log(type));
+
+        // Second pass: modify amounts
+        traverse(json, (node) => {
+            if (node.Type && typeof node.Amount === 'number') {
+                if (node.Type !== 'mints') {
+                    console.log(`💰 Tripling Amount for Type "${node.Type}": ${node.Amount} → ${node.Amount * 3}`);
+                    node.Amount *= 3;
+                }
+            }
+        });
+
+        return json;
+    }
+
+    checkClipboard();
+})();

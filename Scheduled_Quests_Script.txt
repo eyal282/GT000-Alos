@@ -1,5 +1,5 @@
 // You can run this script on Google Chrome, by going to the console of "Inspect Element" (Google how to access it or ask a clanker)
-
+// It will fail if you don't focus on the page after 1 second (press the page within 1 second)
 function getRndInteger(min, max) {
   return Math.floor(Math.random() * (max - min) ) + min;
 }
