@@ -1887,6 +1887,46 @@
 		},
 		{
 			"aliases": [
+				"com.popcap.pvz2.mint_for_coins"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "STORE_TAB_MINTS",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint",
+				"ObjectType": "mint",
+				"Price": 0,
+				"PriceCoins": "5000",
+				"PriceGems": "0",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.mint_for_coins"
+			}
+		},
+		{
+			"aliases": [
+				"com.popcap.pvz2.mint_for_gems"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "STORE_TAB_MINTS",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "mint",
+				"ObjectType": "mint",
+				"Price": 0,
+				"PriceCoins": "0",
+				"PriceGems": "150",
+				"PriceMints": "0",
+				"Sku": "com.popcap.pvz2.mint_for_gems"
+			}
+		},
+		{
+			"aliases": [
 				"com.popcap.pvz2.pinata.event_random_all"
 			],
 			"objclass": "StoreProductProps",
@@ -1959,7 +1999,7 @@
 				"ObjectItem": "gem",
 				"ObjectType": "gem",
 				"Price": 0,
-				"PriceCoins": "4650",
+				"PriceCoins": "4500",
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"Sku": "com.popcap.pvz2.event_gems_2"
@@ -1979,7 +2019,7 @@
 				"ObjectItem": "gem",
 				"ObjectType": "gem",
 				"Price": 0,
-				"PriceCoins": "46750",
+				"PriceCoins": "45000",
 				"PriceGems": "0",
 				"PriceMints": "0",
 				"Sku": "com.popcap.pvz2.event_gems_3"

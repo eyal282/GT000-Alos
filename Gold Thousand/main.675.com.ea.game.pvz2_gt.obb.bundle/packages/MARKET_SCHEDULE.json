@@ -231,6 +231,40 @@
 								"SoftCostPerPurchase": -1,
 								"Visuals": "RTID(0)",
 								"Sku": [
+									"com.popcap.pvz2.mint_for_coins",
+									"com.popcap.pvz2.mint_for_coins"
+								]
+							},
+							{
+								"Category": "New Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
+									"com.popcap.pvz2.mint_for_gems",
+									"com.popcap.pvz2.mint_for_gems"
+								]
+							},
+							{
+								"Category": "New Offers",
+								"Priority": "",
+								"ABTest": "",
+								"PromotionGroup": "",
+								"AdditionalSegment": "",
+								"SmartKey": "",
+								"SoftCurrency": "",
+								"SoftCost": -1,
+								"MaxPurchase": -1,
+								"SoftCostPerPurchase": -1,
+								"Visuals": "RTID(0)",
+								"Sku": [
 									"com.popcap.pvz2.event_gems_1",
 									"com.popcap.pvz2.event_gems_1"
 								]

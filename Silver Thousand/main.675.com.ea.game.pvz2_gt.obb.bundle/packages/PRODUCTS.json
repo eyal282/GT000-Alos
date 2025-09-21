@@ -1887,13 +1887,13 @@
 		},
 		{
 			"aliases": [
-				"com.popcap.pvz2.event_coins"
+				"com.popcap.pvz2.mint_for_coins"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
 				"IsAdPlacement": false,
 				"IsFree": false,
-				"LawnShortDescription": "PRODUCT_EVENT_COINS",
+				"LawnShortDescription": "STORE_TAB_MINTS",
 				"Name": "",
 				"ObjectCount": 1,
 				"ObjectItem": "mint",
@@ -1902,18 +1902,18 @@
 				"PriceCoins": "5000",
 				"PriceGems": "0",
 				"PriceMints": "0",
-				"Sku": "com.popcap.pvz2.event_coins"
+				"Sku": "com.popcap.pvz2.mint_for_coins"
 			}
 		},
 		{
 			"aliases": [
-				"com.popcap.pvz2.event_coins"
+				"com.popcap.pvz2.mint_for_gems"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
 				"IsAdPlacement": false,
 				"IsFree": false,
-				"LawnShortDescription": "PRODUCT_EVENT_COINS",
+				"LawnShortDescription": "STORE_TAB_MINTS",
 				"Name": "",
 				"ObjectCount": 1,
 				"ObjectItem": "mint",
@@ -1922,27 +1922,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "150",
 				"PriceMints": "0",
-				"Sku": "com.popcap.pvz2.event_coins"
-			}
-		},
-		{
-			"aliases": [
-				"com.popcap.pvz2.event_coins"
-			],
-			"objclass": "StoreProductProps",
-			"objdata": {
-				"IsAdPlacement": false,
-				"IsFree": false,
-				"LawnShortDescription": "PRODUCT_EVENT_COINS",
-				"Name": "",
-				"ObjectCount": 5000,
-				"ObjectItem": "coin",
-				"ObjectType": "coin",
-				"Price": 0,
-				"PriceCoins": "0",
-				"PriceGems": "0",
-				"PriceMints": "9",
-				"Sku": "com.popcap.pvz2.event_coins"
+				"Sku": "com.popcap.pvz2.mint_for_gems"
 			}
 		},
 		{
