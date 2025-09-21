@@ -1927,7 +1927,7 @@
 		},
 		{
 			"aliases": [
-				"com.popcap.pvz2.event_coins"
+				"com.popcap.pvz2.bruh"
 			],
 			"objclass": "StoreProductProps",
 			"objdata": {
@@ -1942,7 +1942,7 @@
 				"PriceCoins": "0",
 				"PriceGems": "0",
 				"PriceMints": "9",
-				"Sku": "com.popcap.pvz2.event_coins"
+				"Sku": "com.popcap.pvz2.bruh"
 			}
 		},
 		{
