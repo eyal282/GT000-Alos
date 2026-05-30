@@ -16,128 +16,128 @@
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 25,
+						"AwardQuantity": 2500,
 						"Category": "Fallback",
 						"Probability": 128
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 50,
+						"AwardQuantity": 4000,
 						"Category": "Fallback",
 						"Probability": 128
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 200,
+						"AwardQuantity": 8000,
 						"Category": "Fallback",
 						"Probability": 80
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 1000,
+						"AwardQuantity": 16000,
 						"Category": "Fallback",
 						"Probability": 8
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 1200,
+						"AwardQuantity": 25000,
 						"Category": "Fallback",
 						"Probability": 6
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 1500,
+						"AwardQuantity": 60000,
 						"Category": "Fallback",
 						"Probability": 4
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 2000,
+						"AwardQuantity": 100000,
 						"Category": "Fallback",
 						"Probability": 2
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 3000,
+						"AwardQuantity": 0,
 						"Category": "Fallback",
-						"Probability": 2
+						"Probability": 0
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 5000,
+						"AwardQuantity": 0,
 						"Category": "Fallback",
-						"Probability": 2
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 1,
-						"Category": "Fallback",
-						"Probability": 200
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 2,
-						"Category": "Fallback",
-						"Probability": 160
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 5,
-						"Category": "Fallback",
-						"Probability": 50
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 7,
-						"Category": "Fallback",
-						"Probability": 24
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 10,
-						"Category": "Fallback",
-						"Probability": 12
+						"Probability": 0
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
 						"AwardQuantity": 15,
 						"Category": "Fallback",
-						"Probability": 6
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 20,
-						"Category": "Fallback",
-						"Probability": 4
+						"Probability": 200
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
 						"AwardQuantity": 30,
 						"Category": "Fallback",
+						"Probability": 160
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 60,
+						"Category": "Fallback",
+						"Probability": 50
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 100,
+						"Category": "Fallback",
+						"Probability": 24
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 200,
+						"Category": "Fallback",
+						"Probability": 12
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 400,
+						"Category": "Fallback",
+						"Probability": 6
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 800,
+						"Category": "Fallback",
+						"Probability": 4
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 1600,
+						"Category": "Fallback",
 						"Probability": 2
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 50,
+						"AwardQuantity": 0,
 						"Category": "Fallback",
-						"Probability": 2
+						"Probability": 0
 					},
 					{
 						"Award": "mints",
@@ -163,62 +163,62 @@
 					{
 						"Award": "mints",
 						"AwardParam": "",
-						"AwardQuantity": 4,
+						"AwardQuantity": 6,
 						"Category": "Fallback",
 						"Probability": 12
 					},
 					{
 						"Award": "mints",
 						"AwardParam": "",
-						"AwardQuantity": 5,
+						"AwardQuantity": 10,
 						"Category": "Fallback",
 						"Probability": 4
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "common_single",
+						"AwardParam": "risky_island_tier1_or_tier2",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 170
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "tier3_single",
+						"AwardParam": "risky_island_tier3",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 160
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "tier4_single",
+						"AwardParam": "risky_island_tier4",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 150
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_gatling_1",
+						"AwardParam": "risky_island_imppear_1",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 240
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_scatter_1",
+						"AwardParam": "risky_island_imppear_2",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 240
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_gatling_2",
+						"AwardParam": "risky_island_imppear_3",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 5
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_scatter_2",
+						"AwardParam": "risky_island_imppear_4",
 						"AwardQuantity": 1,
 						"Category": "Fallback",
 						"Probability": 5
@@ -226,135 +226,135 @@
 					{
 						"Award": "plantXP",
 						"AwardParam": "gambling_tier6_1_1",
-						"AwardQuantity": 1,
+						"AwardQuantity": 5,
 						"Category": "Fallback",
-						"Probability": 10
+						"Probability": 30
 					},
-					{
+									{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 25,
+						"AwardQuantity": 2500,
 						"Category": "Valuable",
 						"Probability": 128
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 50,
+						"AwardQuantity": 4000,
 						"Category": "Valuable",
 						"Probability": 128
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 200,
+						"AwardQuantity": 8000,
 						"Category": "Valuable",
 						"Probability": 80
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 1000,
+						"AwardQuantity": 16000,
 						"Category": "Valuable",
 						"Probability": 8
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 1200,
+						"AwardQuantity": 25000,
 						"Category": "Valuable",
 						"Probability": 6
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 1500,
+						"AwardQuantity": 60000,
 						"Category": "Valuable",
 						"Probability": 4
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 2000,
+						"AwardQuantity": 100000,
 						"Category": "Valuable",
 						"Probability": 2
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 3000,
+						"AwardQuantity": 0,
 						"Category": "Valuable",
-						"Probability": 2
+						"Probability": 0
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 5000,
+						"AwardQuantity": 0,
 						"Category": "Valuable",
-						"Probability": 2
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 1,
-						"Category": "Valuable",
-						"Probability": 200
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 2,
-						"Category": "Valuable",
-						"Probability": 160
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 5,
-						"Category": "Valuable",
-						"Probability": 50
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 7,
-						"Category": "Valuable",
-						"Probability": 24
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 10,
-						"Category": "Valuable",
-						"Probability": 12
+						"Probability": 0
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
 						"AwardQuantity": 15,
 						"Category": "Valuable",
-						"Probability": 6
-					},
-					{
-						"Award": "gems",
-						"AwardParam": "",
-						"AwardQuantity": 20,
-						"Category": "Valuable",
-						"Probability": 4
+						"Probability": 200
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
 						"AwardQuantity": 30,
 						"Category": "Valuable",
+						"Probability": 160
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 60,
+						"Category": "Valuable",
+						"Probability": 50
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 100,
+						"Category": "Valuable",
+						"Probability": 24
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 200,
+						"Category": "Valuable",
+						"Probability": 12
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 400,
+						"Category": "Valuable",
+						"Probability": 6
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 800,
+						"Category": "Valuable",
+						"Probability": 4
+					},
+					{
+						"Award": "gems",
+						"AwardParam": "",
+						"AwardQuantity": 1600,
+						"Category": "Valuable",
 						"Probability": 2
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 50,
+						"AwardQuantity": 0,
 						"Category": "Valuable",
-						"Probability": 2
+						"Probability": 0
 					},
 					{
 						"Award": "mints",
@@ -380,62 +380,62 @@
 					{
 						"Award": "mints",
 						"AwardParam": "",
-						"AwardQuantity": 4,
+						"AwardQuantity": 6,
 						"Category": "Valuable",
 						"Probability": 12
 					},
 					{
 						"Award": "mints",
 						"AwardParam": "",
-						"AwardQuantity": 5,
+						"AwardQuantity": 10,
 						"Category": "Valuable",
 						"Probability": 4
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "common_single",
+						"AwardParam": "risky_island_tier1_or_tier2",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 170
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "tier3_single",
+						"AwardParam": "risky_island_tier3",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 160
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "tier4_single",
+						"AwardParam": "risky_island_tier4",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 150
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_gatling_1",
+						"AwardParam": "risky_island_imppear_1",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 240
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_scatter_1",
+						"AwardParam": "risky_island_imppear_2",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 240
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_gatling_2",
+						"AwardParam": "risky_island_imppear_3",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 5
 					},
 					{
 						"Award": "plantXP",
-						"AwardParam": "event_scatter_2",
+						"AwardParam": "risky_island_imppear_4",
 						"AwardQuantity": 1,
 						"Category": "Valuable",
 						"Probability": 5
@@ -443,9 +443,9 @@
 					{
 						"Award": "plantXP",
 						"AwardParam": "gambling_tier6_1_1",
-						"AwardQuantity": 1,
+						"AwardQuantity": 5,
 						"Category": "Valuable",
-						"Probability": 10
+						"Probability": 30
 					},
 					{
 						"Award": "coins",

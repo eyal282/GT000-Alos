@@ -14458,6 +14458,182 @@
 						}
 					},
 					{
+						"EpicQuestData": {
+							"Slot": "Epic",
+							"QuestCategory": "Epic",
+							"OverrideQuestTheme": "Adventure",
+							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_FUTURE",
+							"UniqueID": "INFINITE_ADVENTURE_119",
+							"QuestName": "Infinite Adventure!",
+							"Description": "",
+							"UniqueIDList": [
+								"INFINITE_ADVENTURE_119_1",
+								"INFINITE_ADVENTURE_119_2",
+								"INFINITE_ADVENTURE_119_3",
+								"INFINITE_ADVENTURE_119_4",
+								"INFINITE_ADVENTURE_119_5"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "pinata",
+										"SubType": "tier5_single",
+										"Amount": 24
+									}
+								]
+							},
+							"Prerequisites": {
+								"QuestUniqueIDs": [
+									"INFINITE_ADVENTURE_118"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_119_1",
+							"QuestName": "Beat adventure lvl 595!",
+							"Description": "Beat adventure lvl 595!",
+							"LevelName": "infinite/level591",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_119_2",
+							"QuestName": "Beat adventure lvl 595!",
+							"Description": "Beat adventure lvl 595!",
+							"LevelName": "infinite/level592",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_119_3",
+							"QuestName": "Beat adventure lvl 595!",
+							"Description": "Beat adventure lvl 595!",
+							"LevelName": "infinite/level593",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_119_4",
+							"QuestName": "Beat adventure lvl 595!",
+							"Description": "Beat adventure lvl 595!",
+							"LevelName": "infinite/level594",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_119_5",
+							"QuestName": "Beat adventure lvl 595!",
+							"Description": "Beat adventure lvl 595!",
+							"LevelName": "infinite/level595",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"EpicQuestData": {
+							"Slot": "Epic",
+							"QuestCategory": "Epic",
+							"OverrideQuestTheme": "Adventure",
+							"OverridePanelImage": "IMAGE_UI_EVENT_PANELS_FUTURE",
+							"UniqueID": "INFINITE_ADVENTURE_120",
+							"QuestName": "Infinite Adventure!",
+							"Description": "",
+							"UniqueIDList": [
+								"INFINITE_ADVENTURE_120_1",
+								"INFINITE_ADVENTURE_120_2",
+								"INFINITE_ADVENTURE_120_3",
+								"INFINITE_ADVENTURE_120_4",
+								"INFINITE_ADVENTURE_120_5"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "pinata",
+										"SubType": "tier5_single",
+										"Amount": 24
+									}
+								]
+							},
+							"Prerequisites": {
+								"QuestUniqueIDs": [
+									"INFINITE_ADVENTURE_119"
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_120_1",
+							"QuestName": "Beat adventure lvl 600!",
+							"Description": "Beat adventure lvl 600!",
+							"LevelName": "infinite/level596",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_120_2",
+							"QuestName": "Beat adventure lvl 600!",
+							"Description": "Beat adventure lvl 600!",
+							"LevelName": "infinite/level597",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_120_3",
+							"QuestName": "Beat adventure lvl 600!",
+							"Description": "Beat adventure lvl 600!",
+							"LevelName": "infinite/level598",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_120_4",
+							"QuestName": "Beat adventure lvl 600!",
+							"Description": "Beat adventure lvl 600!",
+							"LevelName": "infinite/level599",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "INFINITE_ADVENTURE_120_5",
+							"QuestName": "Beat adventure lvl 600!",
+							"Description": "Beat adventure lvl 600!",
+							"LevelName": "infinite/level600",
+							"Priority": "Primary"
+						}
+					},
+					{
 						"ChosenZombiesKillCountQuestData": {
 							"Slot": "Epic",
 							"QuestCategory": "Achievements",
@@ -39737,6 +39913,7 @@
 							"OverrideQuestTheme": "Ash",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_1",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Ashed",
 							"Description": "Use fire to turn zombies into ashes!",
 							"IncludeBurnedToAsh": true,
@@ -39769,6 +39946,7 @@
 							"OverrideQuestTheme": "Refrigerate",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_2",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Freeze",
 							"Description": "Freeze the zombies with ice!",
 							"ConditionToInflict": [
@@ -39803,6 +39981,7 @@
 							"OverrideQuestTheme": "Electrocute",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_3",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Zapped",
 							"Description": "Use electricity to zap the zombies!",
 							"IncludeElectrified": true,
@@ -39835,6 +40014,7 @@
 							"OverrideQuestTheme": "Gargantuar",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_4",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Gargantuar",
 							"Description": "Defeat Gargantuars or big zombies!",
 							"ZombiesToKill": [
@@ -39948,6 +40128,7 @@
 							"OverrideQuestTheme": "KillSpeedy",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_5",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Speedy",
 							"Description": "Defeat fast-moving zombies!",
 							"ZombiesToKill": [
@@ -40062,6 +40243,7 @@
 							"OverrideQuestTheme": "KillA1",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_6",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Conehead",
 							"Description": "Collect traffic cones!",
 							"ZombiesToKill": [
@@ -40138,6 +40320,7 @@
 							"OverrideQuestTheme": "KillSlow",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_7",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Slow Walkers",
 							"Description": "Defeat slow-moving zombies!",
 							"ZombiesToKill": [
@@ -40234,6 +40417,7 @@
 							"OverrideQuestTheme": "KillA0",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_8",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Basic",
 							"Description": "Defeat basic zombies!",
 							"ZombiesToKill": [
@@ -40311,6 +40495,7 @@
 							"OverrideQuestTheme": "Stalled",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_9",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stall",
 							"Description": "Stall the zombies with purple gas!",
 							"ConditionToInflict": [
@@ -40346,6 +40531,7 @@
 							"OverrideQuestTheme": "KillA3",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_10",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Hardhead",
 							"Description": "Break the hardhead protectors!",
 							"ZombiesToKill": [
@@ -40403,6 +40589,7 @@
 							"OverrideQuestTheme": "Knockback",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_11",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Knockback",
 							"Description": "Knock the zombies back!",
 							"ActionsToPerform": 300,
@@ -40439,6 +40626,7 @@
 							"OverrideQuestTheme": "Stunned",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_12",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stun",
 							"Description": "Stun the zombies with gas or projectiles!",
 							"ConditionToInflict": [
@@ -40473,6 +40661,7 @@
 							"OverrideQuestTheme": "KillA2",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_13",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Buckethead",
 							"Description": "Make buckets drop!",
 							"ZombiesToKill": [
@@ -40549,6 +40738,7 @@
 							"OverrideQuestTheme": "KillAnimal",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_14",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Animal",
 							"Description": "Defeat big animal or animal-like zombies!",
 							"ZombiesToKill": [
@@ -40640,6 +40830,7 @@
 							"OverrideQuestTheme": "KillImp",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_15",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Imp",
 							"Description": "Defeat Imp zombies!",
 							"ZombiesToKill": [
@@ -40725,6 +40916,7 @@
 							"OverrideQuestTheme": "Chill",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_16",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Chill",
 							"Description": "Use icy plants to chill the zombies!",
 							"ConditionToInflict": [
@@ -40759,6 +40951,7 @@
 							"OverrideQuestTheme": "KillSpeedy",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_17",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Speedy",
 							"Description": "Defeat fast-moving zombies!",
 							"ZombiesToKill": [
@@ -40873,6 +41066,7 @@
 							"OverrideQuestTheme": "KillA1",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_18",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Conehead",
 							"Description": "Collect traffic cones!",
 							"ZombiesToKill": [
@@ -40949,6 +41143,7 @@
 							"OverrideQuestTheme": "Stalled",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_19",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stall",
 							"Description": "Stall the zombies with purple gas!",
 							"ConditionToInflict": [
@@ -40984,6 +41179,7 @@
 							"OverrideQuestTheme": "KillA0",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_20",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Basic",
 							"Description": "Defeat basic zombies!",
 							"ZombiesToKill": [
@@ -41061,6 +41257,7 @@
 							"OverrideQuestTheme": "KillAnimal",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_21",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Animal",
 							"Description": "Defeat big animal or animal-like zombies!",
 							"ZombiesToKill": [
@@ -41152,6 +41349,7 @@
 							"OverrideQuestTheme": "Electrocute",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_22",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Zapped",
 							"Description": "Use electricity to zap the zombies!",
 							"IncludeElectrified": true,
@@ -41184,6 +41382,7 @@
 							"OverrideQuestTheme": "KillImp",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_23",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Imp",
 							"Description": "Defeat Imp zombies!",
 							"ZombiesToKill": [
@@ -41269,6 +41468,7 @@
 							"OverrideQuestTheme": "KillA2",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_24",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Buckethead",
 							"Description": "Make buckets drop!",
 							"ZombiesToKill": [
@@ -41345,6 +41545,7 @@
 							"OverrideQuestTheme": "Knockback",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_25",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Knockback",
 							"Description": "Knock the zombies back!",
 							"ActionsToPerform": 300,
@@ -41381,6 +41582,7 @@
 							"OverrideQuestTheme": "Ash",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_26",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Ashed",
 							"Description": "Use fire to turn zombies into ashes!",
 							"IncludeBurnedToAsh": true,
@@ -41413,6 +41615,7 @@
 							"OverrideQuestTheme": "Gargantuar",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_27",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Gargantuar",
 							"Description": "Defeat Gargantuars or big zombies!",
 							"ZombiesToKill": [
@@ -41526,6 +41729,7 @@
 							"OverrideQuestTheme": "Chill",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_28",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Chill",
 							"Description": "Use icy plants to chill the zombies!",
 							"ConditionToInflict": [
@@ -41560,6 +41764,7 @@
 							"OverrideQuestTheme": "Stunned",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_29",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stun",
 							"Description": "Stun the zombies with gas or projectiles!",
 							"ConditionToInflict": [
@@ -41594,6 +41799,7 @@
 							"OverrideQuestTheme": "Refrigerate",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_30",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Freeze",
 							"Description": "Freeze the zombies with ice!",
 							"ConditionToInflict": [
@@ -41628,6 +41834,7 @@
 							"OverrideQuestTheme": "KillSlow",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_31",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Slow Walkers",
 							"Description": "Defeat slow-moving zombies!",
 							"ZombiesToKill": [
@@ -41724,6 +41931,7 @@
 							"OverrideQuestTheme": "KillA3",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_32",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Hardhead",
 							"Description": "Break the hardhead protectors!",
 							"ZombiesToKill": [
@@ -41781,6 +41989,7 @@
 							"OverrideQuestTheme": "KillSlow",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_33",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Slow Walkers",
 							"Description": "Defeat slow-moving zombies!",
 							"ZombiesToKill": [
@@ -41877,6 +42086,7 @@
 							"OverrideQuestTheme": "Stalled",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_34",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stall",
 							"Description": "Stall the zombies with purple gas!",
 							"ConditionToInflict": [
@@ -41912,6 +42122,7 @@
 							"OverrideQuestTheme": "Gargantuar",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_35",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Gargantuar",
 							"Description": "Defeat Gargantuars or big zombies!",
 							"ZombiesToKill": [
@@ -42025,6 +42236,7 @@
 							"OverrideQuestTheme": "Knockback",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_36",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Knockback",
 							"Description": "Knock the zombies back!",
 							"ActionsToPerform": 300,
@@ -42061,6 +42273,7 @@
 							"OverrideQuestTheme": "KillSpeedy",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_37",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Speedy",
 							"Description": "Defeat fast-moving zombies!",
 							"ZombiesToKill": [
@@ -42175,6 +42388,7 @@
 							"OverrideQuestTheme": "KillA3",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_38",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Hardhead",
 							"Description": "Break the hardhead protectors!",
 							"ZombiesToKill": [
@@ -42232,6 +42446,7 @@
 							"OverrideQuestTheme": "KillImp",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_39",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Imp",
 							"Description": "Defeat Imp zombies!",
 							"ZombiesToKill": [
@@ -42317,6 +42532,7 @@
 							"OverrideQuestTheme": "Ash",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_40",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Ashed",
 							"Description": "Use fire to turn zombies into ashes!",
 							"IncludeBurnedToAsh": true,
@@ -42349,6 +42565,7 @@
 							"OverrideQuestTheme": "Refrigerate",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_41",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Freeze",
 							"Description": "Freeze the zombies with ice!",
 							"ConditionToInflict": [
@@ -42383,6 +42600,7 @@
 							"OverrideQuestTheme": "Stunned",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_42",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stun",
 							"Description": "Stun the zombies with gas or projectiles!",
 							"ConditionToInflict": [
@@ -42417,6 +42635,7 @@
 							"OverrideQuestTheme": "Chill",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_43",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Chill",
 							"Description": "Use icy plants to chill the zombies!",
 							"ConditionToInflict": [
@@ -42451,6 +42670,7 @@
 							"OverrideQuestTheme": "KillA0",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_44",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Basic",
 							"Description": "Defeat basic zombies!",
 							"ZombiesToKill": [
@@ -42528,6 +42748,7 @@
 							"OverrideQuestTheme": "KillA1",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_45",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Conehead",
 							"Description": "Collect traffic cones!",
 							"ZombiesToKill": [
@@ -42604,6 +42825,7 @@
 							"OverrideQuestTheme": "Electrocute",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_46",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Zapped",
 							"Description": "Use electricity to zap the zombies!",
 							"IncludeElectrified": true,
@@ -42636,6 +42858,7 @@
 							"OverrideQuestTheme": "KillAnimal",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_47",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Animal",
 							"Description": "Defeat big animal or animal-like zombies!",
 							"ZombiesToKill": [
@@ -42727,6 +42950,7 @@
 							"OverrideQuestTheme": "KillA2",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_48",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Buckethead",
 							"Description": "Make buckets drop!",
 							"ZombiesToKill": [
@@ -42803,6 +43027,7 @@
 							"OverrideQuestTheme": "KillImp",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_49",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Imp",
 							"Description": "Defeat Imp zombies!",
 							"ZombiesToKill": [
@@ -42888,6 +43113,7 @@
 							"OverrideQuestTheme": "Electrocute",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_50",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Zapped",
 							"Description": "Use electricity to zap the zombies!",
 							"IncludeElectrified": true,
@@ -42920,6 +43146,7 @@
 							"OverrideQuestTheme": "KillA0",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_51",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Basic",
 							"Description": "Defeat basic zombies!",
 							"ZombiesToKill": [
@@ -42997,6 +43224,7 @@
 							"OverrideQuestTheme": "KillA1",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_52",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Conehead",
 							"Description": "Collect traffic cones!",
 							"ZombiesToKill": [
@@ -43073,6 +43301,7 @@
 							"OverrideQuestTheme": "KillSpeedy",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_53",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Speedy",
 							"Description": "Defeat fast-moving zombies!",
 							"ZombiesToKill": [
@@ -43187,6 +43416,7 @@
 							"OverrideQuestTheme": "KillAnimal",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_54",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Animal",
 							"Description": "Defeat big animal or animal-like zombies!",
 							"ZombiesToKill": [
@@ -43278,6 +43508,7 @@
 							"OverrideQuestTheme": "Gargantuar",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_55",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Gargantuar",
 							"Description": "Defeat Gargantuars or big zombies!",
 							"ZombiesToKill": [
@@ -43391,6 +43622,7 @@
 							"OverrideQuestTheme": "Chill",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_56",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Chill",
 							"Description": "Use icy plants to chill the zombies!",
 							"ConditionToInflict": [
@@ -43425,6 +43657,7 @@
 							"OverrideQuestTheme": "Ash",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_57",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Ashed",
 							"Description": "Use fire to turn zombies into ashes!",
 							"IncludeBurnedToAsh": true,
@@ -43457,6 +43690,7 @@
 							"OverrideQuestTheme": "KillA2",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_58",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Buckethead",
 							"Description": "Make buckets drop!",
 							"ZombiesToKill": [
@@ -43533,6 +43767,7 @@
 							"OverrideQuestTheme": "Stunned",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_59",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stun",
 							"Description": "Stun the zombies with gas or projectiles!",
 							"ConditionToInflict": [
@@ -43567,6 +43802,7 @@
 							"OverrideQuestTheme": "KillA3",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_60",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Hardhead",
 							"Description": "Break the hardhead protectors!",
 							"ZombiesToKill": [
@@ -43624,6 +43860,7 @@
 							"OverrideQuestTheme": "Refrigerate",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_61",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Freeze",
 							"Description": "Freeze the zombies with ice!",
 							"ConditionToInflict": [
@@ -43658,6 +43895,7 @@
 							"OverrideQuestTheme": "Knockback",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_62",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Knockback",
 							"Description": "Knock the zombies back!",
 							"ActionsToPerform": 300,
@@ -43694,6 +43932,7 @@
 							"OverrideQuestTheme": "KillSlow",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_63",
+							"Repeatable": true,
 							"QuestName": "Zombie Hunt: Slow Walkers",
 							"Description": "Defeat slow-moving zombies!",
 							"ZombiesToKill": [
@@ -43790,6 +44029,7 @@
 							"OverrideQuestTheme": "Stalled",
 							"OverridePanelImage": "IMAGE_UI_QUESTS_TRAVEL_LOG_PANEL_HUNT",
 							"UniqueID": "HALF_WEEKLY_QUEST_NUM_64",
+							"Repeatable": true,
 							"QuestName": "Apply Effect: Stall",
 							"Description": "Stall the zombies with purple gas!",
 							"ConditionToInflict": [

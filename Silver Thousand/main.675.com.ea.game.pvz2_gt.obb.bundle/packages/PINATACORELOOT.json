@@ -18150,6 +18150,1042 @@
 								"Weight": 1
 							}
 						]
+					},
+					"risky_island_tier1_or_tier2": {
+						"PlantXP": [
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "sunflower",
+								"SubType": "sunflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "peashooter",
+								"SubType": "peashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "cabbagepult",
+								"SubType": "cabbagepult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "bloominghearts",
+								"SubType": "bloominghearts",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "lightningreed",
+								"SubType": "lightningreed",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "electriccurrant",
+								"SubType": "electriccurrant",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "phatbeet",
+								"SubType": "phatbeet",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "puffshroom",
+								"SubType": "puffshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "sapfling",
+								"SubType": "sapfling",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "iceburg",
+								"SubType": "iceburg",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "springbean",
+								"SubType": "springbean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "wallnut",
+								"SubType": "wallnut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "spikeweed",
+								"SubType": "spikeweed",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "gravebuster",
+								"SubType": "gravebuster",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "hotpotato",
+								"SubType": "hotpotato",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "lilypad",
+								"SubType": "lilypad",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "primalsunflower",
+								"SubType": "primalsunflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "sunbean",
+								"SubType": "sunbean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "repeater",
+								"SubType": "repeater",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "splitpea",
+								"SubType": "splitpea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "snowpea",
+								"SubType": "snowpea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "shadowpeashooter",
+								"SubType": "shadowpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "bloomerang",
+								"SubType": "bloomerang",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "kernelpult",
+								"SubType": "kernelpult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "sporeshroom",
+								"SubType": "sporeshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "pepperpult",
+								"SubType": "pepperpult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "fumeshroom",
+								"SubType": "fumeshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "guacodile",
+								"SubType": "guacodile",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "bonkchoy",
+								"SubType": "bonkchoy",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "shadowshroom",
+								"SubType": "shadowshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "potatomine",
+								"SubType": "potatomine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "tanglekelp",
+								"SubType": "tanglekelp",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "chilibean",
+								"SubType": "chilibean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "stunion",
+								"SubType": "stunion",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "murkadamia",
+								"SubType": "murkadamia",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "primalwallnut",
+								"SubType": "primalwallnut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "spikerock",
+								"SubType": "spikerock",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "aloe",
+								"SubType": "aloe",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "ghostpepper",
+								"SubType": "ghostpepper",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "jalapeno",
+								"SubType": "jalapeno",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "pyrevine",
+								"SubType": "pyrevine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 30,
+								"Max": 30,
+								"PlantType": "electricblueberry",
+								"SubType": "electricblueberry",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"risky_island_tier3": {
+						"PlantXP": [
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "sunshroom",
+								"SubType": "sunshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "twinsunflower",
+								"SubType": "twinsunflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "moonflower",
+								"SubType": "moonflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "threepeater",
+								"SubType": "threepeater",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "primalpeashooter",
+								"SubType": "primalpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "poisonpeashooter",
+								"SubType": "poisonpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "electricpeashooter",
+								"SubType": "electricpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "redstinger",
+								"SubType": "redstinger",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "homingthistle",
+								"SubType": "homingthistle",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "bowlingbulb",
+								"SubType": "bowlingbulb",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "starfruit",
+								"SubType": "starfruit",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "akee",
+								"SubType": "akee",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "dusklobber",
+								"SubType": "dusklobber",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "snapdragon",
+								"SubType": "snapdragon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "coldsnapdragon",
+								"SubType": "coldsnapdragon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "blastberry",
+								"SubType": "blastberry",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "wasabiwhip",
+								"SubType": "wasabiwhip",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "parsnip",
+								"SubType": "parsnip",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "nightshade",
+								"SubType": "nightshade",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "headbutter",
+								"SubType": "headbutter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "strawburst",
+								"SubType": "strawburst",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "chomper",
+								"SubType": "chomper",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "squash",
+								"SubType": "squash",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "lavaguava",
+								"SubType": "lavaguava",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "cherry_bomb",
+								"SubType": "cherry_bomb",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "hypnoshroom",
+								"SubType": "hypnoshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "icebloom",
+								"SubType": "icebloom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "stallia",
+								"SubType": "stallia",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "hurrikale",
+								"SubType": "hurrikale",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "escaperoot",
+								"SubType": "escaperoot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "boingsetta",
+								"SubType": "boingsetta",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "tallnut",
+								"SubType": "tallnut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "holonut",
+								"SubType": "holonut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "sweetpotato",
+								"SubType": "sweetpotato",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "garlic",
+								"SubType": "garlic",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "intensivecarrot",
+								"SubType": "intensivecarrot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 15,
+								"Max": 15,
+								"PlantType": "witchhazel",
+								"SubType": "witchhazel",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"risky_island_tier4": {
+						"PlantXP": [
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "goldleaf",
+								"SubType": "goldleaf",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "enlightenmint",
+								"SubType": "enlightenmint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "slingpea",
+								"SubType": "slingpea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "firepeashooter",
+								"SubType": "firepeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "peanut",
+								"SubType": "peanut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "dazeychain",
+								"SubType": "dazeychain",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "citron",
+								"SubType": "citron",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "xshot",
+								"SubType": "xshot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "coconutcannon",
+								"SubType": "coconutcannon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "melonpult",
+								"SubType": "melonpult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "laser_bean",
+								"SubType": "laser_bean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "pokra",
+								"SubType": "pokra",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "toadstool",
+								"SubType": "toadstool",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "celerystalker",
+								"SubType": "celerystalker",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "gloomvine",
+								"SubType": "gloomvine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "missiletoe",
+								"SubType": "missiletoe",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "primalpotatomine",
+								"SubType": "primalpotatomine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "shrinkingviolet",
+								"SubType": "shrinkingviolet",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "grapeshot",
+								"SubType": "grapeshot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "bombegranate",
+								"SubType": "bombegranate",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "hotdate",
+								"SubType": "hotdate",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "hollyknight",
+								"SubType": "hollyknight",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "chardguard",
+								"SubType": "chardguard",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "endurian",
+								"SubType": "endurian",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "spearmint",
+								"SubType": "spearmint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "zoybeanpod",
+								"SubType": "zoybeanpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "magnetshroom",
+								"SubType": "magnetshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "torchwood",
+								"SubType": "torchwood",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "noctarine",
+								"SubType": "noctarine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"risky_island_imppear_1": {
+						"PlantXP": [
+							{
+								"Max": 3,
+								"Min": 3,
+								"PlantType": "imppear",
+								"SubType": "imppear",
+								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"risky_island_imppear_2": {
+						"PlantXP": [
+							{
+								"Max": 5,
+								"Min": 5,
+								"PlantType": "imppear",
+								"SubType": "imppear",
+								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"risky_island_imppear_3": {
+						"PlantXP": [
+							{
+								"Max": 50,
+								"Min": 50,
+								"PlantType": "imppear",
+								"SubType": "imppear",
+								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"risky_island_imppear_4": {
+						"PlantXP": [
+							{
+								"Max": 100,
+								"Min": 100,
+								"PlantType": "imppear",
+								"SubType": "imppear",
+								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
 					}
 				}
 			}
