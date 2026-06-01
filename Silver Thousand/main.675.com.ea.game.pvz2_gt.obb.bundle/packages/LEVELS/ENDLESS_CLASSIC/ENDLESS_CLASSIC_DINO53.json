@@ -1,0 +1,514 @@
+{
+	"#comment": "Dino Danger Room",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Endless Zone!",
+				"ForceNextLevel": "lostcity_dangerroom",
+				"IsDangerRoom": true,
+				"LevelNumber": 666,
+				"StartingSun": 600,
+				"LevelPowerupSet": "LevelPowerupsDisabled",
+				"SuppressPlantfoodPurchase": true,
+				"SuppressAwardScreen": true,
+				"Loot": "RTID(DangerRoomLoot@LevelModules)",
+				"Modules": [
+					"RTID(DangerRoomIntro@CurrentLevel)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(DinoMowers@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombieSwapModule@CurrentLevel)",
+					"RTID(NormalLootOverride@LevelModules)"
+				],
+				"Name": "Classic - Level {LEVEL_NUMBER}",
+				"StageModule": "RTID(DinoEndlessStage@LevelModules)"
+			}
+		},
+		{
+			"objclass": "WaveManagerModuleProperties",
+			"aliases": [
+				"NewWaves"
+			],
+			"objdata": {}
+		},
+		{
+			"objclass": "DangerRoomModuleProperties",
+			"aliases": [
+				"DangerRoomModule"
+			],
+			"objdata": {
+				"WorldSpecificProperties": "RTID(LostcityDangerRoomProps@PropertySheets)",
+				"LevelDesigners": [
+					"RTID(DinoDangerRoomWaveGenerator@CurrentLevel)",
+					"RTID(DinosaurDesigner@CurrentLevel)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"DangerRoomIntro"
+			],
+			"objclass": "DangerRoomLevelIntroProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PlantExcludeList": [],
+				"SelectionMethod": "chooser",
+				"AlwaysUseChooser": true
+			}
+		},
+		{
+			"aliases": [
+				"DinosaurDesigner"
+			],
+			"objclass": "DangerRoomDinoDesigner",
+			"objdata": {
+				"LevelRange": {
+					"Min": 1,
+					"Max": 500
+				},
+				"DinoTypesMin": {
+					"Min": 0,
+					"Max": 0
+				},
+				"DinoTypesMax": {
+					"Min": 1,
+					"Max": 1
+				},
+				"FirstDinoWavesMin": {
+					"Min": 8,
+					"Max": 8
+				},
+				"FirstDinoWavesMax": {
+					"Min": 4,
+					"Max": 4
+				},
+				"NextDinoWavesMin": {
+					"Min": 4,
+					"Max": 4
+				},
+				"NextDinoWavesMax": {
+					"Min": 1,
+					"Max": 2
+				},
+				"DinoCountInWaveMin": {
+					"Min": 0,
+					"Max": 0
+				},
+				"DinoCountInWaveMax": {
+					"Min": 2,
+					"Max": 3
+				},
+				"DinoTypePool": [
+					{
+						"Value": "raptor",
+						"Weight": 0.000000
+					},
+					{
+						"Value": "stego",
+						"Weight": 0.000000
+					},
+					{
+						"Value": "ptero",
+						"Weight": 0.000000
+					},
+					{
+						"Value": "tyranno",
+						"Weight": 1.000000
+					},
+					{
+						"Value": "ankylo",
+						"Weight": 0.000000
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"DinoDangerRoomWaveGenerator"
+			],
+			"objclass": "DangerRoomJitteredWaveGenerator",
+			"objdata": {
+				"StartingPoints": 50,
+				"BasePointIncrementPerWave": 4,
+				"BasePointIncrementPerLevel": 1,
+				"ZombiePool": [
+					"RTID(dino@ZombieTypes)",
+					"RTID(dino_armor1@ZombieTypes)",
+					"RTID(dino_armor2@ZombieTypes)",
+					"RTID(dino_armor3@ZombieTypes)",
+					"RTID(dino_armor4@ZombieTypes)",
+					"RTID(dino_gargantuar@ZombieTypes)",
+					"RTID(dino_imp@ZombieTypes)",
+					"RTID(dino_bully@ZombieTypes)",
+					"RTID(dino_bully_veteran@ZombieTypes)",
+					"RTID(holohead@ZombieTypes)",
+					"RTID(dino_hero@ZombieTypes)",
+					"RTID(dino_bug@ZombieTypes)",
+					"RTID(modern_football@ZombieTypes)",
+					"RTID(modern_balloon@ZombieTypes)",
+					"RTID(eighties_boombox@ZombieTypes)",
+					"RTID(roman_healer@ZombieTypes)",
+					"RTID(roman_medusa@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"ZombieSwapModule"
+			],
+			"objclass": "LevelDifficultyScalingModuleProperties",
+			"objdata": {
+				"#comment": "Minus one level from calculation",
+				"DifficultyRulesType": "NoLevelingIncrease",
+				"ZombieLevelSwaps": [
+					{
+						"Level": 0,
+						"Swaps": [
+							{
+								"From": "RTID(dino@ZombieTypes)",
+								"To": [
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino@ZombieTypes)",
+									"RTID(dino_silver@ZombieTypes)",
+									"RTID(dino_silver@ZombieTypes)",
+									"RTID(dino_silver@ZombieTypes)",
+									"RTID(dino_silver@ZombieTypes)",
+									"RTID(dino_silver@ZombieTypes)",
+									"RTID(dino_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_armor1@ZombieTypes)",
+								"To": [
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1@ZombieTypes)",
+									"RTID(dino_armor1_silver@ZombieTypes)",
+									"RTID(dino_armor1_silver@ZombieTypes)",
+									"RTID(dino_armor1_silver@ZombieTypes)",
+									"RTID(dino_armor1_silver@ZombieTypes)",
+									"RTID(dino_armor1_silver@ZombieTypes)",
+									"RTID(dino_armor1_gold@ZombieTypes)",
+									"RTID(dino_armor1_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_armor2@ZombieTypes)",
+								"To": [
+									"RTID(dino_armor2@ZombieTypes)",
+									"RTID(dino_armor2@ZombieTypes)",
+									"RTID(dino_armor2@ZombieTypes)",
+									"RTID(dino_armor2@ZombieTypes)",
+									"RTID(dino_armor2_silver@ZombieTypes)",
+									"RTID(dino_armor2_silver@ZombieTypes)",
+									"RTID(dino_armor2_silver@ZombieTypes)",
+									"RTID(dino_armor2_silver@ZombieTypes)",
+									"RTID(dino_armor2_silver@ZombieTypes)",
+									"RTID(dino_armor2_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_armor3@ZombieTypes)",
+								"To": [
+									"RTID(dino_armor3@ZombieTypes)",
+									"RTID(dino_armor3@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_silver@ZombieTypes)",
+									"RTID(dino_armor3_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_armor4@ZombieTypes)",
+								"To": [
+									"RTID(dino_armor4@ZombieTypes)",
+									"RTID(dino_armor4@ZombieTypes)",
+									"RTID(dino_armor4@ZombieTypes)",
+									"RTID(dino_armor4_silver@ZombieTypes)",
+									"RTID(dino_armor4_silver@ZombieTypes)",
+									"RTID(dino_armor4_silver@ZombieTypes)",
+									"RTID(dino_armor4_silver@ZombieTypes)",
+									"RTID(dino_armor4_silver@ZombieTypes)",
+									"RTID(dino_armor4_gold@ZombieTypes)",
+									"RTID(dino_armor4_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_gargantuar@ZombieTypes)",
+								"To": [
+									"RTID(dino_gargantuar_gold@ZombieTypes)",
+									"RTID(dino_gargantuar_gold@ZombieTypes)",
+									"RTID(dino_gargantuar_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_imp@ZombieTypes)",
+								"To": [
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp@ZombieTypes)",
+									"RTID(dino_imp_silver@ZombieTypes)",
+									"RTID(dino_imp_silver@ZombieTypes)",
+									"RTID(dino_imp_silver@ZombieTypes)",
+									"RTID(dino_imp_silver@ZombieTypes)",
+									"RTID(dino_imp_silver@ZombieTypes)",
+									"RTID(dino_imp_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_bully@ZombieTypes)",
+								"To": [
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_silver@ZombieTypes)",
+									"RTID(dino_bully_gold@ZombieTypes)",
+									"RTID(dino_bully_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_bully_veteran@ZombieTypes)",
+								"To": [
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_silver@ZombieTypes)",
+									"RTID(dino_bully_veteran_gold@ZombieTypes)",
+									"RTID(dino_bully_veteran_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(holohead@ZombieTypes)",
+								"To": [
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead@ZombieTypes)",
+									"RTID(holohead_silver@ZombieTypes)",
+									"RTID(holohead_silver@ZombieTypes)",
+									"RTID(holohead_silver@ZombieTypes)",
+									"RTID(holohead_silver@ZombieTypes)",
+									"RTID(holohead_silver@ZombieTypes)",
+									"RTID(holohead_gold@ZombieTypes)",
+									"RTID(holohead_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_hero@ZombieTypes)",
+								"To": [
+									"RTID(dino_hero@ZombieTypes)",
+									"RTID(dino_hero@ZombieTypes)",
+									"RTID(dino_hero@ZombieTypes)",
+									"RTID(dino_hero_silver@ZombieTypes)",
+									"RTID(dino_hero_silver@ZombieTypes)",
+									"RTID(dino_hero_silver@ZombieTypes)",
+									"RTID(dino_hero_silver@ZombieTypes)",
+									"RTID(dino_hero_silver@ZombieTypes)",
+									"RTID(dino_hero_gold@ZombieTypes)",
+									"RTID(dino_hero_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(dino_bug@ZombieTypes)",
+								"To": [
+									"RTID(dino_bug@ZombieTypes)",
+									"RTID(dino_bug@ZombieTypes)",
+									"RTID(dino_bug@ZombieTypes)",
+									"RTID(dino_bug_gold@ZombieTypes)",
+									"RTID(dino_bug_gold@ZombieTypes)",
+									"RTID(dino_bug_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(modern_football@ZombieTypes)",
+								"To": [
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football_silver@ZombieTypes)",
+									"RTID(modern_football_silver@ZombieTypes)",
+									"RTID(modern_football_silver@ZombieTypes)",
+									"RTID(modern_football_gold@ZombieTypes)",
+									"RTID(modern_football_gold@ZombieTypes)",
+									"RTID(modern_football_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(modern_balloon@ZombieTypes)",
+								"To": [
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(eighties_boombox@ZombieTypes)",
+								"To": [
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_healer@ZombieTypes)",
+								"To": [
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_medusa@ZombieTypes)",
+								"To": [
+									"RTID(roman_medusa@ZombieTypes)",
+									"RTID(roman_medusa@ZombieTypes)",
+									"RTID(roman_medusa@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_gold@ZombieTypes)",
+									"RTID(roman_medusa_gold@ZombieTypes)"
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	],
+	"version": 1
+}

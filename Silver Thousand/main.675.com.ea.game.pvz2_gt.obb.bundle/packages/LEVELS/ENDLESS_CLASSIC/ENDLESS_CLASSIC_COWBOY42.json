@@ -1,0 +1,368 @@
+{
+	"#comment": "Cowboy Danger Room",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Endless Zone!",
+				"ForceNextLevel": "lostcity_dangerroom",
+				"IsDangerRoom": true,
+				"LevelNumber": 666,
+				"StartingSun": 600,
+				"LevelPowerupSet": "LevelPowerupsDisabled",
+				"SuppressPlantfoodPurchase": true,
+				"SuppressAwardScreen": true,
+				"Loot": "RTID(DangerRoomLoot@LevelModules)",
+				"Modules": [
+					"RTID(DangerRoomIntro@CurrentLevel)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(WestMowers@LevelModules)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombieSwapModule@CurrentLevel)",
+					"RTID(NormalLootOverride@LevelModules)"
+				],
+				"Name": "Classic - Level {LEVEL_NUMBER}",
+				"StageModule": "RTID(WestEndlessStage@LevelModules)"
+			}
+		},
+		{
+			"objclass": "WaveManagerModuleProperties",
+			"aliases": [
+				"NewWaves"
+			],
+			"objdata": {}
+		},
+		{
+			"objclass": "DangerRoomModuleProperties",
+			"aliases": [
+				"DangerRoomModule"
+			],
+			"objdata": {
+				"WorldSpecificProperties": "RTID(LostcityDangerRoomProps@PropertySheets)",
+				"LevelDesigners": [
+					"RTID(CowboyDangerRoomWaveGenerator@CurrentLevel)",
+					"RTID(RailcartDesigner@CurrentLevel)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"DangerRoomIntro"
+			],
+			"objclass": "DangerRoomLevelIntroProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"Rails"
+			],
+			"objclass": "RailcartProperties",
+			"objdata": {
+				"RailcartType": "railcart_cowboy"
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PlantExcludeList": [],
+				"SelectionMethod": "chooser",
+				"AlwaysUseChooser": true
+			}
+		},
+		{
+			"aliases": [
+				"CowboyDangerRoomWaveGenerator"
+			],
+			"objclass": "DangerRoomJitteredWaveGenerator",
+			"objdata": {
+				"StartingPoints": 50,
+				"BasePointIncrementPerWave": 4,
+				"BasePointIncrementPerLevel": 1,
+				"ZombiePool": [
+					"RTID(cowboy@ZombieTypes)",
+					"RTID(cowboy_armor1@ZombieTypes)",
+					"RTID(cowboy_armor2@ZombieTypes)",
+					"RTID(cowboy_armor4@ZombieTypes)",
+					"RTID(cowboy_gargantuar@ZombieTypes)",
+					"RTID(west_bullrider@ZombieTypes)",
+					"RTID(prospector@ZombieTypes)",
+					"RTID(vegan@ZombieTypes)",
+					"RTID(west_bull@ZombieTypes)",
+					"RTID(piano@ZombieTypes)",
+					"RTID(chicken_farmer@ZombieTypes)",
+					"RTID(west_bull_veteran@ZombieTypes)",
+					"RTID(camel_onehump@ZombieTypes)",
+					"RTID(tomb_raiser@ZombieTypes)",
+					"RTID(pharaoh@ZombieTypes)",
+					"RTID(beach_octopus@ZombieTypes)",
+					"RTID(beach_surfer@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"RailcartDesigner"
+			],
+			"objclass": "DangerRoomRailcartDesigner",
+			"objdata": {
+				"BaseRailcartCount": 1,
+				"BaseRailcartCountPerLevel": 0.250000,
+				"MaxGeneratedRailcarts": 4,
+				"Layouts": [
+					"11110",
+					"01111",
+					"11111",
+					"11000",
+					"01100",
+					"00110",
+					"00011",
+					"11100",
+					"01110",
+					"00111",
+					"11022",
+					"11000",
+					"01100",
+					"00110",
+					"00011",
+					"11100",
+					"01110",
+					"00111",
+					"00000",
+					"00000",
+					"00000",
+					"00000",
+					"00000",
+					"00000"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"ZombieSwapModule"
+			],
+			"objclass": "LevelDifficultyScalingModuleProperties",
+			"objdata": {
+				"#comment": "Minus one level from calculation",
+				"DifficultyRulesType": "NoLevelingIncrease",
+				"ZombieLevelSwaps": [
+					{
+						"Level": 0,
+						"Swaps": [
+							{
+								"From": "RTID(cowboy_gargantuar@ZombieTypes)",
+								"To": [
+									"RTID(cowboy_gargantuar@ZombieTypes)",
+									"RTID(cowboy_gargantuar_gold@ZombieTypes)",
+									"RTID(cowboy_gargantuar_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(west_bullrider@ZombieTypes)",
+								"To": [
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider@ZombieTypes)",
+									"RTID(west_bullrider_silver@ZombieTypes)",
+									"RTID(west_bullrider_silver@ZombieTypes)",
+									"RTID(west_bullrider_silver@ZombieTypes)",
+									"RTID(west_bullrider_silver@ZombieTypes)",
+									"RTID(west_bullrider_silver@ZombieTypes)",
+									"RTID(west_bullrider_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(prospector@ZombieTypes)",
+								"To": [
+									"RTID(prospector@ZombieTypes)",
+									"RTID(prospector@ZombieTypes)",
+									"RTID(prospector@ZombieTypes)",
+									"RTID(prospector@ZombieTypes)",
+									"RTID(prospector@ZombieTypes)",
+									"RTID(prospector@ZombieTypes)",
+									"RTID(prospector_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(vegan@ZombieTypes)",
+								"To": [
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_silver@ZombieTypes)",
+									"RTID(vegan_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(west_bull@ZombieTypes)",
+								"To": [
+									"RTID(west_bull@ZombieTypes)",
+									"RTID(west_bull@ZombieTypes)",
+									"RTID(west_bull@ZombieTypes)",
+									"RTID(west_bull_silver@ZombieTypes)",
+									"RTID(west_bull_silver@ZombieTypes)",
+									"RTID(west_bull_silver@ZombieTypes)",
+									"RTID(west_bull_silver@ZombieTypes)",
+									"RTID(west_bull_silver@ZombieTypes)",
+									"RTID(west_bull_gold@ZombieTypes)",
+									"RTID(west_bull_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(piano@ZombieTypes)",
+								"To": [
+									"RTID(piano@ZombieTypes)",
+									"RTID(piano_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(chicken_farmer@ZombieTypes)",
+								"To": [
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_silver@ZombieTypes)",
+									"RTID(chicken_farmer_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(west_bull_veteran@ZombieTypes)",
+								"To": [
+									"RTID(west_bull_veteran@ZombieTypes)",
+									"RTID(west_bull_veteran@ZombieTypes)",
+									"RTID(west_bull_veteran@ZombieTypes)",
+									"RTID(west_bull_veteran@ZombieTypes)",
+									"RTID(west_bull_veteran_gold@ZombieTypes)",
+									"RTID(west_bull_veteran_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(camel_onehump@ZombieTypes)",
+								"To": [
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tomb_raiser@ZombieTypes)",
+								"To": [
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(pharaoh@ZombieTypes)",
+								"To": [
+									"RTID(pharaoh@ZombieTypes)",
+									"RTID(pharaoh@ZombieTypes)",
+									"RTID(pharaoh@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_gold@ZombieTypes)",
+									"RTID(pharaoh_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(beach_octopus@ZombieTypes)",
+								"To": [
+									"RTID(beach_octopus@ZombieTypes)",
+									"RTID(beach_octopus@ZombieTypes)",
+									"RTID(beach_octopus@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_gold@ZombieTypes)",
+									"RTID(beach_octopus_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(beach_surfer@ZombieTypes)",
+								"To": [
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_gold@ZombieTypes)"
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	],
+	"version": 1
+}

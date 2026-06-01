@@ -1,0 +1,196 @@
+{
+    "#comment": "lv598",
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Description": "{PLAYER}'s infinity trials",
+                "FirstRewardParam": "moneybag_25",
+                "StartingSun": 50,
+                "LevelNumber": 598,
+				"ZombieLevel": 7,
+                "DisablePlantBoosts": true,
+                "ResourceGroupNames": [
+                    "DelayLoad_Background_Beach",
+                    "DelayLoad_Background_Beach_Compressed"
+                ],
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(PirateMowers@LevelModules)",
+                    "RTID(Escalation@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)",
+                    "RTID(PiratePlanks@CurrentLevel)",
+                    "RTID(ConveyorBelt@CurrentLevel)"
+                ],
+				"MusicType": "Minigame_A",
+                "Name": "Adventure 598",
+                "StageModule": "RTID(PirateStage@LevelModules)"
+            }
+        },
+		{"aliases": ["ConveyorBelt"],"objclass": "ConveyorSeedBankProperties","objdata": {"InitialPlantList": [{"PlantType": "citron","Weight": 5},{"PlantType": "slingpea","Weight": 5},{"PlantType": "dazeychain","Weight": 2},{"PlantType": "kernelpult","Weight": 4,"MaxCount": 5,"MaxWeightFactor": 0.25}],"DropDelayConditions": [{"Delay": 7,"MaxPackets": 0}],"SpeedConditions": [{"Speed": 80,"MaxPackets": 0}]}},
+
+        {
+            "aliases": [
+                "PiratePlanks"
+            ],
+            "objclass": "PiratePlankProperties",
+            "objdata": {
+                "PlankRows": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "SeedBank"
+            ],
+            "objclass": "SeedBankProperties",
+            "objdata": {
+                "SelectionMethod": "chooser"
+            }
+        },
+        {
+            "aliases": [
+                "Escalation"
+            ],
+            "objclass": "LevelEscalationModuleProperties",
+            "objdata": {
+                "FlagCount": 3,
+                "WavesPerFlag": 6,
+                "PlantfoodToSpawnCount": 0,
+                "StartingPoints": 0,
+                "PointIncrementPerWave": 22,
+                "WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+                "ZombiePool": [
+                    "RTID(dark@ZombieTypes)",
+                    "RTID(dark_wizard@ZombieTypes)",
+                    "RTID(dark_king@ZombieTypes)"
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {}
+        },
+        {
+            "aliases": [
+                "WaveManager"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "### ZombieCountdownHugeWaveDelay": 0,
+                "WaveSpendingPointIncrement": 0,
+                "WaveSpendingPoints": 0,
+                "Waves": [
+					[ "RTID(WizardPF@CurrentLevel)", "RTID(RP2@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP2@CurrentLevel)" ],
+					[ "RTID(WizardPF@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP2@CurrentLevel)" ],
+					[ "RTID(WizardPF@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP2@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(WizardPF@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ],
+					[ "RTID(Wizard@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)", "RTID(RP1@CurrentLevel)" ]
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "RP1"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 8,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 4
+            }
+        },
+		{
+            "aliases": [
+                "RP2"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 4,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 4
+            }
+        },
+        {
+            "aliases": [
+                "Blank"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": []
+            }
+        },
+        {
+            "aliases": [
+                "PF"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "AdditionalPlantfood": 1,
+                "Zombies": [
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "Wizard"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": [
+                    {
+                        "Type": "RTID(dark_wizard@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(dark_wizard@ZombieTypes)"
+                    }
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "WizardPF"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "AdditionalPlantfood": 1,
+                "Zombies": [
+                    {
+                        "Type": "RTID(dark_wizard@ZombieTypes)"
+                    },
+                    {
+                        "Type": "RTID(dark_wizard@ZombieTypes)"
+                    }
+                ]
+            }
+        }
+    ],
+    "version": 1
+}

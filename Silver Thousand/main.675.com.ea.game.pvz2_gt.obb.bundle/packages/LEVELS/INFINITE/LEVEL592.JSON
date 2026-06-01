@@ -1,0 +1,193 @@
+{
+    "#comment": "lv592",
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Description": "{PLAYER}'s infinity trials",
+                "FirstRewardParam": "moneybag_25",
+                "StartingSun": 50,
+                "LevelNumber": 592,
+				"ZombieLevel": 3,
+                "DisablePlantBoosts": true,
+                "ResourceGroupNames": [
+                    "DelayLoad_Background_Beach",
+                    "DelayLoad_Background_Beach_Compressed"
+                ],
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(PirateMowers@LevelModules)",
+                    "RTID(ConveyorBelt@CurrentLevel)",
+                    "RTID(Escalation@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)",
+                    "RTID(PiratePlanks@CurrentLevel)",
+                    "RTID(ChallengeModule@CurrentLevel)"
+                ],
+				"MusicType": "Minigame_A",
+                "Name": "Adventure 592",
+                "StageModule": "RTID(PirateStage@LevelModules)"
+            }
+        },
+		{"aliases": ["ConveyorBelt"],"objclass": "ConveyorSeedBankProperties","objdata": {"InitialPlantList": [{"PlantType": "threepeater","Weight": 5},{"PlantType": "sungun","Weight": 4},{"PlantType": "armamint","Weight": 5,"MaxDelivered": 4},{"PlantType": "hotdate","Weight": 3},{"PlantType": "stunion","Weight": 4},{"PlantType": "powerlily","Weight": 5,"MaxCount": 1,"MaxWeightFactor": 1,"MaxCountCooldownSeconds": 20}],"DropDelayConditions": [{"Delay": 7,"MaxPackets": 0}],"SpeedConditions": [{"Speed": 80,"MaxPackets": 0}]}},
+
+        {
+            "aliases": [
+                "PiratePlanks"
+            ],
+            "objclass": "PiratePlankProperties",
+            "objdata": {
+                "PlankRows": [
+                    1,
+                    2,
+                    3
+                ]
+            }
+        },
+		{
+            "aliases": [
+                "LevelTimer"
+            ],
+            "objclass": "StarChallengeLevelTimerProperties",
+            "objdata": {
+                "TimeLimit": 360
+            }
+        },
+		{
+            "aliases": [
+                "ChallengeModule"
+            ],
+            "objclass": "StarChallengeModuleProperties",
+            "objdata": {
+                "Challenges": [
+                    [
+						"RTID(KillZombies@CurrentLevel)"
+                    ]
+                ],
+                "ChallengesAlwaysAvailable": true
+            }
+        },
+        {
+            "aliases": [
+                "KillZombies"
+            ],
+            "objclass": "StarChallengeKillZombiesInTimeProps",
+            "objdata": {
+                "Time": 300,
+                "ZombiesToKill": 200
+            }
+        },
+        {
+            "aliases": [
+                "SeedBank"
+            ],
+            "objclass": "SeedBankProperties",
+            "objdata": {
+                "SelectionMethod": "chooser"
+            }
+        },
+        {
+            "aliases": [
+                "Escalation"
+            ],
+            "objclass": "LevelEscalationModuleProperties",
+            "objdata": {
+                "FlagCount": 5,
+                "WavesPerFlag": 5,
+                "PlantfoodToSpawnCount": 0,
+                "StartingPoints": 25,
+                "PointIncrementPerWave": 25,
+                "WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+                "ZombiePool": [
+                    "RTID(pelican@ZombieTypes)",
+                    "RTID(pirate_armor1@ZombieTypes)",
+                    "RTID(barrelroller@ZombieTypes)",
+                    "RTID(dark_juggler@ZombieTypes)",
+                    "RTID(roman_ballista@ZombieTypes)"
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {}
+        },
+        {
+            "aliases": [
+                "WaveManager"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "ZombieCountdownHugeWaveDelay": 0,
+                "WaveSpendingPointIncrement": 0,
+                "WaveSpendingPoints": 0,
+                "Waves": [
+                    [
+                        "RTID(Blank@CurrentLevel)"
+                    ]
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "RP1"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 1,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "RP2"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 2,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "RP3"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 3,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "Blank"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": []
+            }
+        },
+        {
+            "aliases": [
+                "PF"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "AdditionalPlantfood": 1,
+                "Zombies": [
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    }
+                ]
+            }
+        }
+    ],
+    "version": 1
+}

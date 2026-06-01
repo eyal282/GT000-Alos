@@ -1,0 +1,154 @@
+{
+	"#comment": "egypt3",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "{PLAYER}'s grind thousand quests",
+				"FirstRewardParam": "moneybag_100",
+				"ReplayRewardParam": "moneybag_15",
+				"StartingSun": 50,
+				"LevelNumber": 3,
+				"DisablePlantBoosts": true,
+				"ResourceGroupNames": [
+					"DelayLoad_Background_Beach",
+					"DelayLoad_Background_Beach_Compressed"
+				],
+				"Loot": "RTID(DefaultLoot@LevelModules)",
+				"Modules": [
+					"RTID(StandardIntro@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(EgyptMowers@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(Escalation@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(NormalLootOverride@LevelModules)",
+					"RTID(EgyptMainLevelSwapModule1@LevelModules)",
+					"RTID(GI@CurrentLevel)"
+				],
+				"Name": "Level 3",
+				"StageModule": "RTID(EgyptStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"GI"
+			],
+			"objclass": "InitialGridItemProperties",
+			"objdata": {
+				"InitialGridItemPlacements": [
+					{
+						"GridX": 3,
+						"GridY": 4,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 4,
+						"GridY": 0,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 6,
+						"GridY": 0,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 6,
+						"GridY": 2,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 6,
+						"GridY": 3,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 7,
+						"GridY": 1,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 7,
+						"GridY": 2,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 7,
+						"GridY": 4,
+						"TypeName": "gravestone_egypt"
+					},
+					{
+						"GridX": 8,
+						"GridY": 3,
+						"TypeName": "gravestone_egypt"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PresetPlantList": [],
+				"SelectionMethod": "chooser"
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 2,
+				"PlantfoodToSpawnCount": 0,
+				"PointIncrementPerWave": 8,
+				"StartingPoints": 10,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"WavesPerFlag": 7,
+				"ZombiePool": [
+					"RTID(mummy@ZombieTypes)",
+					"RTID(mummy_armor1@ZombieTypes)",
+					"RTID(mummy_armor2@ZombieTypes)",
+					"RTID(tomb_raiser@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"NewWaves"
+			],
+			"objclass": "WaveManagerModuleProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"WaveManager"
+			],
+			"objclass": "WaveManagerProperties",
+			"objdata": {
+				"### ZombieCountdownHugeWaveDelay": 0,
+				"WaveSpendingPointIncrement": 0,
+				"WaveSpendingPoints": 0,
+				"Waves": [
+					[
+						"RTID(Blank@CurrentLevel)"
+					]
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Blank"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"Zombies": []
+			}
+		}
+	],
+	"version": 1
+}

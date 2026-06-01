@@ -1,0 +1,530 @@
+{
+	"#comment": "Modern Danger Room",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Endless Zone!",
+				"ForceNextLevel": "lostcity_dangerroom",
+				"IsDangerRoom": true,
+				"LevelNumber": 666,
+				"StartingSun": 600,
+				"LevelPowerupSet": "LevelPowerupsDisabled",
+				"SuppressPlantfoodPurchase": true,
+				"SuppressAwardScreen": true,
+				"Loot": "RTID(DangerRoomLoot@LevelModules)",
+				"Modules": [
+					"RTID(DangerRoomIntro@CurrentLevel)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(ModernMowers@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombieSwapModule@CurrentLevel)",
+					"RTID(NormalLootOverride@LevelModules)"
+				],
+				"Name": "Classic - Level {LEVEL_NUMBER}",
+				"StageModule": "RTID(ModernEndlessStage@LevelModules)"
+			}
+		},
+		{
+			"objclass": "WaveManagerModuleProperties",
+			"aliases": [
+				"NewWaves"
+			],
+			"objdata": {}
+		},
+		{
+			"objclass": "DangerRoomModuleProperties",
+			"aliases": [
+				"DangerRoomModule"
+			],
+			"objdata": {
+				"WorldSpecificProperties": "RTID(LostcityDangerRoomProps@PropertySheets)",
+				"LevelDesigners": [
+					"RTID(ModernDangerRoomWaveGenerator@CurrentLevel)",
+					"RTID(IceBlockDesigner@CurrentLevel)",
+					"RTID(IceBlockDesigner2@CurrentLevel)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"DangerRoomIntro"
+			],
+			"objclass": "DangerRoomLevelIntroProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PlantExcludeList": [],
+				"SelectionMethod": "chooser",
+				"AlwaysUseChooser": true
+			}
+		},
+		{
+			"aliases": [
+				"IceBlockDesigner"
+			],
+			"objclass": "DangerRoomIceBlockDesigner",
+			"objdata": {
+				"LevelRange": {
+					"Min": 1,
+					"Max": 500
+				},
+				"PlantColumnMin": {
+					"Min": 6,
+					"Max": 6
+				},
+				"PlantColumnMax": {
+					"Min": 8,
+					"Max": 9
+				},
+				"ZombieColumnMin": {
+					"Min": 8,
+					"Max": 8
+				},
+				"ZombieColumnMax": {
+					"Min": 8,
+					"Max": 8
+				},
+				"BlocksMin": {
+					"Min": 1,
+					"Max": 1
+				},
+				"BlocksMax": {
+					"Min": 1,
+					"Max": 1
+				},
+				"PctGoodBlocks": {
+					"Min": 100,
+					"Max": 100
+				},
+				"PlantTypeNames": [
+					"goldbloom",
+					"cherry_bomb",
+					"grapeshot",
+					"bombegranate",
+					"primalpotatomine",
+					"explodeonut"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"IceBlockDesigner2"
+			],
+			"objclass": "DangerRoomIceBlockDesigner",
+			"objdata": {
+				"LevelRange": {
+					"Min": 1,
+					"Max": 500
+				},
+				"PlantColumnMin": {
+					"Min": 4,
+					"Max": 4
+				},
+				"PlantColumnMax": {
+					"Min": 8,
+					"Max": 8
+				},
+				"ZombieColumnMin": {
+					"Min": 8,
+					"Max": 8
+				},
+				"ZombieColumnMax": {
+					"Min": 8,
+					"Max": 8
+				},
+				"BlocksMin": {
+					"Min": 0,
+					"Max": 0
+				},
+				"BlocksMax": {
+					"Min": 4,
+					"Max": 4
+				},
+				"PctGoodBlocks": {
+					"Min": 100,
+					"Max": 100
+				},
+				"PlantTypeNames": [
+					"solartomato",
+					"sunbean",
+					"chilibean",
+					"potatomine",
+					"hypnoshroom",
+					"stunion"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"ModernDangerRoomWaveGenerator"
+			],
+			"objclass": "DangerRoomJitteredWaveGenerator",
+			"objdata": {
+				"StartingPoints": 50,
+				"BasePointIncrementPerWave": 6,
+				"BasePointIncrementPerLevel": 1,
+				"ZombiePool": [
+					"RTID(tutorial@ZombieTypes)",
+					"RTID(tutorial_armor1@ZombieTypes)",
+					"RTID(tutorial_armor2@ZombieTypes)",
+					"RTID(tutorial_armor4@ZombieTypes)",
+					"RTID(tutorial_gargantuar@ZombieTypes)",
+					"RTID(tutorial_imp@ZombieTypes)",
+					"RTID(modern_newspaper@ZombieTypes)",
+					"RTID(modern_balloon@ZombieTypes)",
+					"RTID(eighties_boombox@ZombieTypes)",
+					"RTID(modern_football@ZombieTypes)",
+					"RTID(football_mech@ZombieTypes)",
+					"RTID(eighties_glitter@ZombieTypes)",
+					"RTID(eighties_mc@ZombieTypes)",
+					"RTID(eighties_breakdancer@ZombieTypes)",
+					"RTID(beach_octopus@ZombieTypes)",
+					"RTID(beach_surfer@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"ZombieSwapModule"
+			],
+			"objclass": "LevelDifficultyScalingModuleProperties",
+			"objdata": {
+				"#comment": "Minus one level from calculation",
+				"DifficultyRulesType": "NoLevelingIncrease",
+				"ZombieLevelSwaps": [
+					{
+						"Level": 0,
+						"Swaps": [
+							{
+								"From": "RTID(tutorial@ZombieTypes)",
+								"To": [
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial@ZombieTypes)",
+									"RTID(tutorial_silver@ZombieTypes)",
+									"RTID(tutorial_silver@ZombieTypes)",
+									"RTID(tutorial_silver@ZombieTypes)",
+									"RTID(tutorial_silver@ZombieTypes)",
+									"RTID(tutorial_silver@ZombieTypes)",
+									"RTID(tutorial_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tutorial_armor1@ZombieTypes)",
+								"To": [
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1@ZombieTypes)",
+									"RTID(tutorial_armor1_silver@ZombieTypes)",
+									"RTID(tutorial_armor1_silver@ZombieTypes)",
+									"RTID(tutorial_armor1_silver@ZombieTypes)",
+									"RTID(tutorial_armor1_silver@ZombieTypes)",
+									"RTID(tutorial_armor1_silver@ZombieTypes)",
+									"RTID(tutorial_armor1_gold@ZombieTypes)",
+									"RTID(tutorial_armor1_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tutorial_armor2@ZombieTypes)",
+								"To": [
+									"RTID(tutorial_armor2@ZombieTypes)",
+									"RTID(tutorial_armor2@ZombieTypes)",
+									"RTID(tutorial_armor2@ZombieTypes)",
+									"RTID(tutorial_armor2@ZombieTypes)",
+									"RTID(tutorial_armor2_silver@ZombieTypes)",
+									"RTID(tutorial_armor2_silver@ZombieTypes)",
+									"RTID(tutorial_armor2_silver@ZombieTypes)",
+									"RTID(tutorial_armor2_silver@ZombieTypes)",
+									"RTID(tutorial_armor2_silver@ZombieTypes)",
+									"RTID(tutorial_armor2_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tutorial_armor4@ZombieTypes)",
+								"To": [
+									"RTID(tutorial_armor4@ZombieTypes)",
+									"RTID(tutorial_armor4@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_silver@ZombieTypes)",
+									"RTID(tutorial_armor4_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tutorial_gargantuar@ZombieTypes)",
+								"To": [
+									"RTID(tutorial_gargantuar@ZombieTypes)",
+									"RTID(tutorial_gargantuar_gold@ZombieTypes)",
+									"RTID(tutorial_gargantuar_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tutorial_imp@ZombieTypes)",
+								"To": [
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp@ZombieTypes)",
+									"RTID(tutorial_imp_silver@ZombieTypes)",
+									"RTID(tutorial_imp_silver@ZombieTypes)",
+									"RTID(tutorial_imp_silver@ZombieTypes)",
+									"RTID(tutorial_imp_silver@ZombieTypes)",
+									"RTID(tutorial_imp_silver@ZombieTypes)",
+									"RTID(tutorial_imp_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(modern_newspaper@ZombieTypes)",
+								"To": [
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper@ZombieTypes)",
+									"RTID(modern_newspaper_silver@ZombieTypes)",
+									"RTID(modern_newspaper_silver@ZombieTypes)",
+									"RTID(modern_newspaper_silver@ZombieTypes)",
+									"RTID(modern_newspaper_silver@ZombieTypes)",
+									"RTID(modern_newspaper_silver@ZombieTypes)",
+									"RTID(modern_newspaper_gold@ZombieTypes)",
+									"RTID(modern_newspaper_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(modern_balloon@ZombieTypes)",
+								"To": [
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_silver@ZombieTypes)",
+									"RTID(modern_balloon_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(eighties_boombox@ZombieTypes)",
+								"To": [
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_silver@ZombieTypes)",
+									"RTID(eighties_boombox_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(modern_football@ZombieTypes)",
+								"To": [
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football@ZombieTypes)",
+									"RTID(modern_football_silver@ZombieTypes)",
+									"RTID(modern_football_silver@ZombieTypes)",
+									"RTID(modern_football_silver@ZombieTypes)",
+									"RTID(modern_football_gold@ZombieTypes)",
+									"RTID(modern_football_gold@ZombieTypes)",
+									"RTID(modern_football_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(football_mech@ZombieTypes)",
+								"To": [
+									"RTID(football_mech_silver@ZombieTypes)",
+									"RTID(football_mech_silver@ZombieTypes)",
+									"RTID(football_mech_silver@ZombieTypes)",
+									"RTID(football_mech_silver@ZombieTypes)",
+									"RTID(football_mech_silver@ZombieTypes)",
+									"RTID(football_mech_gold@ZombieTypes)",
+									"RTID(football_mech_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(eighties_glitter@ZombieTypes)",
+								"To": [
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_silver@ZombieTypes)",
+									"RTID(eighties_glitter_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(eighties_mc@ZombieTypes)",
+								"To": [
+									"RTID(eighties_mc@ZombieTypes)",
+									"RTID(eighties_mc@ZombieTypes)",
+									"RTID(eighties_mc@ZombieTypes)",
+									"RTID(eighties_mc@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_silver@ZombieTypes)",
+									"RTID(eighties_mc_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(eighties_breakdancer@ZombieTypes)",
+								"To": [
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_silver@ZombieTypes)",
+									"RTID(eighties_breakdancer_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(beach_octopus@ZombieTypes)",
+								"To": [
+									"RTID(beach_octopus@ZombieTypes)",
+									"RTID(beach_octopus@ZombieTypes)",
+									"RTID(beach_octopus@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_silver@ZombieTypes)",
+									"RTID(beach_octopus_gold@ZombieTypes)",
+									"RTID(beach_octopus_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(beach_surfer@ZombieTypes)",
+								"To": [
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_silver@ZombieTypes)",
+									"RTID(beach_surfer_gold@ZombieTypes)"
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	],
+	"version": 1
+}

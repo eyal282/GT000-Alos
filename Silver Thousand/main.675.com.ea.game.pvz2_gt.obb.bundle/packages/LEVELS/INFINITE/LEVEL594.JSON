@@ -1,0 +1,153 @@
+{
+    "#comment": "lv594",
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Description": "{PLAYER}'s infinity trials",
+                "FirstRewardParam": "moneybag_25",
+                "StartingSun": 50,
+                "LevelNumber": 594,
+				"ZombieLevel": 3,
+                "DisablePlantBoosts": true,
+                "ResourceGroupNames": [
+                    "DelayLoad_Background_Beach",
+                    "DelayLoad_Background_Beach_Compressed"
+                ],
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(DefaultSunDropper@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(PirateMowers@LevelModules)",
+                    "RTID(SeedBank@CurrentLevel)",
+                    "RTID(Escalation@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)",
+                    "RTID(PiratePlanks@CurrentLevel)"
+                ],
+				"MusicType": "Minigame_B",
+                "Name": "Adventure 594",
+                "StageModule": "RTID(PirateStage@LevelModules)"
+            }
+        },
+        {
+            "aliases": [
+                "PiratePlanks"
+            ],
+            "objclass": "PiratePlankProperties",
+            "objdata": {
+                "PlankRows": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            }
+        },
+{"aliases": ["SeedBank"],"objclass": "SeedBankProperties","objdata": {"PresetPlantList": [{"Level":-1,"PlantType":"sunshroom"},{"Level":-1,"PlantType":"goldleaf"},{"Level":-1,"PlantType":"magnifyinggrass"},{"Level":-1,"PlantType":"pyrevine"},{"Level":-1,"PlantType":"blastberry"},{"Level":-1,"PlantType":"shadowshroom"},{"Level":-1,"PlantType":"enchantmint"}],"PlantIncludeList": [],"SelectionMethod": "preset"}},
+
+        {
+            "aliases": [
+                "Escalation"
+            ],
+            "objclass": "LevelEscalationModuleProperties",
+            "objdata": {
+                "FlagCount": 2,
+                "WavesPerFlag": 8,
+                "PlantfoodToSpawnCount": 6,
+                "StartingPoints": 10,
+                "PointIncrementPerWave": 16,
+                "WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+                "ZombiePool": [
+                    "RTID(pirate@ZombieTypes)",
+                    "RTID(pirate_armor2@ZombieTypes)",
+                    "RTID(chicken_farmer@ZombieTypes)",
+                    "RTID(west_bull@ZombieTypes)",
+                    "RTID(seagull@ZombieTypes)"
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {}
+        },
+        {
+            "aliases": [
+                "WaveManager"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "### ZombieCountdownHugeWaveDelay": 0,
+                "WaveSpendingPointIncrement": 0,
+                "WaveSpendingPoints": 0,
+                "Waves": [
+                    [
+                        "RTID(Blank@CurrentLevel)"
+                    ]
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "RP1"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 1,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "RP2"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 2,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "RP3"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 3,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "Blank"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": []
+            }
+        },
+        {
+            "aliases": [
+                "PF"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "AdditionalPlantfood": 1,
+                "Zombies": [
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    }
+                ]
+            }
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,154 @@
+{
+    "#comment": "lv599",
+    "objects": [
+        {
+            "objclass": "LevelDefinition",
+            "objdata": {
+                "Description": "{PLAYER}'s infinity trials",
+                "FirstRewardParam": "moneybag_25",
+                "StartingSun": 50,
+                "LevelNumber": 599,
+				"ZombieLevel": 3,
+                "DisablePlantBoosts": true,
+                "ResourceGroupNames": [
+                    "DelayLoad_Background_Beach",
+                    "DelayLoad_Background_Beach_Compressed"
+                ],
+                "Loot": "RTID(DefaultLoot@LevelModules)",
+                "Modules": [
+                    "RTID(StandardIntro@LevelModules)",
+                    "RTID(DefaultSunDropper@LevelModules)",
+                    "RTID(DefaultZombieWinCondition@LevelModules)",
+                    "RTID(ZombiesDeadWinCon@LevelModules)",
+                    "RTID(PirateMowers@LevelModules)",
+                    "RTID(SeedBank@CurrentLevel)",
+                    "RTID(Escalation@CurrentLevel)",
+                    "RTID(NewWaves@CurrentLevel)",
+                    "RTID(PiratePlanks@CurrentLevel)"
+                ],
+                "Name": "Adventure 599",
+                "StageModule": "RTID(PirateStage@LevelModules)"
+            }
+        },
+        {
+            "aliases": [
+                "PiratePlanks"
+            ],
+            "objclass": "PiratePlankProperties",
+            "objdata": {
+                "PlankRows": [
+                    2
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "SeedBank"
+            ],
+            "objclass": "SeedBankProperties",
+            "objdata": {
+                "SelectionMethod": "chooser"
+            }
+        },
+        {
+            "aliases": [
+                "Escalation"
+            ],
+            "objclass": "LevelEscalationModuleProperties",
+            "objdata": {
+                "FlagCount": 5,
+                "WavesPerFlag": 4,
+                "PlantfoodToSpawnCount": 0,
+                "StartingPoints": 15,
+                "PointIncrementPerWave": 18,
+                "WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+                "ZombiePool": [
+                    "RTID(seagull@ZombieTypes)",
+                    "RTID(pelican@ZombieTypes)",
+                    "RTID(eighties_boombox@ZombieTypes)",
+                    "RTID(football_mech@ZombieTypes)"
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "NewWaves"
+            ],
+            "objclass": "WaveManagerModuleProperties",
+            "objdata": {}
+        },
+        {
+            "aliases": [
+                "WaveManager"
+            ],
+            "objclass": "WaveManagerProperties",
+            "objdata": {
+                "### ZombieCountdownHugeWaveDelay": 0,
+                "WaveSpendingPointIncrement": 0,
+                "WaveSpendingPoints": 0,
+                "Waves": [
+                    [
+                        "RTID(Blank@CurrentLevel)"
+                    ]
+                ]
+            }
+        },
+        {
+            "aliases": [
+                "RP1"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 1,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "RP2"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 2,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "RP3"
+            ],
+            "objclass": "RaidingPartyZombieSpawnerProps",
+            "objdata": {
+                "SwashbucklerCount": 3,
+                "GroupSize": 1,
+                "TimeBetweenGroups": 2
+            }
+        },
+        {
+            "aliases": [
+                "Blank"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "Zombies": []
+            }
+        },
+        {
+            "aliases": [
+                "PF"
+            ],
+            "objclass": "SpawnZombiesJitteredWaveActionProps",
+            "objdata": {
+                "AdditionalPlantfood": 1,
+                "Zombies": [
+                    {
+                        "Type": "RTID(pirate@ZombieTypes)"
+                    }
+                ]
+            }
+        }
+    ],
+    "version": 1
+}

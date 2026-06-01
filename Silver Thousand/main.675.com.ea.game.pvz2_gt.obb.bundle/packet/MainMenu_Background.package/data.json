@@ -1,0 +1,39 @@
+{
+	"#expand_method": "advanced",
+	"version": 4,
+	"texture_format_category": 0,
+	"composite": true,
+	"category": {
+		"resolution": [
+			1536,
+			768
+		],
+		"format": 147
+	},
+	"subgroup": {
+		"MainMenu_Background": {
+			"category": {
+				"common_type": true,
+				"locale": null,
+				"compression": 3
+			},
+			"resource": {
+				"IMAGE_MAINMENU_BACKGROUND": {
+					"type": "Image",
+					"path": "images/initial/mainmenu_background.png",
+					"additional": null
+				},
+				"IMAGE_TITLEBACKGROUNDS_BACKDROP": {
+					"type": "Image",
+					"path": "images/initial/titlebackgrounds/backdrop.png",
+					"additional": null
+				},
+				"IMAGE_TITLEBACKGROUNDS_BACKDROP_TEXTBG": {
+					"type": "Image",
+					"path": "images/initial/titlebackgrounds/backdrop_textbg.png",
+					"additional": null
+				}
+			}
+		}
+	}
+}

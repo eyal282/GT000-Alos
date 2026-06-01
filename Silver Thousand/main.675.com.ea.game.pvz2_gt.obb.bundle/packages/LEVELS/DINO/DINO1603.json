@@ -1,0 +1,100 @@
+{
+	"#comment": "dino16",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "{PLAYER}'s grind thousand quests",
+				"FirstRewardParam": "moneybag_200",
+				"ReplayRewardParam": "moneybag_60",
+				"StartingSun": 500,
+				"LevelNumber": 16,
+				"ZombieLevel": 4,
+				"DisablePlantBoosts": true,
+				"ResourceGroupNames": [
+					"DelayLoad_Background_Beach",
+					"DelayLoad_Background_Beach_Compressed"
+				],
+				"Loot": "RTID(DefaultLoot@LevelModules)",
+				"Modules": [
+					"RTID(StandardIntro@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(DinoMowers@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(Escalation@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(NormalLootOverride@LevelModules)",
+					"RTID(DinoMainLevelSwapModule4@LevelModules)"
+				],
+				"Name": "Level 16",
+				"StageModule": "RTID(DinoStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PresetPlantList": [],
+				"SelectionMethod": "chooser"
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 3,
+				"WavesPerFlag": 4,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 60,
+				"PointIncrementPerWave": 17,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"ZombiePool": [
+					"RTID(dino@ZombieTypes)",
+					"RTID(dino_imp@ZombieTypes)",
+					"RTID(dino_armor3@ZombieTypes)",
+					"RTID(dino_armor4@ZombieTypes)",
+					"RTID(holohead@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"NewWaves"
+			],
+			"objclass": "WaveManagerModuleProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"WaveManager"
+			],
+			"objclass": "WaveManagerProperties",
+			"objdata": {
+				"### ZombieCountdownHugeWaveDelay": 0,
+				"WaveSpendingPointIncrement": 0,
+				"WaveSpendingPoints": 0,
+				"Waves": [
+					[
+						"RTID(Blank@CurrentLevel)"
+					]
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Blank"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"Zombies": []
+			}
+		}
+	],
+	"version": 1
+}

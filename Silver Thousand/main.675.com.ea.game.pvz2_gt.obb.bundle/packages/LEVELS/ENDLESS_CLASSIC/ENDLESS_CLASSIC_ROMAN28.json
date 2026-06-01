@@ -1,0 +1,407 @@
+{
+	"#comment": "Roman Danger Room",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Endless Zone!",
+				"ForceNextLevel": "lostcity_dangerroom",
+				"IsDangerRoom": true,
+				"LevelNumber": 666,
+				"StartingSun": 600,
+				"LevelPowerupSet": "LevelPowerupsDisabled",
+				"SuppressPlantfoodPurchase": true,
+				"SuppressAwardScreen": true,
+				"Loot": "RTID(DangerRoomLoot@LevelModules)",
+				"Modules": [
+					"RTID(DangerRoomIntro@CurrentLevel)",
+					"RTID(DangerRoomModule@CurrentLevel)",
+					"RTID(RomanMowers@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(GravestoneBomb@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombieSwapModule@CurrentLevel)",
+					"RTID(NormalLootOverride@LevelModules)"
+				],
+				"Name": "Classic - Level {LEVEL_NUMBER}",
+				"StageModule": "RTID(RomanEndlessStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"GravestoneBomb"
+			],
+			"objclass": "ZombiePotionModuleProperties",
+			"objdata": {
+				"InitialPotionCount": 4,
+				"MaxPotionCount": 20,
+				"PotionSpawnTimer": {
+					"Max": 90,
+					"Min": 90
+				},
+				"PotionTypes": [
+					"gravestone_bombardmint"
+				]
+			}
+		},
+		{
+			"objclass": "WaveManagerModuleProperties",
+			"aliases": [
+				"NewWaves"
+			],
+			"objdata": {}
+		},
+		{
+			"objclass": "DangerRoomModuleProperties",
+			"aliases": [
+				"DangerRoomModule"
+			],
+			"objdata": {
+				"WorldSpecificProperties": "RTID(LostcityDangerRoomProps@PropertySheets)",
+				"LevelDesigners": [
+					"RTID(RomanDangerRoomWaveGenerator@CurrentLevel)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"DangerRoomIntro"
+			],
+			"objclass": "DangerRoomLevelIntroProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PlantExcludeList": [],
+				"SelectionMethod": "chooser",
+				"AlwaysUseChooser": true
+			}
+		},
+		{
+			"aliases": [
+				"RomanDangerRoomWaveGenerator"
+			],
+			"objclass": "DangerRoomJitteredWaveGenerator",
+			"objdata": {
+				"StartingPoints": 50,
+				"BasePointIncrementPerWave": 7,
+				"BasePointIncrementPerLevel": 1,
+				"ZombiePool": [
+					"RTID(roman@ZombieTypes)",
+					"RTID(roman_armor1@ZombieTypes)",
+					"RTID(roman_armor2@ZombieTypes)",
+					"RTID(roman_armor3@ZombieTypes)",
+					"RTID(roman_gargantuar@ZombieTypes)",
+					"RTID(roman_imp@ZombieTypes)",
+					"RTID(roman_healer@ZombieTypes)",
+					"RTID(roman_shield_triad@ZombieTypes)",
+					"RTID(roman_ballista@ZombieTypes)",
+					"RTID(roman_medusa@ZombieTypes)",
+					"RTID(roman_pillar@ZombieTypes)",
+					"RTID(camel_onehump@ZombieTypes)",
+					"RTID(tomb_raiser@ZombieTypes)",
+					"RTID(pharaoh@ZombieTypes)",
+					"RTID(iceage_hunter@ZombieTypes)",
+					"RTID(iceage_troglobite@ZombieTypes)",
+					"RTID(iceage_weaselhoarder@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"ZombieSwapModule"
+			],
+			"objclass": "LevelDifficultyScalingModuleProperties",
+			"objdata": {
+				"#comment": "Minus one level from calculation",
+				"DifficultyRulesType": "NoLevelingIncrease",
+				"ZombieLevelSwaps": [
+					{
+						"Level": 0,
+						"Swaps": [
+							{
+								"From": "RTID(roman@ZombieTypes)",
+								"To": [
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman@ZombieTypes)",
+									"RTID(roman_silver@ZombieTypes)",
+									"RTID(roman_silver@ZombieTypes)",
+									"RTID(roman_silver@ZombieTypes)",
+									"RTID(roman_silver@ZombieTypes)",
+									"RTID(roman_silver@ZombieTypes)",
+									"RTID(roman_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_armor1@ZombieTypes)",
+								"To": [
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1@ZombieTypes)",
+									"RTID(roman_armor1_silver@ZombieTypes)",
+									"RTID(roman_armor1_silver@ZombieTypes)",
+									"RTID(roman_armor1_silver@ZombieTypes)",
+									"RTID(roman_armor1_silver@ZombieTypes)",
+									"RTID(roman_armor1_silver@ZombieTypes)",
+									"RTID(roman_armor1_gold@ZombieTypes)",
+									"RTID(roman_armor1_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_armor2@ZombieTypes)",
+								"To": [
+									"RTID(roman_armor2@ZombieTypes)",
+									"RTID(roman_armor2@ZombieTypes)",
+									"RTID(roman_armor2@ZombieTypes)",
+									"RTID(roman_armor2@ZombieTypes)",
+									"RTID(roman_armor2_silver@ZombieTypes)",
+									"RTID(roman_armor2_silver@ZombieTypes)",
+									"RTID(roman_armor2_silver@ZombieTypes)",
+									"RTID(roman_armor2_silver@ZombieTypes)",
+									"RTID(roman_armor2_silver@ZombieTypes)",
+									"RTID(roman_armor2_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_armor3@ZombieTypes)",
+								"To": [
+									"RTID(roman_armor3@ZombieTypes)",
+									"RTID(roman_armor3@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_silver@ZombieTypes)",
+									"RTID(roman_armor3_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_gargantuar@ZombieTypes)",
+								"To": [
+									"RTID(roman_gargantuar_gold@ZombieTypes)",
+									"RTID(roman_gargantuar_gold@ZombieTypes)",
+									"RTID(roman_gargantuar_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_imp@ZombieTypes)",
+								"To": [
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp@ZombieTypes)",
+									"RTID(roman_imp_silver@ZombieTypes)",
+									"RTID(roman_imp_silver@ZombieTypes)",
+									"RTID(roman_imp_silver@ZombieTypes)",
+									"RTID(roman_imp_silver@ZombieTypes)",
+									"RTID(roman_imp_silver@ZombieTypes)",
+									"RTID(roman_imp_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_healer@ZombieTypes)",
+								"To": [
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_silver@ZombieTypes)",
+									"RTID(roman_healer_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_ballista@ZombieTypes)",
+								"To": [
+									"RTID(roman_ballista@ZombieTypes)",
+									"RTID(roman_ballista@ZombieTypes)",
+									"RTID(roman_ballista@ZombieTypes)",
+									"RTID(roman_ballista_silver@ZombieTypes)",
+									"RTID(roman_ballista_silver@ZombieTypes)",
+									"RTID(roman_ballista_silver@ZombieTypes)",
+									"RTID(roman_ballista_silver@ZombieTypes)",
+									"RTID(roman_ballista_silver@ZombieTypes)",
+									"RTID(roman_ballista_gold@ZombieTypes)",
+									"RTID(roman_ballista_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_medusa@ZombieTypes)",
+								"To": [
+									"RTID(roman_medusa@ZombieTypes)",
+									"RTID(roman_medusa@ZombieTypes)",
+									"RTID(roman_medusa@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_silver@ZombieTypes)",
+									"RTID(roman_medusa_gold@ZombieTypes)",
+									"RTID(roman_medusa_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(roman_pillar@ZombieTypes)",
+								"To": [
+									"RTID(roman_pillar@ZombieTypes)",
+									"RTID(roman_pillar_gold@ZombieTypes)",
+									"RTID(roman_pillar_gem@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(camel_onehump@ZombieTypes)",
+								"To": [
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_silver@ZombieTypes)",
+									"RTID(camel_onehump_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(tomb_raiser@ZombieTypes)",
+								"To": [
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_silver@ZombieTypes)",
+									"RTID(tomb_raiser_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(pharaoh@ZombieTypes)",
+								"To": [
+									"RTID(pharaoh@ZombieTypes)",
+									"RTID(pharaoh@ZombieTypes)",
+									"RTID(pharaoh@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_silver@ZombieTypes)",
+									"RTID(pharaoh_gold@ZombieTypes)",
+									"RTID(pharaoh_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(iceage_hunter@ZombieTypes)",
+								"To": [
+									"RTID(iceage_hunter@ZombieTypes)",
+									"RTID(iceage_hunter@ZombieTypes)",
+									"RTID(iceage_hunter@ZombieTypes)",
+									"RTID(iceage_hunter@ZombieTypes)",
+									"RTID(iceage_hunter_silver@ZombieTypes)",
+									"RTID(iceage_hunter_silver@ZombieTypes)",
+									"RTID(iceage_hunter_silver@ZombieTypes)",
+									"RTID(iceage_hunter_silver@ZombieTypes)",
+									"RTID(iceage_hunter_silver@ZombieTypes)",
+									"RTID(iceage_hunter_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(iceage_troglobite@ZombieTypes)",
+								"To": [
+									"RTID(iceage_troglobite@ZombieTypes)",
+									"RTID(iceage_troglobite@ZombieTypes)",
+									"RTID(iceage_troglobite@ZombieTypes)",
+									"RTID(iceage_troglobite_silver@ZombieTypes)",
+									"RTID(iceage_troglobite_gold@ZombieTypes)"
+								]
+							},
+							{
+								"From": "RTID(iceage_weaselhoarder@ZombieTypes)",
+								"To": [
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_silver@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_silver@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_silver@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_silver@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_silver@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_gold@ZombieTypes)",
+									"RTID(iceage_weaselhoarder_gold@ZombieTypes)"
+								]
+							}
+						]
+					}
+				]
+			}
+		}
+	],
+	"version": 1
+}
