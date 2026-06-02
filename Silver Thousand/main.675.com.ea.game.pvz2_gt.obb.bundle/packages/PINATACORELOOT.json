@@ -486,6 +486,1316 @@
 						"Slots": [
 							"PlantXP"
 						]
+					},
+					"half_weekly_shop_sunflower": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_sunflower",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_peashooter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_peashooter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_cabbagepult": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_cabbagepult",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_bloominghearts": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_bloominghearts",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_lightningreed": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_lightningreed",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_electriccurrant": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_electriccurrant",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_phatbeet": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_phatbeet",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_puffshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_puffshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_sapfling": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_sapfling",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_iceburg": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_iceburg",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_springbean": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_springbean",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_wallnut": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_wallnut",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_spikeweed": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_spikeweed",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_gravebuster": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_gravebuster",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_hotpotato": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_hotpotato",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_lilypad": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_lilypad",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_primalsunflower": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_primalsunflower",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_sunbean": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_sunbean",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_repeater": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_repeater",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_splitpea": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_splitpea",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_snowpea": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_snowpea",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_shadowpeashooter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_shadowpeashooter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_bloomerang": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_bloomerang",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_kernelpult": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_kernelpult",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_sporeshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_sporeshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_pepperpult": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_pepperpult",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_fumeshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_fumeshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_guacodile": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_guacodile",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_bonkchoy": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_bonkchoy",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_shadowshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_shadowshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_potatomine": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_potatomine",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_tanglekelp": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_tanglekelp",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_chilibean": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_chilibean",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_stunion": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_stunion",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_murkadamia": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_murkadamia",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_primalwallnut": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_primalwallnut",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_spikerock": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_spikerock",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_aloe": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_aloe",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_ghostpepper": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_ghostpepper",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_jalapeno": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_jalapeno",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_pyrevine": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_pyrevine",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_electricblueberry": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_electricblueberry",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_sunshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_sunshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_twinsunflower": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_twinsunflower",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_moonflower": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_moonflower",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_threepeater": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_threepeater",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_primalpeashooter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_primalpeashooter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_poisonpeashooter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_poisonpeashooter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_electricpeashooter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_electricpeashooter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_redstinger": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_redstinger",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_homingthistle": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_homingthistle",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_bowlingbulb": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_bowlingbulb",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_starfruit": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_starfruit",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_akee": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_akee",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_dusklobber": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_dusklobber",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_snapdragon": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_snapdragon",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_coldsnapdragon": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_coldsnapdragon",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_blastberry": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_blastberry",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_wasabiwhip": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_wasabiwhip",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_parsnip": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_parsnip",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_nightshade": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_nightshade",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_headbutter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_headbutter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_strawburst": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_strawburst",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_chomper": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_chomper",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_squash": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_squash",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_lavaguava": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_lavaguava",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_cherry_bomb": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_cherry_bomb",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_hypnoshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_hypnoshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_icebloom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_icebloom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_stallia": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_stallia",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_hurrikale": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_hurrikale",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_escaperoot": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_escaperoot",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_boingsetta": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_boingsetta",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_tallnut": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_tallnut",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_holonut": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_holonut",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_sweetpotato": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_sweetpotato",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_garlic": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_garlic",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_intensivecarrot": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_intensivecarrot",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_witchhazel": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_witchhazel",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_goldleaf": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_goldleaf",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_enlightenmint": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_enlightenmint",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_slingpea": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_slingpea",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_firepeashooter": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_firepeashooter",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_peanut": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_peanut",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_dazeychain": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_dazeychain",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_citron": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_citron",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_xshot": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_xshot",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_coconutcannon": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_coconutcannon",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_melonpult": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_melonpult",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_laser_bean": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_laser_bean",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_pokra": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_pokra",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_toadstool": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_toadstool",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_celerystalker": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_celerystalker",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_gloomvine": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_gloomvine",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_missiletoe": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_missiletoe",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_primalpotatomine": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_primalpotatomine",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_shrinkingviolet": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_shrinkingviolet",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_grapeshot": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_grapeshot",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_bombegranate": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_bombegranate",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_hotdate": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_hotdate",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_hollyknight": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_hollyknight",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_chardguard": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_chardguard",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_endurian": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_endurian",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_spearmint": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_spearmint",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_zoybeanpod": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_zoybeanpod",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_magnetshroom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_magnetshroom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_torchwood": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_torchwood",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_noctarine": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_noctarine",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_goldbloom": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_goldbloom",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_solartomato": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_solartomato",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_peapod": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_peapod",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_ultomato": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_ultomato",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_cactus": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_cactus",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_dandelion": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_dandelion",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_magnifyinggrass": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_magnifyinggrass",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_wintermelon": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_wintermelon",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_applemortar": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_applemortar",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_stickybombrice": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_stickybombrice",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_kiwibeast": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_kiwibeast",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_banana": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_banana",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_jackolantern": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_jackolantern",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_snappea": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_snappea",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_caulipower": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_caulipower",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_pumpkin": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_pumpkin",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_puffball": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_puffball",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_explodeonut": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_explodeonut",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_peppermint": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_peppermint",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_wintermint": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_wintermint",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_reinforcemint": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_reinforcemint",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_thymewarp": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_thymewarp",
+						"Slots": [
+							"PlantXP"
+						]
+					},
+					"half_weekly_shop_powerlily": {
+						"BonusTable": "bonus_standard",
+						"PercentBonusAward": 0,
+						"PercentPinataAward": 1,
+						"PinataType": "free",
+						"RewardsTable": "half_weekly_shop_powerlily",
+						"Slots": [
+							"PlantXP"
+						]
 					}
 				}
 			}
@@ -19182,6 +20492,1709 @@
 								"PlantType": "imppear",
 								"SubType": "imppear",
 								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_sunflower": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "sunflower",
+								"SubType": "sunflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_peashooter": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "peashooter",
+								"SubType": "peashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_cabbagepult": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "cabbagepult",
+								"SubType": "cabbagepult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_bloominghearts": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "bloominghearts",
+								"SubType": "bloominghearts",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_lightningreed": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "lightningreed",
+								"SubType": "lightningreed",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_electriccurrant": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "electriccurrant",
+								"SubType": "electriccurrant",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_phatbeet": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "phatbeet",
+								"SubType": "phatbeet",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_puffshroom": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "puffshroom",
+								"SubType": "puffshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_sapfling": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "sapfling",
+								"SubType": "sapfling",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_iceburg": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "iceburg",
+								"SubType": "iceburg",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_springbean": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "springbean",
+								"SubType": "springbean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_wallnut": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "wallnut",
+								"SubType": "wallnut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_spikeweed": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "spikeweed",
+								"SubType": "spikeweed",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_gravebuster": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "gravebuster",
+								"SubType": "gravebuster",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_hotpotato": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "hotpotato",
+								"SubType": "hotpotato",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_lilypad": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "lilypad",
+								"SubType": "lilypad",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_primalsunflower": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "primalsunflower",
+								"SubType": "primalsunflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_sunbean": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "sunbean",
+								"SubType": "sunbean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_repeater": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "repeater",
+								"SubType": "repeater",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_splitpea": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "splitpea",
+								"SubType": "splitpea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_snowpea": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "snowpea",
+								"SubType": "snowpea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_shadowpeashooter": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "shadowpeashooter",
+								"SubType": "shadowpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_bloomerang": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "bloomerang",
+								"SubType": "bloomerang",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_kernelpult": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "kernelpult",
+								"SubType": "kernelpult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_sporeshroom": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "sporeshroom",
+								"SubType": "sporeshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_pepperpult": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "pepperpult",
+								"SubType": "pepperpult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_fumeshroom": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "fumeshroom",
+								"SubType": "fumeshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_guacodile": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "guacodile",
+								"SubType": "guacodile",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_bonkchoy": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "bonkchoy",
+								"SubType": "bonkchoy",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_shadowshroom": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "shadowshroom",
+								"SubType": "shadowshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_potatomine": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "potatomine",
+								"SubType": "potatomine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_tanglekelp": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "tanglekelp",
+								"SubType": "tanglekelp",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_chilibean": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "chilibean",
+								"SubType": "chilibean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_stunion": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "stunion",
+								"SubType": "stunion",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_murkadamia": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "murkadamia",
+								"SubType": "murkadamia",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_primalwallnut": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "primalwallnut",
+								"SubType": "primalwallnut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_spikerock": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "spikerock",
+								"SubType": "spikerock",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_aloe": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "aloe",
+								"SubType": "aloe",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_ghostpepper": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "ghostpepper",
+								"SubType": "ghostpepper",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_jalapeno": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "jalapeno",
+								"SubType": "jalapeno",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_pyrevine": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "pyrevine",
+								"SubType": "pyrevine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_electricblueberry": {
+						"PlantXP": [
+							{
+								"Max": 30,
+								"Min": 30,
+								"PlantType": "electricblueberry",
+								"SubType": "electricblueberry",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_sunshroom": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "sunshroom",
+								"SubType": "sunshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_twinsunflower": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "twinsunflower",
+								"SubType": "twinsunflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_moonflower": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "moonflower",
+								"SubType": "moonflower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_threepeater": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "threepeater",
+								"SubType": "threepeater",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_primalpeashooter": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "primalpeashooter",
+								"SubType": "primalpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_poisonpeashooter": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "poisonpeashooter",
+								"SubType": "poisonpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_electricpeashooter": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "electricpeashooter",
+								"SubType": "electricpeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_redstinger": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "redstinger",
+								"SubType": "redstinger",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_homingthistle": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "homingthistle",
+								"SubType": "homingthistle",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_bowlingbulb": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "bowlingbulb",
+								"SubType": "bowlingbulb",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_starfruit": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "starfruit",
+								"SubType": "starfruit",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_akee": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "akee",
+								"SubType": "akee",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_dusklobber": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "dusklobber",
+								"SubType": "dusklobber",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_snapdragon": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "snapdragon",
+								"SubType": "snapdragon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_coldsnapdragon": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "coldsnapdragon",
+								"SubType": "coldsnapdragon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_blastberry": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "blastberry",
+								"SubType": "blastberry",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_wasabiwhip": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "wasabiwhip",
+								"SubType": "wasabiwhip",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_parsnip": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "parsnip",
+								"SubType": "parsnip",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_nightshade": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "nightshade",
+								"SubType": "nightshade",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_headbutter": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "headbutter",
+								"SubType": "headbutter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_strawburst": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "strawburst",
+								"SubType": "strawburst",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_chomper": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "chomper",
+								"SubType": "chomper",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_squash": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "squash",
+								"SubType": "squash",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_lavaguava": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "lavaguava",
+								"SubType": "lavaguava",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_cherry_bomb": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "cherry_bomb",
+								"SubType": "cherry_bomb",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_hypnoshroom": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "hypnoshroom",
+								"SubType": "hypnoshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_icebloom": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "icebloom",
+								"SubType": "icebloom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_stallia": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "stallia",
+								"SubType": "stallia",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_hurrikale": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "hurrikale",
+								"SubType": "hurrikale",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_escaperoot": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "escaperoot",
+								"SubType": "escaperoot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_boingsetta": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "boingsetta",
+								"SubType": "boingsetta",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_tallnut": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "tallnut",
+								"SubType": "tallnut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_holonut": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "holonut",
+								"SubType": "holonut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_sweetpotato": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "sweetpotato",
+								"SubType": "sweetpotato",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_garlic": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "garlic",
+								"SubType": "garlic",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_intensivecarrot": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "intensivecarrot",
+								"SubType": "intensivecarrot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_witchhazel": {
+						"PlantXP": [
+							{
+								"Max": 8,
+								"Min": 8,
+								"PlantType": "witchhazel",
+								"SubType": "witchhazel",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_goldleaf": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "goldleaf",
+								"SubType": "goldleaf",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_enlightenmint": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "enlightenmint",
+								"SubType": "enlightenmint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_slingpea": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "slingpea",
+								"SubType": "slingpea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_firepeashooter": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "firepeashooter",
+								"SubType": "firepeashooter",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_peanut": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "peanut",
+								"SubType": "peanut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_dazeychain": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "dazeychain",
+								"SubType": "dazeychain",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_citron": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "citron",
+								"SubType": "citron",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_xshot": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "xshot",
+								"SubType": "xshot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_coconutcannon": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "coconutcannon",
+								"SubType": "coconutcannon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_melonpult": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "melonpult",
+								"SubType": "melonpult",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_laser_bean": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "laser_bean",
+								"SubType": "laser_bean",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_pokra": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "pokra",
+								"SubType": "pokra",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_toadstool": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "toadstool",
+								"SubType": "toadstool",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_celerystalker": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "celerystalker",
+								"SubType": "celerystalker",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_gloomvine": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "gloomvine",
+								"SubType": "gloomvine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_missiletoe": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "missiletoe",
+								"SubType": "missiletoe",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_primalpotatomine": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "primalpotatomine",
+								"SubType": "primalpotatomine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_shrinkingviolet": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "shrinkingviolet",
+								"SubType": "shrinkingviolet",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_grapeshot": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "grapeshot",
+								"SubType": "grapeshot",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_bombegranate": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "bombegranate",
+								"SubType": "bombegranate",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_hotdate": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "hotdate",
+								"SubType": "hotdate",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_hollyknight": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "hollyknight",
+								"SubType": "hollyknight",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_chardguard": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "chardguard",
+								"SubType": "chardguard",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_endurian": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "endurian",
+								"SubType": "endurian",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_spearmint": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "spearmint",
+								"SubType": "spearmint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_zoybeanpod": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "zoybeanpod",
+								"SubType": "zoybeanpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_magnetshroom": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "magnetshroom",
+								"SubType": "magnetshroom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_torchwood": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "torchwood",
+								"SubType": "torchwood",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_noctarine": {
+						"PlantXP": [
+							{
+								"Max": 2,
+								"Min": 2,
+								"PlantType": "noctarine",
+								"SubType": "noctarine",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_goldbloom": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "goldbloom",
+								"SubType": "goldbloom",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_solartomato": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "solartomato",
+								"SubType": "solartomato",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_peapod": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "peapod",
+								"SubType": "peapod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_ultomato": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "ultomato",
+								"SubType": "ultomato",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_cactus": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "cactus",
+								"SubType": "cactus",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_dandelion": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "dandelion",
+								"SubType": "dandelion",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_magnifyinggrass": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "magnifyinggrass",
+								"SubType": "magnifyinggrass",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_wintermelon": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "wintermelon",
+								"SubType": "wintermelon",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_applemortar": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "applemortar",
+								"SubType": "applemortar",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_stickybombrice": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "stickybombrice",
+								"SubType": "stickybombrice",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_kiwibeast": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "kiwibeast",
+								"SubType": "kiwibeast",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_banana": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "banana",
+								"SubType": "banana",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_jackolantern": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "jackolantern",
+								"SubType": "jackolantern",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_snappea": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "snappea",
+								"SubType": "snappea",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_caulipower": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "caulipower",
+								"SubType": "caulipower",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_pumpkin": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "pumpkin",
+								"SubType": "pumpkin",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_puffball": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "puffball",
+								"SubType": "puffball",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_explodeonut": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "explodeonut",
+								"SubType": "explodeonut",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_peppermint": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "peppermint",
+								"SubType": "peppermint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_wintermint": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "wintermint",
+								"SubType": "wintermint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_reinforcemint": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "reinforcemint",
+								"SubType": "reinforcemint",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_thymewarp": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "thymewarp",
+								"SubType": "thymewarp",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							}
+						]
+					},
+					"half_weekly_shop_powerlily": {
+						"PlantXP": [
+							{
+								"Max": 1,
+								"Min": 1,
+								"PlantType": "powerlily",
+								"SubType": "powerlily",
+								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 1
 							}

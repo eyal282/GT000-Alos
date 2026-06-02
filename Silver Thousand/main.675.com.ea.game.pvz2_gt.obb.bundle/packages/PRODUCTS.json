@@ -2024,6 +2024,2626 @@
 				"PriceMints": "0",
 				"Sku": "com.popcap.pvz2.event_gems_3"
 			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_sunflower"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_sunflower",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_sunflower"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_peashooter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_peashooter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_peashooter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_cabbagepult"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_cabbagepult",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_cabbagepult"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_bloominghearts"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_bloominghearts",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_bloominghearts"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_lightningreed"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_lightningreed",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_lightningreed"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_electriccurrant"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_electriccurrant",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_electriccurrant"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_phatbeet"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_phatbeet",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_phatbeet"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_puffshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_puffshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_puffshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_sapfling"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_sapfling",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_sapfling"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_iceburg"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_iceburg",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_iceburg"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_springbean"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_springbean",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_springbean"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_wallnut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_wallnut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_wallnut"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_spikeweed"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_spikeweed",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_spikeweed"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_gravebuster"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_gravebuster",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_gravebuster"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_hotpotato"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_hotpotato",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_hotpotato"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_lilypad"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_lilypad",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_lilypad"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_primalsunflower"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_primalsunflower",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_primalsunflower"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_sunbean"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_sunbean",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_sunbean"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_repeater"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_repeater",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_repeater"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_splitpea"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_splitpea",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_splitpea"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_snowpea"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_snowpea",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_snowpea"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_shadowpeashooter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_shadowpeashooter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_shadowpeashooter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_bloomerang"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_bloomerang",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_bloomerang"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_kernelpult"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_kernelpult",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_kernelpult"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_sporeshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_sporeshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_sporeshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_pepperpult"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_pepperpult",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_pepperpult"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_fumeshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_fumeshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_fumeshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_guacodile"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_guacodile",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_guacodile"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_bonkchoy"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_bonkchoy",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_bonkchoy"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_shadowshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_shadowshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_shadowshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_potatomine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_potatomine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_potatomine"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_tanglekelp"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_tanglekelp",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_tanglekelp"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_chilibean"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_chilibean",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_chilibean"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_stunion"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_stunion",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_stunion"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_murkadamia"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_murkadamia",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_murkadamia"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_primalwallnut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_primalwallnut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_primalwallnut"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_spikerock"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_spikerock",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_spikerock"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_aloe"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_aloe",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_aloe"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_ghostpepper"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_ghostpepper",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_ghostpepper"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_jalapeno"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_jalapeno",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_jalapeno"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_pyrevine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_pyrevine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_pyrevine"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_electricblueberry"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_electricblueberry",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_electricblueberry"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_sunshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_sunshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_sunshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_twinsunflower"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_twinsunflower",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_twinsunflower"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_moonflower"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_moonflower",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_moonflower"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_threepeater"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_threepeater",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_threepeater"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_primalpeashooter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_primalpeashooter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_primalpeashooter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_poisonpeashooter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_poisonpeashooter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_poisonpeashooter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_electricpeashooter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_electricpeashooter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_electricpeashooter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_redstinger"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_redstinger",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_redstinger"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_homingthistle"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_homingthistle",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_homingthistle"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_bowlingbulb"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_bowlingbulb",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_bowlingbulb"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_starfruit"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_starfruit",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_starfruit"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_akee"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_akee",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_akee"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_dusklobber"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_dusklobber",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_dusklobber"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_snapdragon"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_snapdragon",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_snapdragon"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_coldsnapdragon"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_coldsnapdragon",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_coldsnapdragon"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_blastberry"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_blastberry",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_blastberry"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_wasabiwhip"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_wasabiwhip",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_wasabiwhip"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_parsnip"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_parsnip",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_parsnip"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_nightshade"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_nightshade",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_nightshade"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_headbutter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_headbutter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_headbutter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_strawburst"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_strawburst",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_strawburst"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_chomper"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_chomper",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_chomper"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_squash"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_squash",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_squash"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_lavaguava"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_lavaguava",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_lavaguava"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_cherry_bomb"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_cherry_bomb",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_cherry_bomb"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_hypnoshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_hypnoshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_hypnoshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_icebloom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_icebloom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_icebloom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_stallia"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_stallia",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_stallia"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_hurrikale"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_hurrikale",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_hurrikale"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_escaperoot"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_escaperoot",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_escaperoot"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_boingsetta"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_boingsetta",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_boingsetta"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_tallnut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_tallnut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_tallnut"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_holonut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_holonut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_holonut"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_sweetpotato"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_sweetpotato",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_sweetpotato"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_garlic"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_garlic",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_garlic"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_intensivecarrot"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_intensivecarrot",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_intensivecarrot"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_witchhazel"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_witchhazel",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 12,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_witchhazel"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_goldleaf"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_goldleaf",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_goldleaf"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_enlightenmint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_enlightenmint",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_enlightenmint"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_slingpea"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_slingpea",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_slingpea"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_firepeashooter"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_firepeashooter",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_firepeashooter"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_peanut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_peanut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_peanut"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_dazeychain"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_dazeychain",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_dazeychain"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_citron"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_citron",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_citron"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_xshot"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_xshot",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_xshot"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_coconutcannon"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_coconutcannon",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_coconutcannon"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_melonpult"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_melonpult",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_melonpult"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_laser_bean"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_laser_bean",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_laser_bean"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_pokra"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_pokra",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_pokra"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_toadstool"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_toadstool",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_toadstool"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_celerystalker"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_celerystalker",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_celerystalker"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_gloomvine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_gloomvine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_gloomvine"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_missiletoe"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_missiletoe",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_missiletoe"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_primalpotatomine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_primalpotatomine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_primalpotatomine"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_shrinkingviolet"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_shrinkingviolet",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_shrinkingviolet"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_grapeshot"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_grapeshot",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_grapeshot"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_bombegranate"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_bombegranate",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_bombegranate"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_hotdate"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_hotdate",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_hotdate"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_hollyknight"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_hollyknight",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_hollyknight"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_chardguard"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_chardguard",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_chardguard"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_endurian"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_endurian",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_endurian"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_spearmint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_spearmint",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_spearmint"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_zoybeanpod"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_zoybeanpod",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_zoybeanpod"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_magnetshroom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_magnetshroom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_magnetshroom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_torchwood"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_torchwood",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_torchwood"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_noctarine"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_noctarine",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 9,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_noctarine"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_goldbloom"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_goldbloom",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_goldbloom"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_solartomato"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_solartomato",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_solartomato"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_peapod"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_peapod",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_peapod"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_ultomato"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_ultomato",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_ultomato"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_cactus"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_cactus",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_cactus"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_dandelion"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_dandelion",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_dandelion"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_magnifyinggrass"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_magnifyinggrass",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_magnifyinggrass"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_wintermelon"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_wintermelon",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_wintermelon"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_applemortar"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_applemortar",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_applemortar"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_stickybombrice"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_stickybombrice",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_stickybombrice"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_kiwibeast"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_kiwibeast",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_kiwibeast"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_banana"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_banana",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_banana"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_jackolantern"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_jackolantern",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_jackolantern"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_snappea"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_snappea",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_snappea"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_caulipower"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_caulipower",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_caulipower"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_pumpkin"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_pumpkin",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_pumpkin"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_puffball"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_puffball",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_puffball"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_explodeonut"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_explodeonut",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_explodeonut"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_peppermint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_peppermint",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_peppermint"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_wintermint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_wintermint",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_wintermint"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_reinforcemint"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_reinforcemint",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_reinforcemint"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_thymewarp"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_thymewarp",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_thymewarp"
+			}
+		},
+		{
+			"aliases": [
+				"half_weekly_shop_powerlily"
+			],
+			"objclass": "StoreProductProps",
+			"objdata": {
+				"IsAdPlacement": false,
+				"IsFree": false,
+				"LawnShortDescription": "PRODUCT_HALF_WEEKLY_SHOP_OFFER",
+				"Name": "",
+				"ObjectCount": 1,
+				"ObjectItem": "half_weekly_shop_powerlily",
+				"ObjectType": "pinata",
+				"Price": 0,
+				"PriceCoins": 0,
+				"PriceGems": 8,
+				"PriceMints": 0,
+				"Sku": "half_weekly_shop_powerlily"
+			}
 		}
 	],
 	"version": 1

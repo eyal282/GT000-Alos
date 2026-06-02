@@ -16,49 +16,49 @@
 					{
 						"Award": "coins",
 						"AwardParam": "",
+						"AwardQuantity": 800,
+						"Category": "Fallback",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1500,
+						"Category": "Fallback",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
 						"AwardQuantity": 2500,
-						"Category": "Fallback",
-						"Probability": 128
-					},
-					{
-						"Award": "coins",
-						"AwardParam": "",
-						"AwardQuantity": 4000,
-						"Category": "Fallback",
-						"Probability": 128
-					},
-					{
-						"Award": "coins",
-						"AwardParam": "",
-						"AwardQuantity": 8000,
 						"Category": "Fallback",
 						"Probability": 80
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 16000,
+						"AwardQuantity": 5500,
 						"Category": "Fallback",
 						"Probability": 8
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 25000,
+						"AwardQuantity": 8000,
 						"Category": "Fallback",
 						"Probability": 6
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 60000,
+						"AwardQuantity": 20000,
 						"Category": "Fallback",
 						"Probability": 4
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 100000,
+						"AwardQuantity": 30000,
 						"Category": "Fallback",
 						"Probability": 2
 					},
@@ -79,56 +79,56 @@
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 15,
+						"AwardQuantity": 5,
 						"Category": "Fallback",
 						"Probability": 200
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 30,
+						"AwardQuantity": 10,
 						"Category": "Fallback",
 						"Probability": 160
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 60,
+						"AwardQuantity": 20,
 						"Category": "Fallback",
 						"Probability": 50
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 100,
+						"AwardQuantity": 40,
 						"Category": "Fallback",
 						"Probability": 24
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 200,
+						"AwardQuantity": 60,
 						"Category": "Fallback",
 						"Probability": 12
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 400,
+						"AwardQuantity": 130,
 						"Category": "Fallback",
 						"Probability": 6
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 800,
+						"AwardQuantity": 260,
 						"Category": "Fallback",
 						"Probability": 4
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 1600,
+						"AwardQuantity": 500,
 						"Category": "Fallback",
 						"Probability": 2
 					},
@@ -230,52 +230,52 @@
 						"Category": "Fallback",
 						"Probability": 30
 					},
-									{
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 800,
+						"Category": "Valuable",
+						"Probability": 128
+					},
+					{
+						"Award": "coins",
+						"AwardParam": "",
+						"AwardQuantity": 1500,
+						"Category": "Valuable",
+						"Probability": 128
+					},
+					{
 						"Award": "coins",
 						"AwardParam": "",
 						"AwardQuantity": 2500,
-						"Category": "Valuable",
-						"Probability": 128
-					},
-					{
-						"Award": "coins",
-						"AwardParam": "",
-						"AwardQuantity": 4000,
-						"Category": "Valuable",
-						"Probability": 128
-					},
-					{
-						"Award": "coins",
-						"AwardParam": "",
-						"AwardQuantity": 8000,
 						"Category": "Valuable",
 						"Probability": 80
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 16000,
+						"AwardQuantity": 5500,
 						"Category": "Valuable",
 						"Probability": 8
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 25000,
+						"AwardQuantity": 8000,
 						"Category": "Valuable",
 						"Probability": 6
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 60000,
+						"AwardQuantity": 20000,
 						"Category": "Valuable",
 						"Probability": 4
 					},
 					{
 						"Award": "coins",
 						"AwardParam": "",
-						"AwardQuantity": 100000,
+						"AwardQuantity": 30000,
 						"Category": "Valuable",
 						"Probability": 2
 					},
@@ -296,56 +296,56 @@
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 15,
+						"AwardQuantity": 5,
 						"Category": "Valuable",
 						"Probability": 200
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 30,
+						"AwardQuantity": 10,
 						"Category": "Valuable",
 						"Probability": 160
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 60,
+						"AwardQuantity": 20,
 						"Category": "Valuable",
 						"Probability": 50
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 100,
+						"AwardQuantity": 40,
 						"Category": "Valuable",
 						"Probability": 24
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 200,
+						"AwardQuantity": 60,
 						"Category": "Valuable",
 						"Probability": 12
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 400,
+						"AwardQuantity": 130,
 						"Category": "Valuable",
 						"Probability": 6
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 800,
+						"AwardQuantity": 260,
 						"Category": "Valuable",
 						"Probability": 4
 					},
 					{
 						"Award": "gems",
 						"AwardParam": "",
-						"AwardQuantity": 1600,
+						"AwardQuantity": 500,
 						"Category": "Valuable",
 						"Probability": 2
 					},
