@@ -1217,6 +1217,88 @@
 					{
 						"EpicQuestData": {
 							"Slot": "Epic",
+							"QuestCategory": "Epic",
+							"OverrideQuestTheme": "Default",
+							"UniqueID": "EVENT_BEGINNER",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"UniqueIDList": [
+								"EVENT_BEGINNER_STEP_1",
+								"EVENT_BEGINNER_STEP_2",
+								"EVENT_BEGINNER_STEP_3",
+								"EVENT_BEGINNER_STEP_4",
+								"EVENT_BEGINNER_STEP_5"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "pinata",
+										"SubType": "tier5_dup",
+										"Amount": 1
+									}
+								]
+							},
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EVENT_BEGINNER_STEP_1",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"LevelName": "event/event_beginner_level1",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EVENT_BEGINNER_STEP_2",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"LevelName": "event/event_beginner_level2",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EVENT_BEGINNER_STEP_3",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"LevelName": "event/event_beginner_level3",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EVENT_BEGINNER_STEP_4",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"LevelName": "event/event_beginner_level4",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"ChallengeLevelQuestData": {
+							"Slot": "Unused",
+							"QuestCategory": "Unused",
+							"UniqueID": "EVENT_BEGINNER_STEP_5",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"LevelName": "event/event_beginner_level5",
+							"Priority": "Primary"
+						}
+					},
+					{
+						"EpicQuestData": {
+							"Slot": "Epic",
 							"QuestCategory": "Special",
 							"OverrideQuestTheme": "Default",
 							"UniqueID": "EVENT01_REVISIT",

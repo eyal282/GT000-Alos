@@ -1,0 +1,208 @@
+{
+	"#comment": "Event Beginner lv4 Quest",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Welcome to GT000 Alos!",
+				"FirstRewardParam": "moneybag_100",
+				"StartingSun": 1000,
+				"LevelNumber": 1,
+				"DisablePlantBoosts": true,
+				"ResourceGroupNames": [
+					"DelayLoad_Background_Beach",
+					"DelayLoad_Background_Beach_Compressed"
+				],
+				"Loot": "RTID(DefaultLoot@LevelModules)",
+				"Modules": [
+					"RTID(StandardIntro@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(FutureMowers@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(Escalation@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(PowerTiles@CurrentLevel)"
+				],
+				"Name": "Welcome to GT000 Alos - Level 4",
+				"StageModule": "RTID(FutureStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"PowerTiles"
+			],
+			"objclass": "PowerTileProperties",
+			"objdata": {
+				"LinkedTiles": [
+					{
+						"Group": "beta",
+						"Location": {
+							"mX": 0,
+							"mY": 0
+						},
+						"PropagationDelay": 1
+					},
+					{
+						"Group": "beta",
+						"Location": {
+							"mX": 0,
+							"mY": 1
+						},
+						"PropagationDelay": 1
+					},
+					{
+						"Group": "beta",
+						"Location": {
+							"mX": 1,
+							"mY": 2
+						},
+						"PropagationDelay": 1
+					},
+					{
+						"Group": "beta",
+						"Location": {
+							"mX": 2,
+							"mY": 3
+						},
+						"PropagationDelay": 1
+					},
+					{
+						"Group": "beta",
+						"Location": {
+							"mX": 1,
+							"mY": 4
+						},
+						"PropagationDelay": 1
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 3,
+				"PlantfoodToSpawnCount": 10,
+				"StartingPoints": 10,
+				"PointIncrementPerWave": 30,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"WavesPerFlag": 7,
+				"ZombiePool": [
+					"RTID(future@ZombieTypes)",
+					"RTID(disco_mech@ZombieTypes)",
+					"RTID(football_mech@ZombieTypes)",
+					"RTID(dark_wizard@ZombieTypes)",
+					"RTID(roman_ballista@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PresetPlantList": [
+					{
+						"PlantType": "goldleaf",
+						"Level": 9
+					},
+					{
+						"PlantType": "toadstool",
+						"Level": 9
+					},
+					{
+						"PlantType": "slingpea",
+						"Level": 9
+					},
+					{
+						"PlantType": "peanut",
+						"Level": 9
+					},
+					{
+						"PlantType": "shrinkingviolet",
+						"Level": 9
+					},
+					{
+						"PlantType": "spearmint",
+						"Level": 9
+					}
+				],
+				"SelectionMethod": "preset"
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 3,
+				"WavesPerFlag": 7,
+				"PlantfoodToSpawnCount": 10,
+				"StartingPoints": 10,
+				"PointIncrementPerWave": 30,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"ZombiePool": [
+					"RTID(future@ZombieTypes)",
+					"RTID(disco_mech@ZombieTypes)",
+					"RTID(football_mech@ZombieTypes)",
+					"RTID(dark_wizard@ZombieTypes)",
+					"RTID(roman_ballista@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"NewWaves"
+			],
+			"objclass": "WaveManagerModuleProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"WaveManager"
+			],
+			"objclass": "WaveManagerProperties",
+			"objdata": {
+				"### ZombieCountdownHugeWaveDelay": 0,
+				"WaveSpendingPointIncrement": 0,
+				"WaveSpendingPoints": 0,
+				"Waves": [
+					[
+						"RTID(PF@CurrentLevel)"
+					]
+				]
+			}
+		},
+		{
+			"aliases": [
+				"PF"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"AdditionalPlantfood": 1,
+				"Zombies": [
+					{
+						"Row": "3",
+						"Type": "RTID(future@ZombieTypes)"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Blank"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"Zombies": []
+			}
+		}
+	],
+	"version": 1
+}

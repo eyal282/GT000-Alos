@@ -1,0 +1,159 @@
+{
+	"#comment": "Event Beginner lv1 Quest",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Welcome to GT000 Alos!",
+				"FirstRewardParam": "moneybag_100",
+				"StartingSun": 300,
+				"LevelNumber": 1,
+				"DisablePlantBoosts": true,
+				"ResourceGroupNames": [
+					"DelayLoad_Background_Beach",
+					"DelayLoad_Background_Beach_Compressed"
+				],
+				"Loot": "RTID(DefaultLoot@LevelModules)",
+				"Modules": [
+					"RTID(StandardIntro@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(PirateMowers@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(Escalation@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(PiratePlanks@CurrentLevel)"
+				],
+				"Name": "Welcome to GT000 Alos - Level 1",
+				"StageModule": "RTID(PirateStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"PiratePlanks"
+			],
+			"objclass": "PiratePlankProperties",
+			"objdata": {
+				"PlankRows": [
+					0,
+					1,
+					3,
+					4
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 2,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 10,
+				"PointIncrementPerWave": 15,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"WavesPerFlag": 8,
+				"ZombiePool": [
+					"RTID(cannon@ZombieTypes)",
+					"RTID(swashbuckler@ZombieTypes)",
+					"RTID(pirate@ZombieTypes)",
+					"RTID(pirate_armor2@ZombieTypes)",
+					"RTID(barrelroller@ZombieTypes)",
+					"RTID(beach_octopus@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PresetPlantList": [
+					{
+						"PlantType": "sunflower",
+						"Level": 9
+					},
+					{
+						"PlantType": "peashooter",
+						"Level": 9
+					},
+					{
+						"PlantType": "springbean",
+						"Level": 9
+					},
+					{
+						"PlantType": "electriccurrant",
+						"Level": 9
+					},
+					{
+						"PlantType": "iceburg",
+						"Level": 9
+					},
+					{
+						"PlantType": "wallnut",
+						"Level": 9
+					}
+				],
+				"SelectionMethod": "preset"
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 2,
+				"WavesPerFlag": 8,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 10,
+				"PointIncrementPerWave": 15,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"ZombiePool": [
+					"RTID(cannon@ZombieTypes)",
+					"RTID(swashbuckler@ZombieTypes)",
+					"RTID(pirate@ZombieTypes)",
+					"RTID(pirate_armor2@ZombieTypes)",
+					"RTID(barrelroller@ZombieTypes)",
+					"RTID(beach_octopus@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"NewWaves"
+			],
+			"objclass": "WaveManagerModuleProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"WaveManager"
+			],
+			"objclass": "WaveManagerProperties",
+			"objdata": {
+				"### ZombieCountdownHugeWaveDelay": 0,
+				"WaveSpendingPointIncrement": 0,
+				"WaveSpendingPoints": 0,
+				"Waves": [
+					[
+						"RTID(Blank@CurrentLevel)"
+					]
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Blank"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"Zombies": []
+			}
+		}
+	],
+	"version": 1
+}

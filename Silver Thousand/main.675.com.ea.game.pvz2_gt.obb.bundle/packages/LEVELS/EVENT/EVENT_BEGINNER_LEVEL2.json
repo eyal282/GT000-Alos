@@ -1,0 +1,183 @@
+{
+	"#comment": "Event Beginner lv2 Quest",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Welcome to GT000 Alos!",
+				"FirstRewardParam": "moneybag_100",
+				"StartingSun": 300,
+				"LevelNumber": 1,
+				"DisablePlantBoosts": true,
+				"ResourceGroupNames": [
+					"DelayLoad_Background_Beach",
+					"DelayLoad_Background_Beach_Compressed"
+				],
+				"Loot": "RTID(DefaultLoot@LevelModules)",
+				"Modules": [
+					"RTID(StandardIntro@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(DarkMowers@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(Escalation@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(GI@CurrentLevel)"
+				],
+				"Name": "Welcome to GT000 Alos - Level 2",
+				"StageModule": "RTID(DarkStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"GI"
+			],
+			"objclass": "InitialGridItemProperties",
+			"objdata": {
+				"InitialGridItemPlacements": [
+					{
+						"GridX": 3,
+						"GridY": 2,
+						"TypeName": "gravestone_dark"
+					},
+					{
+						"GridX": 4,
+						"GridY": 2,
+						"TypeName": "gravestone_dark"
+					},
+					{
+						"GridX": 5,
+						"GridY": 2,
+						"TypeName": "gravestone_dark"
+					},
+					{
+						"GridX": 6,
+						"GridY": 2,
+						"TypeName": "gravestone_dark"
+					},
+					{
+						"GridX": 7,
+						"GridY": 2,
+						"TypeName": "gravestone_dark"
+					},
+					{
+						"GridX": 8,
+						"GridY": 2,
+						"TypeName": "gravestone_dark"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 2,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 10,
+				"PointIncrementPerWave": 20,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"WavesPerFlag": 10,
+				"ZombiePool": [
+					"RTID(dark@ZombieTypes)",
+					"RTID(dark_armor1@ZombieTypes)",
+					"RTID(dark_king@ZombieTypes)",
+					"RTID(tomb_raiser@ZombieTypes)",
+					"RTID(dark_juggler@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PresetPlantList": [
+					{
+						"PlantType": "primalsunflower",
+						"Level": 9
+					},
+					{
+						"PlantType": "jalapeno",
+						"Level": 9
+					},
+					{
+						"PlantType": "bonkchoy",
+						"Level": 9
+					},
+					{
+						"PlantType": "snowpea",
+						"Level": 9
+					},
+					{
+						"PlantType": "shadowpeashooter",
+						"Level": 9
+					},
+					{
+						"PlantType": "chilibean",
+						"Level": 9
+					}
+				],
+				"SelectionMethod": "preset"
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 2,
+				"WavesPerFlag": 10,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 10,
+				"PointIncrementPerWave": 20,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"ZombiePool": [
+					"RTID(dark@ZombieTypes)",
+					"RTID(dark_armor1@ZombieTypes)",
+					"RTID(dark_king@ZombieTypes)",
+					"RTID(tomb_raiser@ZombieTypes)",
+					"RTID(dark_juggler@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"NewWaves"
+			],
+			"objclass": "WaveManagerModuleProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"WaveManager"
+			],
+			"objclass": "WaveManagerProperties",
+			"objdata": {
+				"### ZombieCountdownHugeWaveDelay": 0,
+				"WaveSpendingPointIncrement": 0,
+				"WaveSpendingPoints": 0,
+				"Waves": [
+					[
+						"RTID(Blank@CurrentLevel)"
+					]
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Blank"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"Zombies": []
+			}
+		}
+	],
+	"version": 1
+}

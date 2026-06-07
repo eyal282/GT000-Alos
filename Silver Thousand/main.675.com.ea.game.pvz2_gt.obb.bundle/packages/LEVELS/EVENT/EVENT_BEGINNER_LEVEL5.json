@@ -1,0 +1,176 @@
+{
+	"#comment": "Event Beginner lv5 Quest",
+	"objects": [
+		{
+			"objclass": "LevelDefinition",
+			"objdata": {
+				"Description": "Welcome to GT000 Alos!",
+				"FirstRewardParam": "moneybag_100",
+				"StartingSun": 2000,
+				"LevelNumber": 1,
+				"DisablePlantBoosts": true,
+				"ResourceGroupNames": [
+					"DelayLoad_Background_Beach",
+					"DelayLoad_Background_Beach_Compressed"
+				],
+				"Loot": "RTID(DefaultLoot@LevelModules)",
+				"Modules": [
+					"RTID(StandardIntro@LevelModules)",
+					"RTID(DefaultSunDropper@LevelModules)",
+					"RTID(DefaultSunDropper2@.)",
+					"RTID(DefaultZombieWinCondition@LevelModules)",
+					"RTID(ZombiesDeadWinCon@LevelModules)",
+					"RTID(RomanMowers@LevelModules)",
+					"RTID(SeedBank@CurrentLevel)",
+					"RTID(Escalation@CurrentLevel)",
+					"RTID(NewWaves@CurrentLevel)",
+					"RTID(Tide@CurrentLevel)"
+				],
+				"Name": "Welcome to GT000 Alos - Level 5",
+				"StageModule": "RTID(RomanStage@LevelModules)"
+			}
+		},
+		{
+			"objclass": "SunDropperProperties",
+			"aliases": [
+				"DefaultSunDropper2"
+			],
+			"objdata": {
+				"InitialSunDropDelay": 2,
+				"SunCountdownBase": 4,
+				"SunCountdownRange": 0,
+				"SunCountdownIncreasePerSun": 0.200000,
+				"SunCountdownMax": 8
+			}
+		},
+		{
+			"aliases": [
+				"Tide"
+			],
+			"objclass": "TideProperties",
+			"objdata": {
+				"StartingWaveLocation": 5
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 4,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 50,
+				"PointIncrementPerWave": 40,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"WavesPerFlag": 6,
+				"ZombiePool": [
+					"RTID(roman_imp@ZombieTypes)",
+					"RTID(roman_armor1@ZombieTypes)",
+					"RTID(roman_armor3@ZombieTypes)",
+					"RTID(roman_medusa@ZombieTypes)",
+					"RTID(west_bull@ZombieTypes)",
+					"RTID(beach_surfer@ZombieTypes)",
+					"RTID(beach_snorkel@ZombieTypes)",
+					"RTID(roman_gargantuar@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"SeedBank"
+			],
+			"objclass": "SeedBankProperties",
+			"objdata": {
+				"PresetPlantList": [
+					{
+						"PlantType": "solartomato",
+						"Level": 14
+					},
+					{
+						"PlantType": "goldbloom",
+						"Level": 14
+					},
+					{
+						"PlantType": "powerlily",
+						"Level": 14
+					},
+					{
+						"PlantType": "peppermint",
+						"Level": 14
+					},
+					{
+						"PlantType": "peapod",
+						"Level": 14
+					},
+					{
+						"PlantType": "dandelion",
+						"Level": 14
+					},
+					{
+						"PlantType": "pumpkin",
+						"Level": 14
+					}
+				],
+				"SelectionMethod": "preset"
+			}
+		},
+		{
+			"aliases": [
+				"Escalation"
+			],
+			"objclass": "LevelEscalationModuleProperties",
+			"objdata": {
+				"FlagCount": 4,
+				"WavesPerFlag": 6,
+				"PlantfoodToSpawnCount": 0,
+				"StartingPoints": 50,
+				"PointIncrementPerWave": 40,
+				"WaveManagerProps": "RTID(WaveManager@CurrentLevel)",
+				"ZombiePool": [
+					"RTID(roman_imp@ZombieTypes)",
+					"RTID(roman_armor1@ZombieTypes)",
+					"RTID(roman_armor3@ZombieTypes)",
+					"RTID(roman_medusa@ZombieTypes)",
+					"RTID(west_bull@ZombieTypes)",
+					"RTID(beach_surfer@ZombieTypes)",
+					"RTID(beach_snorkel@ZombieTypes)",
+					"RTID(roman_gargantuar@ZombieTypes)"
+				]
+			}
+		},
+		{
+			"aliases": [
+				"NewWaves"
+			],
+			"objclass": "WaveManagerModuleProperties",
+			"objdata": {}
+		},
+		{
+			"aliases": [
+				"WaveManager"
+			],
+			"objclass": "WaveManagerProperties",
+			"objdata": {
+				"### ZombieCountdownHugeWaveDelay": 0,
+				"WaveSpendingPointIncrement": 0,
+				"WaveSpendingPoints": 0,
+				"Waves": [
+					[
+						"RTID(Blank@CurrentLevel)"
+					]
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Blank"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"Zombies": []
+			}
+		}
+	],
+	"version": 1
+}
