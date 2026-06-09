@@ -1,12 +1,12 @@
 {
-	"#comment": "Event Beginner lv5 Quest",
+	"#comment": "Event Beginner lv5 Quest. This level demonstrates to modders how to give 2x more sun",
 	"objects": [
 		{
 			"objclass": "LevelDefinition",
 			"objdata": {
 				"Description": "Welcome to GT000 Alos!",
 				"FirstRewardParam": "moneybag_100",
-				"StartingSun": 2000,
+				"StartingSun": 1200,
 				"LevelNumber": 1,
 				"DisablePlantBoosts": true,
 				"ResourceGroupNames": [
@@ -16,31 +16,47 @@
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [
 					"RTID(StandardIntro@LevelModules)",
-					"RTID(DefaultSunDropper@LevelModules)",
-					"RTID(DefaultSunDropper2@.)",
+					"RTID(SunDropper@CurrentLevel)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(RomanMowers@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
-					"RTID(Tide@CurrentLevel)"
+					"RTID(Tide@CurrentLevel)",
+					"RTID(IPP@CurrentLevel)"
 				],
 				"Name": "Welcome to GT000 Alos - Level 5",
 				"StageModule": "RTID(RomanStage@LevelModules)"
 			}
 		},
 		{
+			"aliases": [
+				"IPP"
+			],
+			"objclass": "InitialPlantProperties",
+			"objdata": {
+				"InitialPlantPlacements": [
+					{
+						"GridX": 2,
+						"GridY": 4,
+						"TypeName": "murkadamia",
+						"Level": 9
+					}
+				]
+			}
+		},
+		{
 			"objclass": "SunDropperProperties",
 			"aliases": [
-				"DefaultSunDropper2"
+				"SunDropper"
 			],
 			"objdata": {
 				"InitialSunDropDelay": 2,
-				"SunCountdownBase": 4,
-				"SunCountdownRange": 0,
-				"SunCountdownIncreasePerSun": 0.200000,
-				"SunCountdownMax": 8
+				"SunCountdownBase": 2,
+				"SunCountdownRange": 0.100000,
+				"SunCountdownIncreasePerSun": 0.100000,
+				"SunCountdownMax": 10
 			}
 		},
 		{
@@ -71,8 +87,7 @@
 					"RTID(roman_medusa@ZombieTypes)",
 					"RTID(west_bull@ZombieTypes)",
 					"RTID(beach_surfer@ZombieTypes)",
-					"RTID(beach_snorkel@ZombieTypes)",
-					"RTID(roman_gargantuar@ZombieTypes)"
+					"RTID(beach_snorkel@ZombieTypes)"
 				]
 			}
 		},
@@ -134,8 +149,7 @@
 					"RTID(roman_medusa@ZombieTypes)",
 					"RTID(west_bull@ZombieTypes)",
 					"RTID(beach_surfer@ZombieTypes)",
-					"RTID(beach_snorkel@ZombieTypes)",
-					"RTID(roman_gargantuar@ZombieTypes)"
+					"RTID(beach_snorkel@ZombieTypes)"
 				]
 			}
 		},
@@ -157,18 +171,24 @@
 				"WaveSpendingPoints": 0,
 				"Waves": [
 					[
-						"RTID(Blank@CurrentLevel)"
+						"RTID(Preset1@CurrentLevel)"
 					]
 				]
 			}
 		},
 		{
 			"aliases": [
-				"Blank"
+				"Preset1"
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"AdditionalPlantfood": 1,
+				"Zombies": [
+					{
+						"Row": "5",
+						"Type": "RTID(beach_fisherman@ZombieTypes)"
+					}
+				]
 			}
 		}
 	],

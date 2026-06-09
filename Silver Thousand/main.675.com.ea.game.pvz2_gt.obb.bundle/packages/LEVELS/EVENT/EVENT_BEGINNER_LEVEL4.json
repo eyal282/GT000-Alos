@@ -23,10 +23,26 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
-					"RTID(PowerTiles@CurrentLevel)"
+					"RTID(PowerTiles@CurrentLevel)",
+					"RTID(GI@CurrentLevel)"
 				],
 				"Name": "Welcome to GT000 Alos - Level 4",
 				"StageModule": "RTID(FutureStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"GI"
+			],
+			"objclass": "InitialGridItemProperties",
+			"objdata": {
+				"InitialGridItemPlacements": [
+					{
+						"GridX": 8,
+						"GridY": 2,
+						"TypeName": "goldtile"
+					}
+				]
 			}
 		},
 		{

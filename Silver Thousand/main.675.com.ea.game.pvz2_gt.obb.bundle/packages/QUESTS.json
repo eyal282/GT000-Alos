@@ -1242,6 +1242,39 @@
 						}
 					},
 					{
+						"EpicQuestData": {
+							"Slot": "Epic",
+							"QuestCategory": "Epic",
+							"OverrideQuestTheme": "Default",
+							"Repeatable": true,
+							"UniqueID": "EVENT_BEGINNER_REPEAT",
+							"QuestName": "Welcome to GT000 Alos!",
+							"Description": "Try out these high leveled plants and win a grand kickstarter!",
+							"UniqueIDList": [
+								"EVENT_BEGINNER_STEP_1",
+								"EVENT_BEGINNER_STEP_2",
+								"EVENT_BEGINNER_STEP_3",
+								"EVENT_BEGINNER_STEP_4",
+								"EVENT_BEGINNER_STEP_5"
+							],
+							"CompletionAwards": {
+								"Awards": [
+									{
+										"Type": "pinata",
+										"SubType": "common_single_store",
+										"Amount": 5
+									}
+								]
+							},
+							"Prerequisites": {
+									"QuestUniqueIDs": [
+										"EVENT_BEGINNER"
+									]
+								},
+							"Priority": "Primary"
+						}
+					},
+					{
 						"ChallengeLevelQuestData": {
 							"Slot": "Unused",
 							"QuestCategory": "Unused",

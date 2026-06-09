@@ -23,10 +23,52 @@
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
-					"RTID(GI@CurrentLevel)"
+					"RTID(GI@CurrentLevel)",
+					"RTID(IPP@CurrentLevel)"
+					
 				],
 				"Name": "Welcome to GT000 Alos - Level 3",
 				"StageModule": "RTID(LostCityStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"IPP"
+			],
+			"objclass": "InitialPlantProperties",
+			"objdata": {
+				"InitialPlantPlacements": [
+					{
+						"GridX": 6,
+						"GridY": 1,
+						"TypeName": "squash",
+						"Level": 9
+					},
+					{
+						"GridX": 4,
+						"GridY": 1,
+						"TypeName": "squash",
+						"Level": 9
+					},
+					{
+						"GridX": 1,
+						"GridY": 1,
+						"TypeName": "chomper",
+						"Level": 9
+					},
+					{
+						"GridX": 4,
+						"GridY": 3,
+						"TypeName": "chomper",
+						"Level": 9
+					},
+					{
+						"GridX": 8,
+						"GridY": 4,
+						"TypeName": "bonkchoy",
+						"Level": 9
+					}
+				]
 			}
 		},
 		{
@@ -213,18 +255,60 @@
 				"WaveSpendingPoints": 0,
 				"Waves": [
 					[
-						"RTID(Blank@CurrentLevel)"
+						"RTID(Preset1@CurrentLevel)",
+						"RTID(Preset2@CurrentLevel)",
+						"RTID(Preset3@CurrentLevel)"
 					]
 				]
 			}
 		},
 		{
 			"aliases": [
-				"Blank"
+				"Preset1"
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"AdditionalPlantfood": 0,
+				"Zombies": [
+					{
+						"Row": "2",
+						"Type": "RTID(modern_balloon@ZombieTypes)"
+					}
+				]
+			}
+		},
+		{
+			"aliases": [
+				"Preset2"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"AdditionalPlantfood": 0,
+				"Zombies": [
+					{
+						"Row": "4",
+						"Type": "RTID(modern_balloon@ZombieTypes)"
+					}
+				],
+				"ForcedCondition":
+				{
+					"Condition": "terrified"
+				}
+			}
+		},
+		{
+			"aliases": [
+				"Preset3"
+			],
+			"objclass": "SpawnZombiesJitteredWaveActionProps",
+			"objdata": {
+				"AdditionalPlantfood": 0,
+				"Zombies": [
+					{
+						"Row": "5",
+						"Type": "RTID(future_jetpack@ZombieTypes)"
+					}
+				]
 			}
 		}
 	],

@@ -16,17 +16,34 @@
 				"Loot": "RTID(DefaultLoot@LevelModules)",
 				"Modules": [
 					"RTID(StandardIntro@LevelModules)",
-					"RTID(DefaultSunDropper@LevelModules)",
 					"RTID(DefaultZombieWinCondition@LevelModules)",
 					"RTID(ZombiesDeadWinCon@LevelModules)",
 					"RTID(DarkMowers@LevelModules)",
+					"RTID(MiniSunGraveSpawner@LevelModules)",
 					"RTID(SeedBank@CurrentLevel)",
 					"RTID(Escalation@CurrentLevel)",
 					"RTID(NewWaves@CurrentLevel)",
-					"RTID(GI@CurrentLevel)"
+					"RTID(GI@CurrentLevel)",
+					"RTID(IPP@CurrentLevel)"
 				],
 				"Name": "Welcome to GT000 Alos - Level 2",
 				"StageModule": "RTID(DarkStage@LevelModules)"
+			}
+		},
+		{
+			"aliases": [
+				"IPP"
+			],
+			"objclass": "InitialPlantProperties",
+			"objdata": {
+				"InitialPlantPlacements": [
+					{
+						"GridX": 1,
+						"GridY": 1,
+						"TypeName": "homingthistle",
+						"Level": 9
+					}
+				]
 			}
 		},
 		{
@@ -37,34 +54,104 @@
 			"objdata": {
 				"InitialGridItemPlacements": [
 					{
-						"GridX": 3,
-						"GridY": 2,
-						"TypeName": "gravestone_dark"
+						"GridX": 8,
+						"GridY": 0,
+						"TypeName": "gravestone_minisun"
 					},
 					{
-						"GridX": 4,
-						"GridY": 2,
-						"TypeName": "gravestone_dark"
-					},
-					{
-						"GridX": 5,
-						"GridY": 2,
-						"TypeName": "gravestone_dark"
+						"GridX": 7,
+						"GridY": 0,
+						"TypeName": "gravestone_minisun"
 					},
 					{
 						"GridX": 6,
+						"GridY": 0,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 5,
+						"GridY": 0,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 8,
+						"GridY": 1,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 7,
+						"GridY": 1,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 6,
+						"GridY": 1,
+						"TypeName": "gravestone_minisun"
+					},			
+					{
+						"GridX": 5,
+						"GridY": 1,
+						"TypeName": "gravestone_minisun"
+					},					
+					{
+						"GridX": 8,
 						"GridY": 2,
-						"TypeName": "gravestone_dark"
+						"TypeName": "gravestone_minisun"
 					},
 					{
 						"GridX": 7,
 						"GridY": 2,
-						"TypeName": "gravestone_dark"
+						"TypeName": "gravestone_minisun"
 					},
 					{
-						"GridX": 8,
+						"GridX": 6,
 						"GridY": 2,
-						"TypeName": "gravestone_dark"
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 5,
+						"GridY": 2,
+						"TypeName": "gravestone_minisun"
+					},					
+					{
+						"GridX": 8,
+						"GridY": 3,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 7,
+						"GridY": 3,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 6,
+						"GridY": 3,
+						"TypeName": "gravestone_minisun"
+					},	
+					{
+						"GridX": 5,
+						"GridY": 3,
+						"TypeName": "gravestone_minisun"
+					},					
+					{
+						"GridX": 8,
+						"GridY": 4,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 7,
+						"GridY": 4,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 6,
+						"GridY": 4,
+						"TypeName": "gravestone_minisun"
+					},
+					{
+						"GridX": 5,
+						"GridY": 4,
+						"TypeName": "gravestone_minisun"
 					}
 				]
 			}
@@ -164,18 +251,24 @@
 				"WaveSpendingPoints": 0,
 				"Waves": [
 					[
-						"RTID(Blank@CurrentLevel)"
+						"RTID(Preset1@CurrentLevel)"
 					]
 				]
 			}
 		},
 		{
 			"aliases": [
-				"Blank"
+				"Preset1"
 			],
 			"objclass": "SpawnZombiesJitteredWaveActionProps",
 			"objdata": {
-				"Zombies": []
+				"AdditionalPlantfood": 0,
+				"Zombies": [
+					{
+						"Row": "2",
+						"Type": "RTID(modern_balloon@ZombieTypes)"
+					}
+				]
 			}
 		}
 	],

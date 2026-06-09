@@ -4004,6 +4004,24 @@
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 1
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sungun",
+								"SubType": "sungun",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
 							}
 						]
 					},
@@ -4212,6 +4230,24 @@
 								"Max": 10,
 								"PlantType": "powerlily",
 								"SubType": "powerlily",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 10,
+								"Max": 10,
+								"PlantType": "sungun",
+								"SubType": "sungun",
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 1
@@ -9088,6 +9124,24 @@
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 1
+							},
+							{
+								"Min": 2,
+								"Max": 4,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 2,
+								"Max": 4,
+								"PlantType": "sungun",
+								"SubType": "sungun",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
 							}
 						]
 					},
@@ -9296,6 +9350,24 @@
 								"Max": 5,
 								"PlantType": "powerlily",
 								"SubType": "powerlily",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 5,
+								"Max": 5,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 5,
+								"Max": 5,
+								"PlantType": "sungun",
+								"SubType": "sungun",
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 1
@@ -11216,6 +11288,24 @@
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 3
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 3
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sungun",
+								"SubType": "sungun",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 3
 							}
 						]
 					},
@@ -12396,6 +12486,24 @@
 								"Max": 1,
 								"PlantType": "powerlily",
 								"SubType": "powerlily",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 9
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 9
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sungun",
+								"SubType": "sungun",
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 9
@@ -13582,6 +13690,24 @@
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 14
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 14
+							},
+							{
+								"Min": 1,
+								"Max": 1,
+								"PlantType": "sungun",
+								"SubType": "sungun",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 14
 							}
 						]
 					},
@@ -14762,6 +14888,24 @@
 								"Max": 4,
 								"PlantType": "powerlily",
 								"SubType": "powerlily",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 29
+							},
+							{
+								"Min": 1,
+								"Max": 4,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 29
+							},
+							{
+								"Min": 1,
+								"Max": 4,
+								"PlantType": "sungun",
+								"SubType": "sungun",
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 29
@@ -15948,6 +16092,24 @@
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 29
+							},
+							{
+								"Min": 1,
+								"Max": 8,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 29
+							},
+							{
+								"Min": 1,
+								"Max": 8,
+								"PlantType": "sungun",
+								"SubType": "sungun",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 29
 							}
 						]
 					},
@@ -17128,6 +17290,24 @@
 								"Max": 9,
 								"PlantType": "powerlily",
 								"SubType": "powerlily",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 29
+							},
+							{
+								"Min": 4,
+								"Max": 9,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "",
+								"Type": "PlantXP",
+								"Weight": 29
+							},
+							{
+								"Min": 4,
+								"Max": 9,
+								"PlantType": "sungun",
+								"SubType": "sungun",
 								"Tag": "",
 								"Type": "PlantXP",
 								"Weight": 29
@@ -18406,6 +18586,24 @@
 								"Max": 4,
 								"PlantType": "powerlily",
 								"SubType": "powerlily",
+								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 1,
+								"Max": 4,
+								"PlantType": "sunpod",
+								"SubType": "sunpod",
+								"Tag": "Bonus",
+								"Type": "PlantXP",
+								"Weight": 1
+							},
+							{
+								"Min": 1,
+								"Max": 4,
+								"PlantType": "sungun",
+								"SubType": "sungun",
 								"Tag": "Bonus",
 								"Type": "PlantXP",
 								"Weight": 1
